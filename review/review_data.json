@@ -1,0 +1,3772 @@
+[
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.bifma.desc",
+    "en": "Business and Institutional Furniture Manufacturers Association standards for performance and durability",
+    "es": "Estándares de la Asociación de Fabricantes de Mobiliario Comercial e Institucional para rendimiento y durabilidad",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.carb.desc",
+    "en": "California Air Resources Board compliance for formaldehyde emission standards in composite wood products",
+    "es": "Cumplimiento con la Junta de Recursos del Aire de California para estándares de emisión de formaldehído en productos de madera compuesta",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.ce.desc",
+    "en": "European conformity marking — products meet EU safety, health, and environmental protection requirements",
+    "es": "Marcado de conformidad europea — los productos cumplen con los requisitos de seguridad, salud y protección ambiental de la UE",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.desc",
+    "en": "Our products and processes meet the most demanding international standards for safety, quality, and environmental responsibility.",
+    "es": "Nuestros productos y procesos cumplen con los más exigentes estándares internacionales de seguridad, calidad y responsabilidad ambiental.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.fsc.desc",
+    "en": "Forest Stewardship Council certification for responsible timber sourcing and chain of custody",
+    "es": "Certificación del Forest Stewardship Council para abastecimiento responsable de madera y cadena de custodia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.iso.desc",
+    "en": "Quality Management System certification — verified manufacturing processes and consistent product quality",
+    "es": "Certificación del Sistema de Gestión de Calidad — procesos de fabricación verificados y calidad de producto consistente",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.sgs.desc",
+    "en": "Third-party inspection and testing by SGS — the world's leading testing, inspection and certification company",
+    "es": "Inspección y pruebas por terceros a cargo de SGS — la empresa líder mundial en pruebas, inspección y certificación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.tag",
+    "en": "Credentials",
+    "es": "Credenciales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Certs",
+    "key": "about.certs.title",
+    "en": "Certified for Global Standards",
+    "es": "Certificados para Estándares Globales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Cta",
+    "key": "about.cta.btn1",
+    "en": "Start a Conversation",
+    "es": "Iniciar una Conversación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Cta",
+    "key": "about.cta.btn2",
+    "en": "Our Products",
+    "es": "Nuestros Productos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Cta",
+    "key": "about.cta.desc",
+    "en": "Join 10,000+ projects worldwide. Tell us about your space and let's create something remarkable.",
+    "es": "Únase a más de 10,000 proyectos en todo el mundo. Cuéntenos sobre su espacio y creemos algo extraordinario.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Cta",
+    "key": "about.cta.title",
+    "en": "Partner with Hongye",
+    "es": "Asóciese con Hongye",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.axis.desc",
+    "en": "Italian BACC 5-axis processing centers for complex geometry components with exceptional surface quality",
+    "es": "Centros de procesamiento italianos BACC de 5 ejes para componentes de geometría compleja con calidad superficial excepcional",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.axis.title",
+    "en": "5-Axis Machining",
+    "es": "Mecanizado de 5 Ejes",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.cnc.desc",
+    "en": "Biesse CNC routing centers for precision panel cutting with ±0.1mm accuracy at industrial scale",
+    "es": "Centros de ruteo CNC Biesse para corte de paneles de precisión con exactitud de ±0.1mm a escala industrial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.cnc.title",
+    "en": "CNC Panel Processing",
+    "es": "Procesamiento de Paneles CNC",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.desc",
+    "en": "350,000㎡ of precision manufacturing — equipped with the most advanced woodworking and metalworking technology available.",
+    "es": "350,000㎡ de manufactura de precisión — equipada con la tecnología más avanzada en carpintería y metalistería disponible.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.fiber.desc",
+    "en": "Han's Laser fiber laser cutting systems for precision metalwork — frames, hardware, structural components",
+    "es": "Sistemas de corte láser de fibra Han's Laser para metalistería de precisión — estructuras, herrajes, componentes estructurales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.fiber.title",
+    "en": "Fiber Laser Cutting",
+    "es": "Corte por Láser de Fibra",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.lab.desc",
+    "en": "In-house testing lab for structural integrity, material compliance, and finish durability validation",
+    "es": "Laboratorio interno de pruebas para integridad estructural, cumplimiento de materiales y validación de durabilidad de acabados",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.lab.title",
+    "en": "Quality Lab",
+    "es": "Laboratorio de Calidad",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.laser.desc",
+    "en": "German HOMAG S-500 laser edge banding machines — seamless, durable edges on every panel component",
+    "es": "Máquinas alemanas HOMAG S-500 de canteado láser — bordes uniformes y duraderos en cada componente de panel",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.laser.title",
+    "en": "Laser Edge Banding",
+    "es": "Canteado Láser de Cantos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.paint.desc",
+    "en": "Enclosed water-based paint booths with precision spray systems — low-VOC finishes meeting international standards",
+    "es": "Cabinas cerradas de pintura a base de agua con sistemas de pulverización de precisión — acabados de bajo COV que cumplen estándares internacionales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.paint.title",
+    "en": "Environmental Finishing",
+    "es": "Acabado Ambiental",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.tag",
+    "en": "Manufacturing",
+    "es": "Manufactura",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Factory",
+    "key": "about.factory.title",
+    "en": "World-Class Factory Infrastructure",
+    "es": "Infraestructura de Fábrica de Clase Mundial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.desc",
+    "en": "Specialized subsidiaries covering every commercial furniture vertical — unified under one group for seamless project delivery.",
+    "es": "Subsidiarias especializadas que cubren cada vertical de mobiliario comercial — unificadas bajo un solo grupo para una ejecución de proyectos sin fisuras.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.edu.desc",
+    "en": "Furniture systems for schools, universities, and learning spaces",
+    "es": "Sistemas de mobiliario para escuelas, universidades y espacios de aprendizaje",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.edu.tag",
+    "en": "Education",
+    "es": "Educación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.edu.title",
+    "en": "Hongye Education",
+    "es": "Hongye Education",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.health.desc",
+    "en": "Medical-grade furniture for hospitals, clinics, and care facilities",
+    "es": "Mobiliario de grado médico para hospitales, clínicas e instalaciones de atención",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.health.tag",
+    "en": "Healthcare",
+    "es": "Salud",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.health.title",
+    "en": "Hongye Healthcare",
+    "es": "Hongye Healthcare",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.hotel.desc",
+    "en": "Specialist hotel furniture for 3-5 star hospitality projects worldwide",
+    "es": "Mobiliario hotelero especializado para proyectos de hospitalidad de 3 a 5 estrellas en todo el mundo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.hotel.tag",
+    "en": "Hotel",
+    "es": "Hotel",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.hotel.title",
+    "en": "Hongye Hotel",
+    "es": "Hongye Hotel",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.main.desc",
+    "en": "Main commercial furniture hub — all categories, custom projects, B2B supply chain",
+    "es": "Centro principal de mobiliario comercial — todas las categorías, proyectos personalizados, cadena de suministro B2B",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.main.tag",
+    "en": "Flagship",
+    "es": "Insignia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.main.title",
+    "en": "Hongye Commercial",
+    "es": "Hongye Commercial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.office.desc",
+    "en": "Modern commercial office furniture for corporate and co-working environments",
+    "es": "Mobiliario de oficina comercial moderno para entornos corporativos y de coworking",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.office.tag",
+    "en": "Office",
+    "es": "Oficina",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.office.title",
+    "en": "Hongye Office",
+    "es": "Hongye Office",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.res.desc",
+    "en": "Premium residential furniture for luxury villas and high-end apartments",
+    "es": "Mobiliario residencial premium para villas de lujo y apartamentos de alta gama",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.res.tag",
+    "en": "Residential",
+    "es": "Residencial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.res.title",
+    "en": "Fenmi Casa",
+    "es": "Fenmi Casa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.tag",
+    "en": "Group Network",
+    "es": "Red del Grupo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Group",
+    "key": "about.group.title",
+    "en": "The Hongye Furniture Ecosystem",
+    "es": "El Ecosistema de Hongye Furniture",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Hero",
+    "key": "about.hero.breadcrumb",
+    "en": "About Us",
+    "es": "Nosotros",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Hero",
+    "key": "about.hero.sub",
+    "en": "Four decades of craftsmanship, innovation, and global reach — building spaces that inspire.",
+    "es": "Cuatro décadas de artesanía, innovación y alcance global — creando espacios que inspiran.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Hero",
+    "key": "about.hero.title",
+    "en": "About Hongye Furniture Group",
+    "es": "Acerca de Hongye Furniture Group",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.p1",
+    "en": "Hongye Furniture Group Co., Ltd. was founded in 1984 with a single vision: to manufacture commercial furniture of the highest quality, delivered directly to clients without compromise. What began as a regional manufacturer has grown into a global commercial furniture powerhouse.",
+    "es": "Hongye Furniture Group Co., Ltd. fue fundada en 1984 con una sola visión: fabricar mobiliario comercial de la más alta calidad, entregado directamente a los clientes sin concesiones. Lo que comenzó como un fabricante regional se ha convertido en una potencia global de mobiliario comercial.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.p2",
+    "en": "Today, we operate from a 350,000㎡ state-of-the-art facility in China, serving over 50 countries across 5 continents. Our 2,000+ skilled craftspeople and engineers work daily to translate client visions into spaces that endure.",
+    "es": "Hoy operamos desde una instalación de 350,000㎡ de última generación en China, atendiendo a más de 50 países en 5 continentes. Nuestros más de 2,000 artesanos e ingenieros trabajan diariamente para traducir las visiones de los clientes en espacios que perduran.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.p3",
+    "en": "We serve hotels, office developments, healthcare facilities, educational institutions, and luxury residential projects — always with factory-direct pricing and uncompromised quality.",
+    "es": "Atendemos hoteles, desarrollos de oficinas, instalaciones de salud, instituciones educativas y proyectos residenciales de lujo — siempre con precios directos de fábrica y calidad sin compromisos.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.stat1.label",
+    "en": "Founded",
+    "es": "Fundada",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.stat1.num",
+    "en": "1984",
+    "es": "1984",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.stat2.label",
+    "en": "Countries Served",
+    "es": "Países Atendidos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.stat2.num",
+    "en": "50+",
+    "es": "50+",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.stat3.label",
+    "en": "Projects Delivered",
+    "es": "Proyectos Entregados",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.stat3.num",
+    "en": "10,000+",
+    "es": "10,000+",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.tag",
+    "en": "Our Story",
+    "es": "Nuestra Historia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Story",
+    "key": "about.story.title",
+    "en": "Building the World's Commercial Spaces Since 1984",
+    "es": "Construyendo Espacios Comerciales en Todo el Mundo Desde 1984",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t1984.desc",
+    "en": "Hongye Furniture established in Guangdong, China with 12 employees and a 2,000㎡ workshop",
+    "es": "Hongye Furniture establecida en Guangdong, China con 12 empleados y un taller de 2,000㎡",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t1984.title",
+    "en": "Foundation",
+    "es": "Fundación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t1995.desc",
+    "en": "Dedicated hotel furniture division created; first 5-star hotel project delivered in Beijing",
+    "es": "Creada la división dedicada de mobiliario hotelero; primer proyecto de hotel 5 estrellas entregado en Beijing",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t1995.title",
+    "en": "Hotel Division Launch",
+    "es": "Lanzamiento de División Hotelera",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2003.desc",
+    "en": "First international export to Southeast Asia; ISO 9001 certification obtained",
+    "es": "Primera exportación internacional al Sudeste Asiático; obtenida la certificación ISO 9001",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2003.title",
+    "en": "Export Expansion",
+    "es": "Expansión de Exportaciones",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2010.desc",
+    "en": "350,000㎡ purpose-built manufacturing campus opened; capacity expanded 10x",
+    "es": "Inaugurado campus de manufactura de 350,000㎡ construido específicamente; capacidad ampliada 10 veces",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2010.title",
+    "en": "New Factory Campus",
+    "es": "Nuevo Campus de Fábrica",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2015.desc",
+    "en": "World-class showroom and design center opened — the largest commercial furniture showroom in the region",
+    "es": "Inaugurado showroom y centro de diseño de clase mundial — el showroom de mobiliario comercial más grande de la región",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2015.title",
+    "en": "40,000㎡ Showroom",
+    "es": "Showroom de 40,000㎡",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2020.desc",
+    "en": "Virtual 3D showroom, parametric design tools, and digital project management launched",
+    "es": "Lanzado showroom virtual 3D, herramientas de diseño paramétrico y gestión digital de proyectos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2020.title",
+    "en": "Digital Transformation",
+    "es": "Transformación Digital",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2024.desc",
+    "en": "10,000+ completed projects across 50+ countries; 2,000+ employees; Group subsidiary network established",
+    "es": "Más de 10,000 proyectos completados en más de 50 países; más de 2,000 empleados; establecida la red de subsidiarias del Grupo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.t2024.title",
+    "en": "40th Anniversary",
+    "es": "40° Aniversario",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.tag",
+    "en": "Milestones",
+    "es": "Hitos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Timeline",
+    "key": "about.timeline.title",
+    "en": "Our Journey",
+    "es": "Nuestro Trayecto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.tag",
+    "en": "Our Values",
+    "es": "Nuestros Valores",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.title",
+    "en": "What Drives Us",
+    "es": "Lo Que Nos Impulsa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v1.desc",
+    "en": "Every piece leaving our factory reflects decades of accumulated knowledge. We don't cut corners — we refine processes.",
+    "es": "Cada pieza que sale de nuestra fábrica refleja décadas de conocimiento acumulado. No tomamos atajos — refinamos procesos.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v1.title",
+    "en": "Craftsmanship First",
+    "es": "Artesanía Primero",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v2.desc",
+    "en": "No hidden fees, no surprise lead times. Our clients receive honest timelines, clear pricing, and open communication throughout.",
+    "es": "Sin costos ocultos, sin sorpresas en los plazos de entrega. Nuestros clientes reciben cronogramas honestos, precios claros y comunicación abierta durante todo el proceso.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v2.title",
+    "en": "Transparency",
+    "es": "Transparencia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v3.desc",
+    "en": "FSC-certified timber, water-based finishes, and energy-efficient production processes reflect our environmental commitment.",
+    "es": "Madera certificada FSC, acabados a base de agua y procesos de producción energéticamente eficientes reflejan nuestro compromiso ambiental.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v3.title",
+    "en": "Sustainability",
+    "es": "Sostenibilidad",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v4.desc",
+    "en": "We measure success by repeat business. Our highest compliment is a client returning with a new project.",
+    "es": "Medimos el éxito por la repetición de negocios. Nuestro mayor cumplido es que un cliente regrese con un nuevo proyecto.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "About",
+    "section": "Values",
+    "key": "about.values.v4.title",
+    "en": "Long-term Partnership",
+    "es": "Alianzas a Largo Plazo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.aboutUs",
+    "en": "About Us",
+    "es": "Nosotros",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.certs",
+    "en": "Certifications",
+    "es": "Certificaciones",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.company",
+    "en": "Company",
+    "es": "Empresa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.contact",
+    "en": "Contact",
+    "es": "Contacto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.copyright",
+    "en": "© 2025 Hongye Furniture Group Co., Ltd. All rights reserved.",
+    "es": "© 2025 Hongye Furniture Group Co., Ltd. Todos los derechos reservados.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.education",
+    "en": "Education",
+    "es": "Educación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.emailUs",
+    "en": "Email Us",
+    "es": "Envíenos un Correo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.factory",
+    "en": "Our Factory",
+    "es": "Nuestra Fábrica",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.getQuote",
+    "en": "Get a Quote",
+    "es": "Solicitar Cotización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.healthcare",
+    "en": "Healthcare",
+    "es": "Salud",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.home",
+    "en": "Home",
+    "es": "Inicio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.hotel",
+    "en": "Hotel Furniture",
+    "es": "Mobiliario Hotelero",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.office",
+    "en": "Office Furniture",
+    "es": "Mobiliario de Oficina",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.privacy",
+    "en": "Privacy Policy",
+    "es": "Política de Privacidad",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.products",
+    "en": "Products",
+    "es": "Productos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.residential",
+    "en": "Residential",
+    "es": "Residencial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.tagline",
+    "en": "Commercial furniture manufacturing excellence since 1984. Serving global clients with factory-direct quality.",
+    "es": "Excelencia en fabricación de mobiliario comercial desde 1984. Atendiendo a clientes globales con calidad directa de fábrica.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.terms",
+    "en": "Terms of Service",
+    "es": "Términos de Servicio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.visitFactory",
+    "en": "Visit Factory",
+    "es": "Visitar Fábrica",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Footer",
+    "key": "common.footer.whatsapp",
+    "en": "WhatsApp",
+    "es": "WhatsApp",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Nav",
+    "key": "common.nav.about",
+    "en": "About Us",
+    "es": "Nosotros",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Nav",
+    "key": "common.nav.contact",
+    "en": "Contact",
+    "es": "Contacto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Nav",
+    "key": "common.nav.home",
+    "en": "Home",
+    "es": "Inicio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Nav",
+    "key": "common.nav.products",
+    "en": "Products & Services",
+    "es": "Productos y Servicios",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "Nav",
+    "key": "common.nav.quote",
+    "en": "Get a Free Quote",
+    "es": "Solicitar Cotización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.g1.title",
+    "en": "Products & Manufacturing",
+    "es": "Productos y Fabricación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.g2.title",
+    "en": "Quality & Certifications",
+    "es": "Calidad y Certificaciones",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.g3.title",
+    "en": "Logistics & Import",
+    "es": "Logística e Importación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.g4.title",
+    "en": "Working with Hongye",
+    "es": "Trabajar con Hongye",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q1.a",
+    "en": "Yes — full customization is our specialty. We can work from your design drawings, mood boards, or brand guidelines. Our in-house design team can also create bespoke designs for your approval before production begins.",
+    "es": "Sí — la personalización completa es nuestra especialidad. Podemos trabajar a partir de sus planos de diseño, mood boards o guías de marca. Nuestro equipo de diseño interno también puede crear diseños a medida para su aprobación antes de comenzar la producción.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q1.q",
+    "en": "Can you manufacture custom furniture to our exact specifications?",
+    "es": "¿Pueden fabricar mobiliario personalizado según nuestras especificaciones exactas?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q2.a",
+    "en": "For commercial projects, MOQ varies by product type. Generally, we work with project-based orders rather than unit quantities — a complete room set, floor, or full property supply is typical. Contact us with your project scope for guidance.",
+    "es": "Para proyectos comerciales, la cantidad mínima varía según el tipo de producto. Generalmente, trabajamos con pedidos basados en proyectos en lugar de cantidades unitarias — es típico el suministro de un juego completo de habitación, piso o propiedad completa. Contáctenos con el alcance de su proyecto para orientación.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q2.q",
+    "en": "What is the minimum order quantity?",
+    "es": "¿Cuál es la cantidad mínima de pedido?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q3.a",
+    "en": "We work with solid wood, MDF/particleboard, plywood, stainless steel, mild steel, aluminum, marble, glass, and a full range of upholstery materials. All timber is FSC-certified and all composite panels meet CARB emission standards.",
+    "es": "Trabajamos con madera maciza, MDF/aglomerado, contrachapado, acero inoxidable, acero al carbono, aluminio, mármol, vidrio y una gama completa de materiales de tapicería. Toda la madera cuenta con certificación FSC y todos los paneles compuestos cumplen con los estándares de emisión CARB.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q3.q",
+    "en": "What materials do you work with?",
+    "es": "¿Con qué materiales trabajan?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q4.a",
+    "en": "Hongye holds ISO 9001:2015, CE Mark, SGS verification, BIFMA standard compliance, FSC certification, and CARB compliance. Copies of all certificates are available on request.",
+    "es": "Hongye cuenta con ISO 9001:2015, Marcado CE, verificación SGS, cumplimiento del estándar BIFMA, certificación FSC y cumplimiento CARB. Las copias de todos los certificados están disponibles bajo solicitud.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q4.q",
+    "en": "What quality certifications do you hold?",
+    "es": "¿Qué certificaciones de calidad tienen?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q5.a",
+    "en": "Absolutely. Factory visits are welcome — we regularly host international clients for in-person visits and virtual tours. Pre-shipment inspection by third-party QC companies (SGS, Bureau Veritas, etc.) can also be arranged.",
+    "es": "Por supuesto. Las visitas a fábrica son bienvenidas — recibimos regularmente a clientes internacionales para visitas presenciales y recorridos virtuales. También se puede coordinar la inspección previa al embarque por parte de empresas de control de calidad externas (SGS, Bureau Veritas, etc.).",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q5.q",
+    "en": "Can we inspect the factory and products before shipment?",
+    "es": "¿Podemos inspeccionar la fábrica y los productos antes del envío?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q6.a",
+    "en": "Yes — we provide complete export documentation including commercial invoice, packing list, bill of lading, certificate of origin, and fumigation certificate. We work with experienced freight forwarders for FOB, CFR, and CIF terms.",
+    "es": "Sí — proporcionamos documentación completa de exportación que incluye factura comercial, lista de empaque, conocimiento de embarque, certificado de origen y certificado de fumigación. Trabajamos con agentes de carga experimentados bajo términos FOB, CFR y CIF.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q6.q",
+    "en": "Do you handle shipping and customs documentation?",
+    "es": "¿Se encargan del envío y la documentación aduanera?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q7.a",
+    "en": "Standard lead times are 45–75 days for production after order confirmation, depending on order complexity and volume. We provide project-specific timelines during the quotation phase, including production schedule milestones.",
+    "es": "Los plazos de entrega estándar son de 45 a 75 días para producción después de la confirmación del pedido, dependiendo de la complejidad y el volumen. Proporcionamos cronogramas específicos del proyecto durante la fase de cotización, incluyendo hitos del programa de producción.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q7.q",
+    "en": "What is the typical lead time?",
+    "es": "¿Cuál es el plazo de entrega típico?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q8.a",
+    "en": "Submit your enquiry via WhatsApp, email, or the form on this page. Our project team will contact you within 24 hours to discuss your requirements. We'll then prepare a preliminary proposal and begin the design consultation process.",
+    "es": "Envíe su consulta por WhatsApp, correo electrónico o el formulario en esta página. Nuestro equipo de proyectos se comunicará con usted en menos de 24 horas para discutir sus requerimientos. Luego prepararemos una propuesta preliminar y comenzaremos el proceso de consultoría de diseño.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q8.q",
+    "en": "How do we start a project with Hongye?",
+    "es": "¿Cómo iniciamos un proyecto con Hongye?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q9.a",
+    "en": "All products carry a 2-year warranty. Our dedicated after-sales team handles replacement parts, repairs, and installation queries. For major markets, local service partners are available for on-site support.",
+    "es": "Todos los productos cuentan con una garantía de 2 años. Nuestro equipo dedicado de posventa gestiona piezas de repuesto, reparaciones y consultas de instalación. Para los principales mercados, contamos con socios de servicio locales disponibles para soporte en sitio.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.q9.q",
+    "en": "Do you provide after-sales support?",
+    "es": "¿Ofrecen soporte posventa?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.tag",
+    "en": "FAQ",
+    "es": "Preguntas Frecuentes",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Faq",
+    "key": "contact.faq.title",
+    "en": "Frequently Asked Questions",
+    "es": "Preguntas Frecuentes",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.budget",
+    "en": "Estimated Budget (USD)",
+    "es": "Presupuesto Estimado (USD)",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.budget_options",
+    "en": "[\"Under $50,000\", \"$50,000 – $200,000\", \"$200,000 – $500,000\", \"$500,000+\"]",
+    "es": "[\"Menos de $50,000\", \"$50,000 – $200,000\", \"$200,000 – $500,000\", \"$500,000+\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.budget_placeholder",
+    "en": "Prefer not to say",
+    "es": "Prefiero no decirlo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.company",
+    "en": "Company / Organization",
+    "es": "Empresa / Organización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.company_placeholder",
+    "en": "Company name",
+    "es": "Nombre de la empresa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.country",
+    "en": "Country *",
+    "es": "País *",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.country_placeholder",
+    "en": "Your country",
+    "es": "Su país",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.desc",
+    "en": "Fill out the form below and our team will prepare a tailored proposal for your project.",
+    "es": "Complete el siguiente formulario y nuestro equipo preparará una propuesta personalizada para su proyecto.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.email",
+    "en": "Email Address *",
+    "es": "Correo Electrónico *",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.email_placeholder",
+    "en": "your@email.com",
+    "es": "su@correo.com",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.message",
+    "en": "Project Description *",
+    "es": "Descripción del Proyecto *",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.message_placeholder",
+    "en": "Describe your project — space type, quantity, timeline, any specific requirements or style preferences...",
+    "es": "Describa su proyecto — tipo de espacio, cantidad, cronograma, requisitos específicos o preferencias de estilo...",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.name",
+    "en": "Full Name *",
+    "es": "Nombre Completo *",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.name_placeholder",
+    "en": "Your name",
+    "es": "Su nombre",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.note",
+    "en": "By submitting this form you agree to be contacted by our sales team regarding your project enquiry.",
+    "es": "Al enviar este formulario, acepta ser contactado por nuestro equipo de ventas sobre su consulta de proyecto.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.phone",
+    "en": "Phone / WhatsApp *",
+    "es": "Teléfono / WhatsApp *",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.phone_placeholder",
+    "en": "+1 XXX XXX XXXX",
+    "es": "+1 XXX XXX XXXX",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.sector",
+    "en": "Project Type *",
+    "es": "Tipo de Proyecto *",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.sector_options",
+    "en": "[\"Hotel / Hospitality\", \"Office / Commercial\", \"Healthcare / Medical\", \"Education\", \"Luxury Residential\", \"Other\"]",
+    "es": "[\"Hotel / Hospitalidad\", \"Oficina / Comercial\", \"Salud / Médico\", \"Educación\", \"Residencial de Lujo\", \"Otro\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.sector_placeholder",
+    "en": "Select project type",
+    "es": "Seleccione el tipo de proyecto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.submit",
+    "en": "Send Enquiry",
+    "es": "Enviar Consulta",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.success.desc",
+    "en": "Thank you for your enquiry. Our team will review your project details and get back to you within 24 hours.",
+    "es": "Gracias por su consulta. Nuestro equipo revisará los detalles de su proyecto y se comunicará con usted en menos de 24 horas.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.success.title",
+    "en": "Message Sent!",
+    "es": "¡Mensaje Enviado!",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.success.whatsapp",
+    "en": "For urgent projects, please contact us directly via WhatsApp.",
+    "es": "Para proyectos urgentes, contáctenos directamente por WhatsApp.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Form",
+    "key": "contact.form.title",
+    "en": "Request a Project Quote",
+    "es": "Solicitar Cotización de Proyecto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Hero",
+    "key": "contact.hero.breadcrumb",
+    "en": "Contact",
+    "es": "Contacto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Hero",
+    "key": "contact.hero.sub",
+    "en": "Get a customized quote within 24 hours. No commitment required.",
+    "es": "Obtenga una cotización personalizada en menos de 24 horas. Sin compromiso.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Hero",
+    "key": "contact.hero.title",
+    "en": "Let's Discuss Your Project",
+    "es": "Hablemos de Su Proyecto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.email.desc",
+    "en": "Send detailed project requirements to our sales team",
+    "es": "Envíe requerimientos detallados de proyecto a nuestro equipo de ventas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.email.title",
+    "en": "Email",
+    "es": "Correo Electrónico",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.factory.desc",
+    "en": "Visit our 40,000㎡ showroom in person",
+    "es": "Visite nuestro showroom de 40,000㎡ en persona",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.factory.title",
+    "en": "Factory & Showroom",
+    "es": "Fábrica y Showroom",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.hours.desc",
+    "en": "Monday – Saturday: 8:00 AM – 6:00 PM (GMT+8)",
+    "es": "Lunes a Sábado: 8:00 AM – 6:00 PM (GMT+8)",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.hours.title",
+    "en": "Business Hours",
+    "es": "Horario de Atención",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.hours_sunday",
+    "en": "Sunday: By appointment",
+    "es": "Domingo: Con cita previa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.intro",
+    "en": "Whether you're planning a new hotel, office fitout, or large residential development — we want to hear about your project. Our project consultants are ready to help.",
+    "es": "Ya sea que esté planificando un nuevo hotel, acondicionamiento de oficina o gran desarrollo residencial — queremos conocer su proyecto. Nuestros consultores de proyectos están listos para ayudarle.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.promise",
+    "en": "We respond to all enquiries within <strong>24 hours</strong>",
+    "es": "Respondemos a todas las consultas en menos de <strong>24 horas</strong>",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.title",
+    "en": "Get in Touch",
+    "es": "Póngase en Contacto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.whatsapp.desc",
+    "en": "Chat with our team directly — fastest response",
+    "es": "Chatee directamente con nuestro equipo — respuesta más rápida",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Contact",
+    "section": "Info",
+    "key": "contact.info.whatsapp.title",
+    "en": "WhatsApp",
+    "es": "WhatsApp",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.desc",
+    "en": "From luxury hotels to educational institutions — we provide complete furniture solutions for every commercial environment.",
+    "es": "Desde hoteles de lujo hasta instituciones educativas — ofrecemos soluciones completas de mobiliario para cada entorno comercial.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.education.desc",
+    "en": "Schools, universities, libraries",
+    "es": "Escuelas, universidades, bibliotecas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.education.title",
+    "en": "Education",
+    "es": "Educación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.healthcare.desc",
+    "en": "Hospitals, clinics, care centers",
+    "es": "Hospitales, clínicas, centros de atención",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.healthcare.title",
+    "en": "Healthcare",
+    "es": "Salud",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.hotel.desc",
+    "en": "Guest rooms, lobbies, dining, outdoor — complete hotel furnishing solutions",
+    "es": "Habitaciones, lobbies, comedores, exteriores — soluciones integrales de amueblamiento hotelero",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.hotel.explore",
+    "en": "Explore",
+    "es": "Explorar",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.hotel.title",
+    "en": "Hotel Furniture",
+    "es": "Mobiliario Hotelero",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.office.desc",
+    "en": "Modern workspaces, executive suites, conference rooms and collaborative areas",
+    "es": "Espacios de trabajo modernos, suites ejecutivas, salas de conferencias y áreas colaborativas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.office.title",
+    "en": "Office Furniture",
+    "es": "Mobiliario de Oficina",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.residential.desc",
+    "en": "Villas, high-end apartments",
+    "es": "Villas, apartamentos de alta gama",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.residential.title",
+    "en": "Luxury Residential",
+    "es": "Residencial de Lujo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.tag",
+    "en": "Our Expertise",
+    "es": "Nuestra Experiencia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cat",
+    "key": "index.cat.title",
+    "en": "Five Core Business Categories",
+    "es": "Cinco Categorías Principales de Negocio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.bifma",
+    "en": "BIFMA Standard",
+    "es": "Estándar BIFMA",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.ce",
+    "en": "CE Certified",
+    "es": "Certificado CE",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.fsc",
+    "en": "FSC Certified",
+    "es": "Certificado FSC",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.iso",
+    "en": "ISO 9001:2015",
+    "es": "ISO 9001:2015",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.sgs",
+    "en": "SGS Verified",
+    "es": "Verificado por SGS",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.tag",
+    "en": "Trust & Compliance",
+    "es": "Confianza y Cumplimiento",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Certs",
+    "key": "index.certs.title",
+    "en": "Internationally Certified",
+    "es": "Certificado Internacionalmente",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cta",
+    "key": "index.cta.btn1",
+    "en": "Get a Free Quote",
+    "es": "Solicitar Cotización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cta",
+    "key": "index.cta.btn2",
+    "en": "View Our Products",
+    "es": "Ver Nuestros Productos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cta",
+    "key": "index.cta.desc",
+    "en": "Tell us about your project and we'll provide a customized quote within 24 hours.",
+    "es": "Cuéntenos sobre su proyecto y le proporcionaremos una cotización personalizada en menos de 24 horas.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Cta",
+    "key": "index.cta.title",
+    "en": "Ready to Start Your Project?",
+    "es": "¿Listo para Iniciar su Proyecto?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Hero",
+    "key": "index.hero.badge",
+    "en": "B2B Commercial Furniture Manufacturer",
+    "es": "Fabricante de Mobiliario Comercial B2B",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Hero",
+    "key": "index.hero.cta1",
+    "en": "Request a Quote",
+    "es": "Solicitar Cotización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Hero",
+    "key": "index.hero.cta2",
+    "en": "Explore Products",
+    "es": "Explorar Productos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Hero",
+    "key": "index.hero.sub",
+    "en": "Hongye Furniture Group delivers premium commercial furniture solutions for hotels, offices, healthcare, education, and luxury residential projects — manufactured in China, delivered worldwide.",
+    "es": "Hongye Furniture Group ofrece soluciones premium de mobiliario comercial para hoteles, oficinas, instituciones de salud, educación y proyectos residenciales de lujo — fabricado en China, entregado a todo el mundo.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Hero",
+    "key": "index.hero.title.accent",
+    "en": "Direct from Factory",
+    "es": "Directo de Fábrica",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Hero",
+    "key": "index.hero.title.line1",
+    "en": "Custom Commercial Furniture",
+    "es": "Mobiliario Comercial Personalizado",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.desc",
+    "en": "A proven 12-step process ensuring every project is delivered on time, on spec, and on budget.",
+    "es": "Un proceso comprobado de 12 pasos que garantiza que cada proyecto se entregue a tiempo, según especificaciones y dentro del presupuesto.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s01",
+    "en": "Consultation",
+    "es": "Consultoría",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s01_desc",
+    "en": "Needs assessment & budget alignment",
+    "es": "Evaluación de necesidades y alineación presupuestaria",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s02",
+    "en": "Site Measurement",
+    "es": "Medición en Sitio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s02_desc",
+    "en": "Precise space planning & drawings",
+    "es": "Planificación precisa del espacio y planos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s03",
+    "en": "3D Design",
+    "es": "Diseño 3D",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s03_desc",
+    "en": "Renderings & material selection",
+    "es": "Renderizados y selección de materiales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s04",
+    "en": "Craftsmanship",
+    "es": "Artesanía",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s04_desc",
+    "en": "Material & process specification",
+    "es": "Especificación de materiales y procesos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s05",
+    "en": "Prototyping",
+    "es": "Prototipado",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s05_desc",
+    "en": "Physical sample approval",
+    "es": "Aprobación de muestra física",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s06",
+    "en": "Mass Production",
+    "es": "Producción en Masa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s06_desc",
+    "en": "Factory-scale manufacturing",
+    "es": "Fabricación a escala industrial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s07",
+    "en": "Quality Control",
+    "es": "Control de Calidad",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s07_desc",
+    "en": "In-line process inspection",
+    "es": "Inspección de proceso en línea",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s08",
+    "en": "Final Inspection",
+    "es": "Inspección Final",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s08_desc",
+    "en": "Pre-shipment quality audit",
+    "es": "Auditoría de calidad previa al embarque",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s09",
+    "en": "Packaging",
+    "es": "Embalaje",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s09_desc",
+    "en": "Export-grade protective packing",
+    "es": "Empaque protector de grado exportación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s10",
+    "en": "Logistics",
+    "es": "Logística",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s10_desc",
+    "en": "International freight coordination",
+    "es": "Coordinación de carga internacional",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s11",
+    "en": "Installation",
+    "es": "Instalación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s11_desc",
+    "en": "On-site setup & placement",
+    "es": "Montaje y colocación en sitio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s12",
+    "en": "After-Sales",
+    "es": "Posventa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.s12_desc",
+    "en": "Warranty support & maintenance",
+    "es": "Soporte de garantía y mantenimiento",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.tag",
+    "en": "Our Workflow",
+    "es": "Nuestro Flujo de Trabajo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Process",
+    "key": "index.process.title",
+    "en": "From Concept to Delivery",
+    "es": "Del Concepto a la Entrega",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.desc",
+    "en": "Real-world commercial furniture projects delivered to clients across the globe.",
+    "es": "Proyectos reales de mobiliario comercial entregados a clientes en todo el mundo.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.edu.desc",
+    "en": "Full campus furniture supply for 5,000-student university including library and labs.",
+    "es": "Suministro completo de mobiliario para campus universitario de 5,000 estudiantes, incluyendo biblioteca y laboratorios.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.edu.location",
+    "en": "Colombia",
+    "es": "Colombia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.edu.tag",
+    "en": "Education",
+    "es": "Educación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.edu.title",
+    "en": "University Campus",
+    "es": "Campus Universitario",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.healthcare.desc",
+    "en": "700+ patient rooms with specialized medical-grade furniture systems.",
+    "es": "Más de 700 habitaciones para pacientes con sistemas especializados de mobiliario de grado médico.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.healthcare.location",
+    "en": "Mexico City, MX",
+    "es": "Ciudad de México, MX",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.healthcare.tag",
+    "en": "Healthcare",
+    "es": "Salud",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.healthcare.title",
+    "en": "Medical Center Furniture",
+    "es": "Mobiliario para Centro Médico",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.hotel.desc",
+    "en": "Complete furnishing for 320-room luxury hotel — guest rooms, lobby, restaurant & outdoor areas.",
+    "es": "Amueblamiento completo para hotel de lujo de 320 habitaciones — habitaciones, lobby, restaurante y áreas exteriores.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.hotel.location",
+    "en": "Dubai, UAE",
+    "es": "Dubái, EAU",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.hotel.rooms",
+    "en": "320 Rooms",
+    "es": "320 Habitaciones",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.hotel.tag",
+    "en": "Hotel",
+    "es": "Hotel",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.hotel.title",
+    "en": "5-Star Hotel Collection",
+    "es": "Colección Hotel 5 Estrellas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.office.desc",
+    "en": "3,200㎡ open-plan office with executive suites and 12 conference rooms.",
+    "es": "Oficina de planta abierta de 3,200㎡ con suites ejecutivas y 12 salas de conferencias.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.office.location",
+    "en": "Singapore",
+    "es": "Singapur",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.office.tag",
+    "en": "Office",
+    "es": "Oficina",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.office.title",
+    "en": "Corporate HQ Fitout",
+    "es": "Acondicionamiento de Sede Corporativa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.tag",
+    "en": "Case Studies",
+    "es": "Casos de Estudio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Projects",
+    "key": "index.projects.title",
+    "en": "Featured Projects",
+    "es": "Proyectos Destacados",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Stat",
+    "key": "index.stat.factory",
+    "en": "Factory Area",
+    "es": "Área de Fábrica",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Stat",
+    "key": "index.stat.projects",
+    "en": "Projects Completed",
+    "es": "Proyectos Completados",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Stat",
+    "key": "index.stat.team",
+    "en": "Team Members",
+    "es": "Miembros del Equipo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Stat",
+    "key": "index.stat.years",
+    "en": "Years Experience",
+    "es": "Años de Experiencia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Trust",
+    "key": "index.trust.certs",
+    "en": "International Certifications",
+    "es": "Certificaciones Internacionales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Trust",
+    "key": "index.trust.logistics",
+    "en": "Global Logistics Support",
+    "es": "Soporte Logístico Global",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Trust",
+    "key": "index.trust.noIntermediaries",
+    "en": "No Intermediaries",
+    "es": "Sin Intermediarios",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Trust",
+    "key": "index.trust.onTime",
+    "en": "On-Time Delivery",
+    "es": "Entrega a Tiempo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Trust",
+    "key": "index.trust.showroom",
+    "en": "40,000㎡ Showroom",
+    "es": "Showroom de 40,000㎡",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.badge1.label",
+    "en": "Years of Excellence",
+    "es": "Años de Excelencia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.badge1.num",
+    "en": "40+",
+    "es": "40+",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.badge2.label",
+    "en": "Certified",
+    "es": "Certificado",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.badge2.num",
+    "en": "ISO 9001",
+    "es": "ISO 9001",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.cta",
+    "en": "Learn Our Story",
+    "es": "Conozca Nuestra Historia",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.desc",
+    "en": "We own and operate our manufacturing facilities — giving you direct access to premium quality at competitive prices. No hidden markups, no third-party delays.",
+    "es": "Somos propietarios y operamos nuestras propias instalaciones de fabricación — brindándole acceso directo a calidad premium a precios competitivos. Sin márgenes ocultos, sin demoras de terceros.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f1.desc",
+    "en": "350,000㎡ factory with advanced CNC, laser cutting, and precision finishing equipment",
+    "es": "Fábrica de 350,000㎡ con equipos CNC avanzados, corte láser y acabados de precisión",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f1.title",
+    "en": "Industrial-Scale Production",
+    "es": "Producción a Escala Industrial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f2.desc",
+    "en": "Multi-stage QC process with international certification standards — CE, ISO, SGS verified",
+    "es": "Proceso de control de calidad de múltiples etapas con estándares internacionales de certificación — CE, ISO, verificado por SGS",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f2.title",
+    "en": "Quality Assurance",
+    "es": "Control de Calidad",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f3.desc",
+    "en": "End-to-end shipping solutions with local installation support available in key markets",
+    "es": "Soluciones integrales de envío con soporte de instalación local disponible en mercados clave",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f3.title",
+    "en": "Global Logistics",
+    "es": "Logística Global",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f4.desc",
+    "en": "Assigned account managers with design, production, and logistics coordination",
+    "es": "Gerentes de cuenta asignados con coordinación de diseño, producción y logística",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.f4.title",
+    "en": "Dedicated Project Team",
+    "es": "Equipo de Proyecto Dedicado",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.tag",
+    "en": "Why Hongye",
+    "es": "Por Qué Hongye",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.title.line1",
+    "en": "Factory Direct.",
+    "es": "Directo de Fábrica.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Index",
+    "section": "Why",
+    "key": "index.why.title.line2",
+    "en": "No Middlemen.",
+    "es": "Sin Intermediarios.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Common",
+    "section": "",
+    "key": "page.title",
+    "en": "Hongye Furniture Group — Commercial Furniture Manufacturer",
+    "es": "Hongye Furniture Group — Fabricante de Mobiliario Comercial",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Catnav",
+    "key": "products.catnav",
+    "en": "[\"Hotel\", \"Office\", \"Healthcare\", \"Education\", \"Residential\", \"Services\"]",
+    "es": "[\"Hotel\", \"Oficina\", \"Salud\", \"Educación\", \"Residencial\", \"Servicios\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Cta",
+    "key": "products.cta.btn1",
+    "en": "Request a Quote",
+    "es": "Solicitar Cotización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Cta",
+    "key": "products.cta.btn2",
+    "en": "About Hongye",
+    "es": "Acerca de Hongye",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Cta",
+    "key": "products.cta.desc",
+    "en": "Share your requirements and receive a detailed proposal within 24 hours.",
+    "es": "Comparta sus requerimientos y reciba una propuesta detallada en menos de 24 horas.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Cta",
+    "key": "products.cta.title",
+    "en": "Have a Project in Mind?",
+    "es": "¿Tiene un Proyecto en Mente?",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.admin.desc",
+    "en": "Faculty offices, staff rooms, reception and administrative workstations",
+    "es": "Oficinas de profesores, salas de personal, estaciones de recepción y trabajo administrativo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.admin.title",
+    "en": "Administrative",
+    "es": "Administrativo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.auditorium.desc",
+    "en": "Fixed seating systems with writing tablets, folding auditorium chairs",
+    "es": "Sistemas de asientos fijos con tablillas para escribir, sillas de auditorio plegables",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.auditorium.title",
+    "en": "Auditoriums",
+    "es": "Auditorios",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.canteen.desc",
+    "en": "High-traffic dining furniture — easy-clean surfaces, stackable chairs, fixed benching",
+    "es": "Mobiliario para comedor de alto tráfico — superficies fáciles de limpiar, sillas apilables, bancas fijas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.canteen.title",
+    "en": "Canteens",
+    "es": "Comedores",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.class.desc",
+    "en": "Height-adjustable student desks, ergonomic chairs, teacher desks, whiteboard systems",
+    "es": "Pupitres ajustables en altura, sillas ergonómicas, escritorios para docentes, sistemas de pizarrón",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.class.title",
+    "en": "Classrooms",
+    "es": "Aulas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.desc",
+    "en": "Ergonomic, durable, and flexible furniture systems designed to support diverse learning styles from primary school through university.",
+    "es": "Sistemas de mobiliario ergonómicos, duraderos y flexibles diseñados para apoyar diversos estilos de aprendizaje desde primaria hasta universidad.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.lab.desc",
+    "en": "Chemical-resistant lab benches, safety storage, fume hood cabinets",
+    "es": "Mesas de laboratorio resistentes a químicos, almacenamiento de seguridad, gabinetes para campanas extractoras",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.lab.title",
+    "en": "Science Labs",
+    "es": "Laboratorios de Ciencias",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.label",
+    "en": "Education Furniture",
+    "es": "Mobiliario Educativo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.library.desc",
+    "en": "Reading tables, book shelving systems, quiet study carrels, lounge reading areas",
+    "es": "Mesas de lectura, sistemas de estanterías, cubículos de estudio silencioso, áreas de lectura tipo salón",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.library.title",
+    "en": "Libraries",
+    "es": "Bibliotecas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Edu",
+    "key": "products.edu.title",
+    "en": "Furniture for Learning Environments",
+    "es": "Mobiliario para Entornos de Aprendizaje",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.clinical.desc",
+    "en": "Doctor consultation room furniture, administrative desks, storage systems, examination room fittings",
+    "es": "Mobiliario para consultorio médico, escritorios administrativos, sistemas de almacenamiento, accesorios para salas de examen",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.clinical.title",
+    "en": "Clinical Offices",
+    "es": "Consultorios Clínicos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.compliance.desc",
+    "en": "All healthcare furniture is manufactured with anti-bacterial surface treatments, flame-retardant materials, and medical-grade stainless steel hardware where required. Products meet hospital procurement standards across Asia, Europe, and Latin America.",
+    "es": "Todo el mobiliario para salud se fabrica con tratamientos superficiales antibacterianos, materiales ignífugos y herrajes de acero inoxidable de grado médico cuando se requiere. Los productos cumplen con los estándares de adquisición hospitalaria en Asia, Europa y América Latina.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.compliance.title",
+    "en": "Healthcare Compliance",
+    "es": "Cumplimiento Sanitario",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.desc",
+    "en": "Designed for hygiene, durability, and patient comfort — our healthcare furniture meets the functional and regulatory demands of modern medical environments.",
+    "es": "Diseñado para higiene, durabilidad y comodidad del paciente — nuestro mobiliario para salud satisface las demandas funcionales y regulatorias de los entornos médicos modernos.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.label",
+    "en": "Healthcare Furniture",
+    "es": "Mobiliario para Salud",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.nursing.desc",
+    "en": "Ergonomic furniture for elderly care — raised seat heights, anti-tip designs, soft edges",
+    "es": "Mobiliario ergonómico para cuidado de adultos mayores — alturas de asiento elevadas, diseños antivuelco, bordes suaves",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.nursing.title",
+    "en": "Nursing Homes & Care Centers",
+    "es": "Residencias y Centros de Atención",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.rooms.desc",
+    "en": "Patient bed frames, over-bed tables, bedside cabinets, visitor chairs, nursing stations",
+    "es": "Armazones de cama para pacientes, mesas sobre cama, gabinetes de cabecera, sillas para visitantes, estaciones de enfermería",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.rooms.title",
+    "en": "Hospital Patient Rooms",
+    "es": "Habitaciones de Pacientes",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.title",
+    "en": "Medical-Grade Furniture Solutions",
+    "es": "Soluciones de Mobiliario de Grado Médico",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.waiting.desc",
+    "en": "Easy-clean upholstered seating, modular waiting configurations, accessible designs",
+    "es": "Asientos tapizados de fácil limpieza, configuraciones modulares de espera, diseños accesibles",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Health",
+    "key": "products.health.waiting.title",
+    "en": "Waiting Areas",
+    "es": "Áreas de Espera",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hero",
+    "key": "products.hero.breadcrumb",
+    "en": "Products & Services",
+    "es": "Productos y Servicios",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hero",
+    "key": "products.hero.sub",
+    "en": "Five major commercial furniture categories — fully customizable, manufactured to your specifications.",
+    "es": "Cinco categorías principales de mobiliario comercial — totalmente personalizables, fabricados según sus especificaciones.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hero",
+    "key": "products.hero.title",
+    "en": "Products & Services",
+    "es": "Productos y Servicios",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.desc",
+    "en": "From budget hotels to 5-star luxury resorts — we provide complete furniture packages covering every hotel space, with consistent quality across the entire project.",
+    "es": "Desde hoteles económicos hasta resorts de lujo 5 estrellas — ofrecemos paquetes completos de mobiliario que cubren cada espacio del hotel, con calidad consistente en todo el proyecto.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.dining.desc",
+    "en": "Dining tables, banquet chairs, bar stools, outdoor patio furniture collections",
+    "es": "Mesas de comedor, sillas para banquetes, taburetes de bar, colecciones de mobiliario para terraza exterior",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.dining.tags",
+    "en": "[\"Dining Sets\", \"Bar Furniture\", \"Outdoor\"]",
+    "es": "[\"Juegos de Comedor\", \"Mobiliario de Bar\", \"Exterior\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.dining.title",
+    "en": "F&B / Restaurant",
+    "es": "Alimentos y Bebidas / Restaurante",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.label",
+    "en": "Hotel Furniture",
+    "es": "Mobiliario Hotelero",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.lobby.desc",
+    "en": "Reception counters, lounge seating, decorative pieces that define first impressions",
+    "es": "Mostradores de recepción, asientos de salón, piezas decorativas que definen las primeras impresiones",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.lobby.tags",
+    "en": "[\"Reception Desk\", \"Lobby Seating\", \"Accent Pieces\"]",
+    "es": "[\"Mostrador de Recepción\", \"Asientos de Lobby\", \"Piezas Decorativas\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.lobby.title",
+    "en": "Lobby & Public Areas",
+    "es": "Lobby y Áreas Públicas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.meeting.desc",
+    "en": "Stackable chairs, conference tables, banquet furniture — flexible configurations for any event",
+    "es": "Sillas apilables, mesas de conferencia, mobiliario para banquetes — configuraciones flexibles para cualquier evento",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.meeting.tags",
+    "en": "[\"Conference Tables\", \"Stackable Chairs\", \"Banquet Sets\"]",
+    "es": "[\"Mesas de Conferencia\", \"Sillas Apilables\", \"Juegos para Banquetes\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.meeting.title",
+    "en": "Meeting & Events",
+    "es": "Reuniones y Eventos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.rooms.desc",
+    "en": "Beds, wardrobes, desks, bedside tables, seating — complete room packages in any style",
+    "es": "Camas, armarios, escritorios, mesitas de noche, asientos — paquetes completos de habitación en cualquier estilo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.rooms.tags",
+    "en": "[\"Upholstered Beds\", \"Built-in Wardrobes\", \"Minibars\"]",
+    "es": "[\"Camas Tapizadas\", \"Armarios Empotrados\", \"Minibares\"]",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.rooms.title",
+    "en": "Guest Rooms",
+    "es": "Habitaciones",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Hotel",
+    "key": "products.hotel.title",
+    "en": "Complete Hotel Furnishing Solutions",
+    "es": "Soluciones Integrales de Amueblamiento Hotelero",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.break.desc",
+    "en": "Canteen tables, café-style seating, kitchen furniture and storage",
+    "es": "Mesas de comedor, asientos estilo cafetería, mobiliario de cocina y almacenamiento",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.break.title",
+    "en": "Staff Breakrooms",
+    "es": "Salas de Descanso",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.collab.desc",
+    "en": "Lounge seating, high tables, soft seating for informal meetings and creative spaces",
+    "es": "Asientos de salón, mesas altas, asientos blandos para reuniones informales y espacios creativos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.collab.title",
+    "en": "Collaboration Zones",
+    "es": "Zonas de Colaboración",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.conf.desc",
+    "en": "Large boardroom tables, presentation walls, executive chairs, credenzas",
+    "es": "Grandes mesas de sala de juntas, paredes de presentación, sillas ejecutivas, credenzas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.conf.title",
+    "en": "Conference Rooms",
+    "es": "Salas de Conferencias",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.desc",
+    "en": "Ergonomic, contemporary office furniture for productive, inspiring workplaces — from executive suites to open-plan collaborative environments.",
+    "es": "Mobiliario de oficina ergonómico y contemporáneo para lugares de trabajo productivos e inspiradores — desde suites ejecutivas hasta entornos colaborativos de planta abierta.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.exec.desc",
+    "en": "Solid wood desks, leather seating, matching storage and cabinet systems",
+    "es": "Escritorios de madera maciza, asientos de cuero, sistemas combinables de almacenamiento y gabinetes",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.exec.title",
+    "en": "Executive Offices",
+    "es": "Oficinas Ejecutivas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.label",
+    "en": "Office Furniture",
+    "es": "Mobiliario de Oficina",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.open.desc",
+    "en": "Modular desk systems, acoustic panels, cable management solutions",
+    "es": "Sistemas modulares de escritorios, paneles acústicos, soluciones de gestión de cables",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.open.title",
+    "en": "Open Plan Workstations",
+    "es": "Estaciones de Planta Abierta",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.reception.desc",
+    "en": "Reception counters, waiting room seating, custom signage furniture",
+    "es": "Mostradores de recepción, asientos de sala de espera, mobiliario personalizado para señalización",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.reception.title",
+    "en": "Reception Areas",
+    "es": "Áreas de Recepción",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Office",
+    "key": "products.office.title",
+    "en": "Modern Workplace Solutions",
+    "es": "Soluciones para Espacios de Trabajo Modernos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.bedroom.desc",
+    "en": "Custom beds, walk-in closets, dressing systems",
+    "es": "Camas personalizadas, vestidores, sistemas de vestidor",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.bedroom.title",
+    "en": "Master Bedroom",
+    "es": "Dormitorio Principal",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.desc",
+    "en": "Bespoke furniture for high-end residential developments, luxury villas, and premium apartments — where design, quality, and craftsmanship converge.",
+    "es": "Mobiliario a medida para desarrollos residenciales de alta gama, villas de lujo y apartamentos premium — donde el diseño, la calidad y la artesanía convergen.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.dining.desc",
+    "en": "Custom cabinetry, kitchen units, dining suites",
+    "es": "Gabinetes personalizados, módulos de cocina, juegos de comedor",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.dining.title",
+    "en": "Dining & Kitchen",
+    "es": "Comedor y Cocina",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.label",
+    "en": "Luxury Residential",
+    "es": "Residencial de Lujo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.living.desc",
+    "en": "Custom sofas, entertainment units, accent furniture",
+    "es": "Sofás personalizados, unidades de entretenimiento, mobiliario decorativo",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.living.title",
+    "en": "Living Spaces",
+    "es": "Espacios de Sala",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Res",
+    "key": "products.res.title",
+    "en": "Premium Residential & Villa Furniture",
+    "es": "Mobiliario Premium Residencial y para Villas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.desc",
+    "en": "More than furniture — we provide complete project management from design to installation.",
+    "es": "Más que mobiliario — ofrecemos gestión completa de proyectos desde el diseño hasta la instalación.",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s1.desc",
+    "en": "In-house design team creates 3D renderings, mood boards, and material specifications tailored to your brand and space",
+    "es": "El equipo de diseño interno crea renderizados 3D, mood boards y especificaciones de materiales adaptados a su marca y espacio",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s1.title",
+    "en": "Custom Design",
+    "es": "Diseño Personalizado",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s2.desc",
+    "en": "Hundreds of fabric, leather, veneer, lacquer, and hardware options — physical samples available on request",
+    "es": "Cientos de opciones de telas, cueros, chapas, lacas y herrajes — muestras físicas disponibles bajo solicitud",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s2.title",
+    "en": "Material Selection",
+    "es": "Selección de Materiales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s3.desc",
+    "en": "We produce physical prototypes for approval before committing to full production runs — no surprises",
+    "es": "Producimos prototipos físicos para aprobación antes de comprometernos con la producción completa — sin sorpresas",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s3.title",
+    "en": "Prototype Production",
+    "es": "Producción de Prototipos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s4.desc",
+    "en": "Multi-stage quality control with third-party inspection available. Full photo/video documentation provided",
+    "es": "Control de calidad de múltiples etapas con inspección por terceros disponible. Documentación completa con fotos y video proporcionada",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s4.title",
+    "en": "QC & Inspection",
+    "es": "Control de Calidad e Inspección",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s5.desc",
+    "en": "FCL/LCL sea freight, air freight coordination, customs documentation and insurance support",
+    "es": "Carga marítima FCL/LCL, coordinación de carga aérea, documentación aduanera y soporte de seguros",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s5.title",
+    "en": "Export Logistics",
+    "es": "Logística de Exportación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s6.desc",
+    "en": "Professional installation teams available in major markets — we don't just ship, we complete the project",
+    "es": "Equipos profesionales de instalación disponibles en los principales mercados — no solo enviamos, completamos el proyecto",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s6.title",
+    "en": "Installation",
+    "es": "Instalación",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s7.desc",
+    "en": "2-year warranty on all products, dedicated after-sales team, spare parts supply for key components",
+    "es": "Garantía de 2 años en todos los productos, equipo dedicado de posventa, suministro de repuestos para componentes clave",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s7.title",
+    "en": "After-Sales Support",
+    "es": "Soporte Posventa",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s8.desc",
+    "en": "Explore our 40,000㎡ showroom remotely via 3D virtual tour — see products in context before ordering",
+    "es": "Explore nuestro showroom de 40,000㎡ de forma remota mediante recorrido virtual 3D — vea los productos en contexto antes de ordenar",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.s8.title",
+    "en": "Virtual Showroom",
+    "es": "Showroom Virtual",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.tag",
+    "en": "What We Offer",
+    "es": "Lo Que Ofrecemos",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  },
+  {
+    "page": "Products",
+    "section": "Services",
+    "key": "products.services.title",
+    "en": "End-to-End Project Services",
+    "es": "Servicios de Proyecto Integrales",
+    "status": "",
+    "notes": "",
+    "corrected": ""
+  }
+]

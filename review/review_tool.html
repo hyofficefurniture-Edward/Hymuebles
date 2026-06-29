@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <base href="/" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spanish Translation Review - Hongye Furniture</title>
+<style>
+  :root {
+    --primary: #121A22;
+    --accent: #C2A378;
+    --accent-light: #D4BC96;
+    --bg: #F8F7F4;
+    --white: #FFFFFF;
+    --gray-50: #F9FAFB;
+    --gray-100: #F3F4F6;
+    --gray-200: #E5E7EB;
+    --gray-300: #D1D5DB;
+    --gray-400: #9CA3AF;
+    --gray-500: #6B7280;
+    --gray-600: #4B5563;
+    --gray-700: #374151;
+    --gray-800: #1F2937;
+    --green: #059669;
+    --green-light: #D1FAE5;
+    --green-bg: #ECFDF5;
+    --amber: #D97706;
+    --amber-light: #FEF3C7;
+    --amber-bg: #FFFBEB;
+    --red: #DC2626;
+    --red-light: #FEE2E2;
+    --red-bg: #FEF2F2;
+    --blue: #2563EB;
+    --blue-light: #DBEAFE;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: var(--bg);
+    color: var(--gray-800);
+    line-height: 1.6;
+  }
+
+  /* Top Bar */
+  .top-bar {
+    background: var(--primary);
+    color: var(--white);
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  .top-bar .logo-area {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .top-bar .logo-area h1 {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--white);
+  }
+  .top-bar .logo-area span {
+    font-size: 12px;
+    color: var(--gray-400);
+    font-weight: 400;
+  }
+  .top-bar .actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  /* Stats Bar */
+  .stats-bar {
+    background: var(--white);
+    border-bottom: 1px solid var(--gray-200);
+    padding: 10px 24px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    font-size: 13px;
+    position: sticky;
+    top: 52px;
+    z-index: 99;
+    overflow-x: auto;
+  }
+  .stat-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+  }
+  .stat-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .stat-dot.pending { background: var(--gray-400); }
+  .stat-dot.approved { background: var(--green); }
+  .stat-dot.needs-work { background: var(--amber); }
+  .stat-dot.rejected { background: var(--red); }
+  .stat-num { font-weight: 600; }
+  .progress-bar-wrap {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+  }
+  .progress-bar {
+    width: 120px; height: 6px;
+    background: var(--gray-200);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .progress-bar-fill {
+    height: 100%;
+    background: var(--green);
+    border-radius: 3px;
+    transition: width 0.3s;
+  }
+
+  /* Filter Bar */
+  .filter-bar {
+    background: var(--white);
+    padding: 12px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid var(--gray-200);
+    flex-wrap: wrap;
+  }
+  .filter-bar label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--gray-500);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .filter-group {
+    display: flex;
+    gap: 4px;
+    background: var(--gray-100);
+    border-radius: 8px;
+    padding: 3px;
+  }
+  .filter-btn {
+    padding: 6px 14px;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+    background: transparent;
+    color: var(--gray-600);
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+  .filter-btn:hover { background: var(--gray-200); }
+  .filter-btn.active { background: var(--white); color: var(--primary); box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+
+  .search-input {
+    margin-left: auto;
+    padding: 7px 14px;
+    border: 1px solid var(--gray-200);
+    border-radius: 8px;
+    font-size: 13px;
+    width: 220px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .search-input:focus { border-color: var(--accent); }
+
+  /* Main Content */
+  .main-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 24px 100px;
+  }
+
+  /* Review Card */
+  .review-card {
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: 12px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    transition: box-shadow 0.2s, border-color 0.2s;
+  }
+  .review-card:hover {
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  .review-card.status-approved {
+    border-left: 4px solid var(--green);
+  }
+  .review-card.status-needs-work {
+    border-left: 4px solid var(--amber);
+  }
+  .review-card.status-rejected {
+    border-left: 4px solid var(--red);
+  }
+  .review-card.status-pending {
+    border-left: 4px solid var(--gray-300);
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    background: var(--gray-50);
+    border-bottom: 1px solid var(--gray-100);
+    cursor: pointer;
+    user-select: none;
+  }
+  .card-header:hover { background: var(--gray-100); }
+  .card-header .meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .page-badge {
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .page-badge.Index { background: #EDE9FE; color: #7C3AED; }
+  .page-badge.About { background: #DBEAFE; color: #2563EB; }
+  .page-badge.Products { background: #D1FAE5; color: #059669; }
+  .page-badge.Contact { background: #FEF3C7; color: #D97706; }
+  .page-badge.Common { background: #F3E8FF; color: #9333EA; }
+
+  .section-label {
+    font-size: 12px;
+    color: var(--gray-500);
+    font-weight: 500;
+  }
+  .key-label {
+    font-size: 11px;
+    color: var(--gray-400);
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    background: var(--gray-100);
+    padding: 1px 6px;
+    border-radius: 4px;
+  }
+
+  .status-badge {
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+  }
+  .status-badge.pending { background: var(--gray-100); color: var(--gray-600); }
+  .status-badge.approved { background: var(--green-light); color: var(--green); }
+  .status-badge.needs-work { background: var(--amber-light); color: var(--amber); }
+  .status-badge.rejected { background: var(--red-light); color: var(--red); }
+
+  .card-body {
+    padding: 16px;
+    display: none;
+  }
+  .card-body.open {
+    display: block;
+  }
+
+  .lang-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  .lang-col h4 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--gray-500);
+    margin-bottom: 6px;
+    font-weight: 600;
+  }
+  .lang-col p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--gray-800);
+    padding: 10px 12px;
+    background: var(--gray-50);
+    border-radius: 8px;
+    border: 1px solid var(--gray-100);
+  }
+  .lang-col.es-col p {
+    border-color: var(--accent-light);
+    background: #FFFBF5;
+  }
+
+  /* Correction Area */
+  .correction-area {
+    border-top: 1px solid var(--gray-200);
+    padding-top: 14px;
+    margin-top: 14px;
+  }
+  .correction-area h4 {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--gray-700);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .correction-textarea {
+    width: 100%;
+    min-height: 70px;
+    padding: 10px 12px;
+    border: 1px solid var(--gray-200);
+    border-radius: 8px;
+    font-size: 14px;
+    font-family: inherit;
+    line-height: 1.6;
+    resize: vertical;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .correction-textarea:focus { border-color: var(--accent); }
+
+  .notes-input {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid var(--gray-200);
+    border-radius: 8px;
+    font-size: 13px;
+    font-family: inherit;
+    outline: none;
+    margin-top: 8px;
+    transition: border-color 0.2s;
+  }
+  .notes-input:focus { border-color: var(--accent); }
+
+  .card-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 12px;
+    flex-wrap: wrap;
+  }
+
+  /* Buttons */
+  .btn {
+    padding: 7px 16px;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: var(--white);
+  }
+  .btn-primary:hover { background: #B09468; }
+  .btn-success {
+    background: var(--green);
+    color: var(--white);
+  }
+  .btn-success:hover { background: #047857; }
+  .btn-warning {
+    background: var(--amber);
+    color: var(--white);
+  }
+  .btn-warning:hover { background: #B45309; }
+  .btn-danger {
+    background: var(--red);
+    color: var(--white);
+  }
+  .btn-danger:hover { background: #B91C1C; }
+  .btn-outline {
+    background: var(--white);
+    color: var(--gray-600);
+    border: 1px solid var(--gray-300);
+  }
+  .btn-outline:hover { background: var(--gray-50); }
+  .btn-sm { padding: 4px 10px; font-size: 12px; }
+
+  /* Export Modal */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 200;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-overlay.show { display: flex; }
+  .modal {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 28px;
+    max-width: 560px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+  }
+  .modal h2 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--primary);
+  }
+  .modal p {
+    font-size: 14px;
+    color: var(--gray-600);
+    margin-bottom: 16px;
+  }
+  .modal-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+  .modal pre {
+    background: var(--gray-50);
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 12px;
+    max-height: 300px;
+    overflow: auto;
+    border: 1px solid var(--gray-200);
+  }
+
+  /* Toast */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: var(--primary);
+    color: var(--white);
+    padding: 12px 24px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    z-index: 300;
+    transition: transform 0.3s;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+  }
+  .toast.show { transform: translateX(-50%) translateY(0); }
+
+  /* Keyboard shortcuts hint */
+  .shortcuts-hint {
+    font-size: 11px;
+    color: var(--gray-400);
+    display: flex;
+    gap: 12px;
+  }
+  .shortcuts-hint kbd {
+    background: var(--gray-200);
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-family: inherit;
+  }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--gray-400);
+  }
+  .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
+  .empty-state h3 { font-size: 18px; color: var(--gray-500); margin-bottom: 8px; }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .lang-columns { grid-template-columns: 1fr; }
+    .stats-bar { gap: 12px; }
+    .search-input { width: 100%; margin-left: 0; }
+    .filter-bar { flex-direction: column; align-items: flex-start; }
+    .top-bar .actions { gap: 6px; }
+    .main-content { padding: 12px 12px 100px; }
+  }
+</style>
+<script>
+(function(){var d=location.pathname.split('/').filter(Boolean).length;if(d<=1)return;var p='';for(var i=1;i<d;i++)p+='../';document.querySelectorAll('[src^=images/]').forEach(function(e){e.src=p+e.getAttribute('src')})})();
+</script>
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="logo-area">
+    <div>
+      <h1>Hongye Furniture - Spanish Review</h1>
+      <span>Online Translation Proofreading Tool</span>
+    </div>
+  </div>
+  <div class="actions">
+    <div class="shortcuts-hint">
+      <span><kbd>&larr;</kbd><kbd>&rarr;</kbd> Navigate</span>
+      <span><kbd>A</kbd> Approve</span>
+      <span><kbd>N</kbd> Needs Work</span>
+    </div>
+    <button class="btn btn-outline btn-sm" onclick="expandAll()">Expand All</button>
+    <button class="btn btn-outline btn-sm" onclick="collapseAll()">Collapse</button>
+    <button class="btn btn-primary btn-sm" onclick="showExportModal()">Export & Finish</button>
+  </div>
+</div>
+
+<div class="stats-bar" id="statsBar">
+  <div class="stat-item"><span class="stat-dot pending"></span> <span>Pending</span> <span class="stat-num" id="statPending">0</span></div>
+  <div class="stat-item"><span class="stat-dot approved"></span> <span>Approved</span> <span class="stat-num" id="statApproved">0</span></div>
+  <div class="stat-item"><span class="stat-dot needs-work"></span> <span>Needs Work</span> <span class="stat-num" id="statNeedsWork">0</span></div>
+  <div class="stat-item"><span class="stat-dot rejected"></span> <span>Rejected</span> <span class="stat-num" id="statRejected">0</span></div>
+  <div class="progress-bar-wrap">
+    <span>Progress</span>
+    <div class="progress-bar"><div class="progress-bar-fill" id="progressFill"></div></div>
+    <span class="stat-num" id="progressPct">0%</span>
+  </div>
+</div>
+
+<div class="filter-bar">
+  <label>Page</label>
+  <div class="filter-group" id="pageFilter">
+    <button class="filter-btn active" data-page="all">All</button>
+    <button class="filter-btn" data-page="Index">Index</button>
+    <button class="filter-btn" data-page="About">About</button>
+    <button class="filter-btn" data-page="Products">Products</button>
+    <button class="filter-btn" data-page="Contact">Contact</button>
+    <button class="filter-btn" data-page="Common">Common</button>
+  </div>
+  <label>Status</label>
+  <div class="filter-group" id="statusFilter">
+    <button class="filter-btn active" data-status="all">All</button>
+    <button class="filter-btn" data-status="pending">Pending</button>
+    <button class="filter-btn" data-status="approved">Approved</button>
+    <button class="filter-btn" data-status="needs-work">Needs Work</button>
+    <button class="filter-btn" data-status="rejected">Rejected</button>
+  </div>
+  <input type="text" class="search-input" id="searchInput" placeholder="Search key or text...">
+</div>
+
+<div class="main-content" id="reviewList"></div>
+
+<!-- Export Modal -->
+<div class="modal-overlay" id="exportModal">
+  <div class="modal">
+    <h2>Export Review Results</h2>
+    <p>Your corrections will be exported as a JSON file. Then I will update the es.json translation file.</p>
+    <div id="exportSummary"></div>
+    <div class="modal-actions">
+      <button class="btn btn-outline" onclick="closeExportModal()">Cancel</button>
+      <button class="btn btn-primary" onclick="exportResults()">Download JSON</button>
+    </div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<script>
+let allItems = [];
+let filteredItems = [];
+let currentFilters = { page: 'all', status: 'all', search: '' };
+let currentCardIndex = -1;
+let openCards = new Set();
+
+// Load data
+fetch('review_data.json')
+  .then(r => r.json())
+  .then(data => {
+    // Restore saved state
+    const saved = localStorage.getItem('reviewState');
+    if (saved) {
+      const state = JSON.parse(saved);
+      data.forEach((item, i) => {
+        if (state[item.key]) {
+          item.status = state[item.key].status || item.status;
+          item.corrected = state[item.key].corrected || '';
+          item.notes = state[item.key].notes || '';
+        }
+      });
+    }
+    allItems = data;
+    filteredItems = [...allItems];
+    renderCards();
+    updateStats();
+  });
+
+function renderCards() {
+  const list = document.getElementById('reviewList');
+  if (filteredItems.length === 0) {
+    list.innerHTML = '<div class="empty-state"><div class="icon">&#128270;</div><h3>No items match your filters</h3><p>Try adjusting your search or filter criteria.</p></div>';
+    return;
+  }
+  list.innerHTML = filteredItems.map((item, idx) => {
+    const status = item.status || 'pending';
+    const isOpen = openCards.has(item.key);
+    return `
+    <div class="review-card status-${status}" data-key="${item.key}" data-index="${idx}">
+      <div class="card-header" onclick="toggleCard('${item.key}', ${idx})">
+        <div class="meta">
+          <span class="page-badge ${item.page}">${item.page}</span>
+          <span class="section-label">${item.section}</span>
+          <span class="key-label">${item.key}</span>
+        </div>
+        <button class="status-badge ${status}" onclick="event.stopPropagation();cycleStatus(${idx})" title="Click to change status">
+          ${statusLabel(status)}
+        </button>
+      </div>
+      <div class="card-body ${isOpen ? 'open' : ''}" id="body-${item.key}">
+        <div class="lang-columns">
+          <div class="lang-col en-col">
+            <h4>English (EN)</h4>
+            <p>${escHtml(item.en)}</p>
+          </div>
+          <div class="lang-col es-col">
+            <h4>Spanish (ES) - AI Translation</h4>
+            <p>${escHtml(item.es)}</p>
+          </div>
+        </div>
+        ${item.corrected ? `
+        <div class="lang-columns" style="margin-bottom:16px">
+          <div class="lang-col es-col" style="grid-column:1/-1">
+            <h4>Corrected Spanish</h4>
+            <p style="border-color:var(--green);background:var(--green-bg);font-weight:500">${escHtml(item.corrected)}</p>
+          </div>
+        </div>` : ''}
+        <div class="correction-area">
+          <h4>&#9998; Your Correction (leave empty if AI translation is correct)</h4>
+          <textarea class="correction-textarea" data-key="${item.key}" placeholder="Type corrected Spanish translation here...">${escHtml(item.corrected || '')}</textarea>
+          <h4 style="margin-top:12px">&#128221; Notes</h4>
+          <input type="text" class="notes-input" data-key="${item.key}-notes" placeholder="Optional: add a note for this item..." value="${escHtml(item.notes || '')}">
+        </div>
+        <div class="card-actions">
+          <button class="btn btn-success btn-sm" onclick="setStatus(${idx},'approved')">Approved</button>
+          <button class="btn btn-warning btn-sm" onclick="setStatus(${idx},'needs-work')">Needs Work</button>
+          <button class="btn btn-danger btn-sm" onclick="setStatus(${idx},'rejected')">Rejected</button>
+          <button class="btn btn-outline btn-sm" onclick="setStatus(${idx},'pending')">Reset to Pending</button>
+          <button class="btn btn-outline btn-sm" onclick="saveCard(${idx})" style="margin-left:auto">Save Changes</button>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+  currentCardIndex = -1;
+}
+
+function toggleCard(key, idx) {
+  if (openCards.has(key)) {
+    openCards.delete(key);
+  } else {
+    openCards.add(key);
+  }
+  const body = document.getElementById('body-' + key);
+  body.classList.toggle('open');
+  currentCardIndex = idx;
+
+  // Auto-save any open card changes when toggling
+  saveCard(idx);
+}
+
+function expandAll() {
+  filteredItems.forEach((item, idx) => {
+    openCards.add(item.key);
+    const body = document.getElementById('body-' + item.key);
+    if (body) body.classList.add('open');
+  });
+}
+
+function collapseAll() {
+  openCards.clear();
+  document.querySelectorAll('.card-body').forEach(b => b.classList.remove('open'));
+}
+
+function cycleStatus(idx) {
+  const item = filteredItems[idx];
+  const order = ['pending', 'approved', 'needs-work', 'rejected'];
+  const current = item.status || 'pending';
+  const next = order[(order.indexOf(current) + 1) % order.length];
+  item.status = next;
+  saveItemState(item);
+  renderCards();
+  updateStats();
+  showToast(`Status changed to: ${statusLabel(next)}`);
+}
+
+function setStatus(idx, status) {
+  const item = filteredItems[idx];
+  // Save correction text first
+  saveCard(idx);
+  item.status = status;
+  saveItemState(item);
+  renderCards();
+  updateStats();
+  showToast(`Marked as: ${statusLabel(status)}`);
+}
+
+function saveCard(idx) {
+  const item = filteredItems[idx];
+  const ta = document.querySelector(`textarea[data-key="${item.key}"]`);
+  const ni = document.querySelector(`input[data-key="${item.key}-notes"]`);
+  if (ta) item.corrected = ta.value;
+  if (ni) item.notes = ni.value;
+  saveItemState(item);
+}
+
+function saveItemState(item) {
+  const saved = JSON.parse(localStorage.getItem('reviewState') || '{}');
+  saved[item.key] = {
+    status: item.status,
+    corrected: item.corrected,
+    notes: item.notes
+  };
+  localStorage.setItem('reviewState', JSON.stringify(saved));
+}
+
+function updateStats() {
+  const stats = { pending: 0, approved: 0, 'needs-work': 0, rejected: 0 };
+  allItems.forEach(item => {
+    const s = item.status || 'pending';
+    if (stats[s] !== undefined) stats[s]++;
+  });
+  const total = allItems.length;
+  const reviewed = stats.approved + stats['needs-work'] + stats.rejected;
+  document.getElementById('statPending').textContent = stats.pending;
+  document.getElementById('statApproved').textContent = stats.approved;
+  document.getElementById('statNeedsWork').textContent = stats['needs-work'];
+  document.getElementById('statRejected').textContent = stats.rejected;
+  const pct = total > 0 ? Math.round((reviewed / total) * 100) : 0;
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressPct').textContent = pct + '%';
+}
+
+function statusLabel(s) {
+  const labels = { pending: 'Pending', approved: 'Approved', 'needs-work': 'Needs Work', rejected: 'Rejected' };
+  return labels[s] || 'Pending';
+}
+
+// Filters
+document.getElementById('pageFilter').addEventListener('click', e => {
+  if (!e.target.classList.contains('filter-btn')) return;
+  document.querySelectorAll('#pageFilter .filter-btn').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  currentFilters.page = e.target.dataset.page;
+  applyFilters();
+});
+
+document.getElementById('statusFilter').addEventListener('click', e => {
+  if (!e.target.classList.contains('filter-btn')) return;
+  document.querySelectorAll('#statusFilter .filter-btn').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  currentFilters.status = e.target.dataset.status;
+  applyFilters();
+});
+
+document.getElementById('searchInput').addEventListener('input', e => {
+  currentFilters.search = e.target.value.toLowerCase();
+  applyFilters();
+});
+
+function applyFilters() {
+  filteredItems = allItems.filter(item => {
+    if (currentFilters.page !== 'all' && item.page !== currentFilters.page) return false;
+    if (currentFilters.status !== 'all' && (item.status || 'pending') !== currentFilters.status) return false;
+    if (currentFilters.search) {
+      const q = currentFilters.search;
+      if (!(item.key.toLowerCase().includes(q) || item.en.toLowerCase().includes(q) || item.es.toLowerCase().includes(q))) return false;
+    }
+    return true;
+  });
+  // Keep open state only for filtered items
+  openCards = new Set(filteredItems.filter(i => openCards.has(i.key)).map(i => i.key));
+  renderCards();
+}
+
+// Keyboard shortcuts
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') return;
+
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    const nextIdx = Math.min(currentCardIndex + 1, filteredItems.length - 1);
+    navigateToCard(nextIdx);
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    const prevIdx = Math.max(currentCardIndex - 1, 0);
+    navigateToCard(prevIdx);
+  } else if (e.key === 'a' || e.key === 'A') {
+    if (currentCardIndex >= 0) setStatus(currentCardIndex, 'approved');
+  } else if (e.key === 'n' || e.key === 'N') {
+    if (currentCardIndex >= 0) setStatus(currentCardIndex, 'needs-work');
+  } else if (e.key === 'r' || e.key === 'R') {
+    if (currentCardIndex >= 0) setStatus(currentCardIndex, 'rejected');
+  }
+});
+
+function navigateToCard(idx) {
+  if (idx < 0 || idx >= filteredItems.length) return;
+  const key = filteredItems[idx].key;
+  if (!openCards.has(key)) {
+    openCards.add(key);
+    const body = document.getElementById('body-' + key);
+    if (body) body.classList.add('open');
+  }
+  document.querySelector(`.review-card[data-index="${idx}"]`).scrollIntoView({ behavior: 'smooth', block: 'center' });
+  currentCardIndex = idx;
+}
+
+// Export
+function showExportModal() {
+  const stats = { pending: 0, approved: 0, 'needs-work': 0, rejected: 0, corrected: 0 };
+  allItems.forEach(item => {
+    const s = item.status || 'pending';
+    if (stats[s] !== undefined) stats[s]++;
+    if (item.corrected) stats.corrected++;
+  });
+  document.getElementById('exportSummary').innerHTML = `
+    <pre>
+Total: ${allItems.length} items
+Approved: ${stats.approved}
+Needs Work: ${stats['needs-work']}
+Rejected: ${stats.rejected}
+Pending: ${stats.pending}
+Items with corrections: ${stats.corrected}
+    </pre>
+    <p style="margin-top:12px;font-size:13px;color:var(--gray-500)">Click "Download JSON" to export your review results. Send this file back to update es.json.</p>
+  `;
+  document.getElementById('exportModal').classList.add('show');
+}
+
+function closeExportModal() {
+  document.getElementById('exportModal').classList.remove('show');
+}
+
+function exportResults() {
+  const data = allItems.map(item => ({
+    key: item.key,
+    page: item.page,
+    section: item.section,
+    en: item.en,
+    es_original: item.es,
+    corrected: item.corrected || '',
+    status: item.status || 'pending',
+    notes: item.notes || ''
+  }));
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'spanish_review_results.json';
+  a.click();
+  URL.revokeObjectURL(url);
+  showToast('Review results downloaded!');
+  closeExportModal();
+}
+
+function escHtml(str) {
+  if (!str) return '';
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,651 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "products": "Products & Services",
+      "contact": "Contact",
+      "quote": "Get a Free Quote"
+    },
+    "footer": {
+      "tagline": "Commercial furniture manufacturing excellence since 1984. Serving global clients with factory-direct quality.",
+      "company": "Company",
+      "products": "Products",
+      "contact": "Contact",
+      "home": "Home",
+      "aboutUs": "About Us",
+      "factory": "Our Factory",
+      "certs": "Certifications",
+      "hotel": "Hotel Furniture",
+      "office": "Office Furniture",
+      "healthcare": "Healthcare",
+      "education": "Education",
+      "residential": "Residential",
+      "getQuote": "Get a Quote",
+      "whatsapp": "WhatsApp",
+      "emailUs": "Email Us",
+      "visitFactory": "Visit Factory",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "copyright": "© 2025 Hongye Furniture Group Co., Ltd. All rights reserved."
+    }
+  },
+  "index": {
+    "hero": {
+      "badge": "B2B Commercial Furniture Manufacturer",
+      "title": {
+        "line1": "Custom Commercial Furniture",
+        "accent": "Direct from Factory"
+      },
+      "sub": "Hongye Furniture Group delivers premium commercial furniture solutions for hotels, offices, healthcare, education, and luxury residential projects — manufactured in China, delivered worldwide.",
+      "cta1": "Request a Quote",
+      "cta2": "Explore Products"
+    },
+    "stat": {
+      "years": "Years Experience",
+      "factory": "Factory Area",
+      "projects": "Projects Completed",
+      "team": "Team Members"
+    },
+    "trust": {
+      "noIntermediaries": "No Intermediaries",
+      "onTime": "On-Time Delivery",
+      "certs": "International Certifications",
+      "showroom": "40,000㎡ Showroom",
+      "logistics": "Global Logistics Support"
+    },
+    "cat": {
+      "tag": "Our Expertise",
+      "title": "Five Core Business Categories",
+      "desc": "From luxury hotels to educational institutions — we provide complete furniture solutions for every commercial environment.",
+      "hotel": {
+        "title": "Hotel Furniture",
+        "desc": "Guest rooms, lobbies, dining, outdoor — complete hotel furnishing solutions",
+        "explore": "Explore"
+      },
+      "office": {
+        "title": "Office Furniture",
+        "desc": "Modern workspaces, executive suites, conference rooms and collaborative areas"
+      },
+      "healthcare": {
+        "title": "Healthcare",
+        "desc": "Hospitals, clinics, care centers"
+      },
+      "education": {
+        "title": "Education",
+        "desc": "Schools, universities, libraries"
+      },
+      "residential": {
+        "title": "Luxury Residential",
+        "desc": "Villas, high-end apartments"
+      }
+    },
+    "projects": {
+      "tag": "Case Studies",
+      "title": "Featured Projects",
+      "desc": "Real-world commercial furniture projects delivered to clients across the globe.",
+      "hotel": {
+        "tag": "Hotel",
+        "title": "5-Star Hotel Collection",
+        "desc": "Complete furnishing for 320-room luxury hotel — guest rooms, lobby, restaurant & outdoor areas.",
+        "location": "Dubai, UAE",
+        "rooms": "320 Rooms"
+      },
+      "office": {
+        "tag": "Office",
+        "title": "Corporate HQ Fitout",
+        "desc": "3,200㎡ open-plan office with executive suites and 12 conference rooms.",
+        "location": "Singapore"
+      },
+      "healthcare": {
+        "tag": "Healthcare",
+        "title": "Medical Center Furniture",
+        "desc": "700+ patient rooms with specialized medical-grade furniture systems.",
+        "location": "Mexico City, MX"
+      },
+      "edu": {
+        "tag": "Education",
+        "title": "University Campus",
+        "desc": "Full campus furniture supply for 5,000-student university including library and labs.",
+        "location": "Colombia"
+      }
+    },
+    "why": {
+      "tag": "Why Hongye",
+      "title": {
+        "line1": "Factory Direct.",
+        "line2": "No Middlemen."
+      },
+      "desc": "We own and operate our manufacturing facilities — giving you direct access to premium quality at competitive prices. No hidden markups, no third-party delays.",
+      "f1": {
+        "title": "Industrial-Scale Production",
+        "desc": "350,000㎡ factory with advanced CNC, laser cutting, and precision finishing equipment"
+      },
+      "f2": {
+        "title": "Quality Assurance",
+        "desc": "Multi-stage QC process with international certification standards — CE, ISO, SGS verified"
+      },
+      "f3": {
+        "title": "Global Logistics",
+        "desc": "End-to-end shipping solutions with local installation support available in key markets"
+      },
+      "f4": {
+        "title": "Dedicated Project Team",
+        "desc": "Assigned account managers with design, production, and logistics coordination"
+      },
+      "cta": "Learn Our Story",
+      "badge1": {
+        "num": "40+",
+        "label": "Years of Excellence"
+      },
+      "badge2": {
+        "num": "ISO 9001",
+        "label": "Certified"
+      }
+    },
+    "process": {
+      "tag": "Our Workflow",
+      "title": "From Concept to Delivery",
+      "desc": "A proven 12-step process ensuring every project is delivered on time, on spec, and on budget.",
+      "s01": "Consultation",
+      "s01_desc": "Needs assessment & budget alignment",
+      "s02": "Site Measurement",
+      "s02_desc": "Precise space planning & drawings",
+      "s03": "3D Design",
+      "s03_desc": "Renderings & material selection",
+      "s04": "Craftsmanship",
+      "s04_desc": "Material & process specification",
+      "s05": "Prototyping",
+      "s05_desc": "Physical sample approval",
+      "s06": "Mass Production",
+      "s06_desc": "Factory-scale manufacturing",
+      "s07": "Quality Control",
+      "s07_desc": "In-line process inspection",
+      "s08": "Final Inspection",
+      "s08_desc": "Pre-shipment quality audit",
+      "s09": "Packaging",
+      "s09_desc": "Export-grade protective packing",
+      "s10": "Logistics",
+      "s10_desc": "International freight coordination",
+      "s11": "Installation",
+      "s11_desc": "On-site setup & placement",
+      "s12": "After-Sales",
+      "s12_desc": "Warranty support & maintenance"
+    },
+    "certs": {
+      "tag": "Trust & Compliance",
+      "title": "Internationally Certified",
+      "iso": "ISO 9001:2015",
+      "ce": "CE Certified",
+      "sgs": "SGS Verified",
+      "bifma": "BIFMA Standard",
+      "fsc": "FSC Certified"
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "desc": "Tell us about your project and we'll provide a customized quote within 24 hours.",
+      "btn1": "Get a Free Quote",
+      "btn2": "View Our Products"
+    }
+  },
+  "about": {
+    "hero": {
+      "breadcrumb": "About Us",
+      "title": "About Hongye Furniture Group",
+      "sub": "Four decades of craftsmanship, innovation, and global reach — building spaces that inspire."
+    },
+    "story": {
+      "tag": "Our Story",
+      "title": "Building the World's Commercial Spaces Since 1984",
+      "p1": "Hongye Furniture Group Co., Ltd. was founded in 1984 with a single vision: to manufacture commercial furniture of the highest quality, delivered directly to clients without compromise. What began as a regional manufacturer has grown into a global commercial furniture powerhouse.",
+      "p2": "Today, we operate from a 350,000㎡ state-of-the-art facility in China, serving over 50 countries across 5 continents. Our 2,000+ skilled craftspeople and engineers work daily to translate client visions into spaces that endure.",
+      "p3": "We serve hotels, office developments, healthcare facilities, educational institutions, and luxury residential projects — always with factory-direct pricing and uncompromised quality.",
+      "stat1": {
+        "num": "1984",
+        "label": "Founded"
+      },
+      "stat2": {
+        "num": "50+",
+        "label": "Countries Served"
+      },
+      "stat3": {
+        "num": "10,000+",
+        "label": "Projects Delivered"
+      }
+    },
+    "values": {
+      "tag": "Our Values",
+      "title": "What Drives Us",
+      "v1": {
+        "title": "Craftsmanship First",
+        "desc": "Every piece leaving our factory reflects decades of accumulated knowledge. We don't cut corners — we refine processes."
+      },
+      "v2": {
+        "title": "Transparency",
+        "desc": "No hidden fees, no surprise lead times. Our clients receive honest timelines, clear pricing, and open communication throughout."
+      },
+      "v3": {
+        "title": "Sustainability",
+        "desc": "FSC-certified timber, water-based finishes, and energy-efficient production processes reflect our environmental commitment."
+      },
+      "v4": {
+        "title": "Long-term Partnership",
+        "desc": "We measure success by repeat business. Our highest compliment is a client returning with a new project."
+      }
+    },
+    "factory": {
+      "tag": "Manufacturing",
+      "title": "World-Class Factory Infrastructure",
+      "desc": "350,000㎡ of precision manufacturing — equipped with the most advanced woodworking and metalworking technology available.",
+      "cnc": {
+        "title": "CNC Panel Processing",
+        "desc": "Biesse CNC routing centers for precision panel cutting with ±0.1mm accuracy at industrial scale"
+      },
+      "laser": {
+        "title": "Laser Edge Banding",
+        "desc": "German HOMAG S-500 laser edge banding machines — seamless, durable edges on every panel component"
+      },
+      "axis": {
+        "title": "5-Axis Machining",
+        "desc": "Italian BACC 5-axis processing centers for complex geometry components with exceptional surface quality"
+      },
+      "fiber": {
+        "title": "Fiber Laser Cutting",
+        "desc": "Han's Laser fiber laser cutting systems for precision metalwork — frames, hardware, structural components"
+      },
+      "paint": {
+        "title": "Environmental Finishing",
+        "desc": "Enclosed water-based paint booths with precision spray systems — low-VOC finishes meeting international standards"
+      },
+      "lab": {
+        "title": "Quality Lab",
+        "desc": "In-house testing lab for structural integrity, material compliance, and finish durability validation"
+      }
+    },
+    "timeline": {
+      "tag": "Milestones",
+      "title": "Our Journey",
+      "t1984": {
+        "title": "Foundation",
+        "desc": "Hongye Furniture established in Guangdong, China with 12 employees and a 2,000㎡ workshop"
+      },
+      "t1995": {
+        "title": "Hotel Division Launch",
+        "desc": "Dedicated hotel furniture division created; first 5-star hotel project delivered in Beijing"
+      },
+      "t2003": {
+        "title": "Export Expansion",
+        "desc": "First international export to Southeast Asia; ISO 9001 certification obtained"
+      },
+      "t2010": {
+        "title": "New Factory Campus",
+        "desc": "350,000㎡ purpose-built manufacturing campus opened; capacity expanded 10x"
+      },
+      "t2015": {
+        "title": "40,000㎡ Showroom",
+        "desc": "World-class showroom and design center opened — the largest commercial furniture showroom in the region"
+      },
+      "t2020": {
+        "title": "Digital Transformation",
+        "desc": "Virtual 3D showroom, parametric design tools, and digital project management launched"
+      },
+      "t2024": {
+        "title": "40th Anniversary",
+        "desc": "10,000+ completed projects across 50+ countries; 2,000+ employees; Group subsidiary network established"
+      }
+    },
+    "certs": {
+      "tag": "Credentials",
+      "title": "Certified for Global Standards",
+      "desc": "Our products and processes meet the most demanding international standards for safety, quality, and environmental responsibility.",
+      "iso": {
+        "desc": "Quality Management System certification — verified manufacturing processes and consistent product quality"
+      },
+      "ce": {
+        "desc": "European conformity marking — products meet EU safety, health, and environmental protection requirements"
+      },
+      "sgs": {
+        "desc": "Third-party inspection and testing by SGS — the world's leading testing, inspection and certification company"
+      },
+      "bifma": {
+        "desc": "Business and Institutional Furniture Manufacturers Association standards for performance and durability"
+      },
+      "fsc": {
+        "desc": "Forest Stewardship Council certification for responsible timber sourcing and chain of custody"
+      },
+      "carb": {
+        "desc": "California Air Resources Board compliance for formaldehyde emission standards in composite wood products"
+      }
+    },
+    "group": {
+      "tag": "Group Network",
+      "title": "The Hongye Furniture Ecosystem",
+      "desc": "Specialized subsidiaries covering every commercial furniture vertical — unified under one group for seamless project delivery.",
+      "main": {
+        "title": "Hongye Commercial",
+        "desc": "Main commercial furniture hub — all categories, custom projects, B2B supply chain",
+        "tag": "Flagship"
+      },
+      "hotel": {
+        "title": "Hongye Hotel",
+        "desc": "Specialist hotel furniture for 3-5 star hospitality projects worldwide",
+        "tag": "Hotel"
+      },
+      "health": {
+        "title": "Hongye Healthcare",
+        "desc": "Medical-grade furniture for hospitals, clinics, and care facilities",
+        "tag": "Healthcare"
+      },
+      "office": {
+        "title": "Hongye Office",
+        "desc": "Modern commercial office furniture for corporate and co-working environments",
+        "tag": "Office"
+      },
+      "edu": {
+        "title": "Hongye Education",
+        "desc": "Furniture systems for schools, universities, and learning spaces",
+        "tag": "Education"
+      },
+      "res": {
+        "title": "Fenmi Casa",
+        "desc": "Premium residential furniture for luxury villas and high-end apartments",
+        "tag": "Residential"
+      }
+    },
+    "cta": {
+      "title": "Partner with Hongye",
+      "desc": "Join 10,000+ projects worldwide. Tell us about your space and let's create something remarkable.",
+      "btn1": "Start a Conversation",
+      "btn2": "Our Products"
+    }
+  },
+  "products": {
+    "hero": {
+      "breadcrumb": "Products & Services",
+      "title": "Products & Services",
+      "sub": "Five major commercial furniture categories — fully customizable, manufactured to your specifications."
+    },
+    "catnav": ["Hotel", "Office", "Healthcare", "Education", "Residential", "Services"],
+    "hotel": {
+      "label": "Hotel Furniture",
+      "title": "Complete Hotel Furnishing Solutions",
+      "desc": "From budget hotels to 5-star luxury resorts — we provide complete furniture packages covering every hotel space, with consistent quality across the entire project.",
+      "rooms": {
+        "title": "Guest Rooms",
+        "desc": "Beds, wardrobes, desks, bedside tables, seating — complete room packages in any style",
+        "tags": ["Upholstered Beds", "Built-in Wardrobes", "Minibars"]
+      },
+      "lobby": {
+        "title": "Lobby & Public Areas",
+        "desc": "Reception counters, lounge seating, decorative pieces that define first impressions",
+        "tags": ["Reception Desk", "Lobby Seating", "Accent Pieces"]
+      },
+      "dining": {
+        "title": "F&B / Restaurant",
+        "desc": "Dining tables, banquet chairs, bar stools, outdoor patio furniture collections",
+        "tags": ["Dining Sets", "Bar Furniture", "Outdoor"]
+      },
+      "meeting": {
+        "title": "Meeting & Events",
+        "desc": "Stackable chairs, conference tables, banquet furniture — flexible configurations for any event",
+        "tags": ["Conference Tables", "Stackable Chairs", "Banquet Sets"]
+      }
+    },
+    "office": {
+      "label": "Office Furniture",
+      "title": "Modern Workplace Solutions",
+      "desc": "Ergonomic, contemporary office furniture for productive, inspiring workplaces — from executive suites to open-plan collaborative environments.",
+      "exec": {
+        "title": "Executive Offices",
+        "desc": "Solid wood desks, leather seating, matching storage and cabinet systems"
+      },
+      "open": {
+        "title": "Open Plan Workstations",
+        "desc": "Modular desk systems, acoustic panels, cable management solutions"
+      },
+      "conf": {
+        "title": "Conference Rooms",
+        "desc": "Large boardroom tables, presentation walls, executive chairs, credenzas"
+      },
+      "collab": {
+        "title": "Collaboration Zones",
+        "desc": "Lounge seating, high tables, soft seating for informal meetings and creative spaces"
+      },
+      "break": {
+        "title": "Staff Breakrooms",
+        "desc": "Canteen tables, café-style seating, kitchen furniture and storage"
+      },
+      "reception": {
+        "title": "Reception Areas",
+        "desc": "Reception counters, waiting room seating, custom signage furniture"
+      }
+    },
+    "health": {
+      "label": "Healthcare Furniture",
+      "title": "Medical-Grade Furniture Solutions",
+      "desc": "Designed for hygiene, durability, and patient comfort — our healthcare furniture meets the functional and regulatory demands of modern medical environments.",
+      "rooms": {
+        "title": "Hospital Patient Rooms",
+        "desc": "Patient bed frames, over-bed tables, bedside cabinets, visitor chairs, nursing stations"
+      },
+      "waiting": {
+        "title": "Waiting Areas",
+        "desc": "Easy-clean upholstered seating, modular waiting configurations, accessible designs"
+      },
+      "nursing": {
+        "title": "Nursing Homes & Care Centers",
+        "desc": "Ergonomic furniture for elderly care — raised seat heights, anti-tip designs, soft edges"
+      },
+      "clinical": {
+        "title": "Clinical Offices",
+        "desc": "Doctor consultation room furniture, administrative desks, storage systems, examination room fittings"
+      },
+      "compliance": {
+        "title": "Healthcare Compliance",
+        "desc": "All healthcare furniture is manufactured with anti-bacterial surface treatments, flame-retardant materials, and medical-grade stainless steel hardware where required. Products meet hospital procurement standards across Asia, Europe, and Latin America."
+      }
+    },
+    "edu": {
+      "label": "Education Furniture",
+      "title": "Furniture for Learning Environments",
+      "desc": "Ergonomic, durable, and flexible furniture systems designed to support diverse learning styles from primary school through university.",
+      "class": {
+        "title": "Classrooms",
+        "desc": "Height-adjustable student desks, ergonomic chairs, teacher desks, whiteboard systems"
+      },
+      "library": {
+        "title": "Libraries",
+        "desc": "Reading tables, book shelving systems, quiet study carrels, lounge reading areas"
+      },
+      "lab": {
+        "title": "Science Labs",
+        "desc": "Chemical-resistant lab benches, safety storage, fume hood cabinets"
+      },
+      "auditorium": {
+        "title": "Auditoriums",
+        "desc": "Fixed seating systems with writing tablets, folding auditorium chairs"
+      },
+      "canteen": {
+        "title": "Canteens",
+        "desc": "High-traffic dining furniture — easy-clean surfaces, stackable chairs, fixed benching"
+      },
+      "admin": {
+        "title": "Administrative",
+        "desc": "Faculty offices, staff rooms, reception and administrative workstations"
+      }
+    },
+    "res": {
+      "label": "Luxury Residential",
+      "title": "Premium Residential & Villa Furniture",
+      "desc": "Bespoke furniture for high-end residential developments, luxury villas, and premium apartments — where design, quality, and craftsmanship converge.",
+      "living": {
+        "title": "Living Spaces",
+        "desc": "Custom sofas, entertainment units, accent furniture"
+      },
+      "dining": {
+        "title": "Dining & Kitchen",
+        "desc": "Custom cabinetry, kitchen units, dining suites"
+      },
+      "bedroom": {
+        "title": "Master Bedroom",
+        "desc": "Custom beds, walk-in closets, dressing systems"
+      }
+    },
+    "services": {
+      "tag": "What We Offer",
+      "title": "End-to-End Project Services",
+      "desc": "More than furniture — we provide complete project management from design to installation.",
+      "s1": {
+        "title": "Custom Design",
+        "desc": "In-house design team creates 3D renderings, mood boards, and material specifications tailored to your brand and space"
+      },
+      "s2": {
+        "title": "Material Selection",
+        "desc": "Hundreds of fabric, leather, veneer, lacquer, and hardware options — physical samples available on request"
+      },
+      "s3": {
+        "title": "Prototype Production",
+        "desc": "We produce physical prototypes for approval before committing to full production runs — no surprises"
+      },
+      "s4": {
+        "title": "QC & Inspection",
+        "desc": "Multi-stage quality control with third-party inspection available. Full photo/video documentation provided"
+      },
+      "s5": {
+        "title": "Export Logistics",
+        "desc": "FCL/LCL sea freight, air freight coordination, customs documentation and insurance support"
+      },
+      "s6": {
+        "title": "Installation",
+        "desc": "Professional installation teams available in major markets — we don't just ship, we complete the project"
+      },
+      "s7": {
+        "title": "After-Sales Support",
+        "desc": "2-year warranty on all products, dedicated after-sales team, spare parts supply for key components"
+      },
+      "s8": {
+        "title": "Virtual Showroom",
+        "desc": "Explore our 40,000㎡ showroom remotely via 3D virtual tour — see products in context before ordering"
+      }
+    },
+    "cta": {
+      "title": "Have a Project in Mind?",
+      "desc": "Share your requirements and receive a detailed proposal within 24 hours.",
+      "btn1": "Request a Quote",
+      "btn2": "About Hongye"
+    }
+  },
+  "contact": {
+    "hero": {
+      "breadcrumb": "Contact",
+      "title": "Let's Discuss Your Project",
+      "sub": "Get a customized quote within 24 hours. No commitment required."
+    },
+    "info": {
+      "title": "Get in Touch",
+      "intro": "Whether you're planning a new hotel, office fitout, or large residential development — we want to hear about your project. Our project consultants are ready to help.",
+      "whatsapp": {
+        "title": "WhatsApp",
+        "desc": "Chat with our team directly — fastest response"
+      },
+      "email": {
+        "title": "Email",
+        "desc": "Send detailed project requirements to our sales team"
+      },
+      "factory": {
+        "title": "Factory & Showroom",
+        "desc": "Visit our 40,000㎡ showroom in person"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "desc": "Monday – Saturday: 8:00 AM – 6:00 PM (GMT+8)"
+      },
+      "hours_sunday": "Sunday: By appointment",
+      "promise": "We respond to all enquiries within <strong>24 hours</strong>"
+    },
+    "form": {
+      "title": "Request a Project Quote",
+      "desc": "Fill out the form below and our team will prepare a tailored proposal for your project.",
+      "name": "Full Name *",
+      "name_placeholder": "Your name",
+      "company": "Company / Organization",
+      "company_placeholder": "Company name",
+      "email": "Email Address *",
+      "email_placeholder": "your@email.com",
+      "phone": "Phone / WhatsApp *",
+      "phone_placeholder": "+1 XXX XXX XXXX",
+      "country": "Country *",
+      "country_placeholder": "Your country",
+      "sector": "Project Type *",
+      "sector_placeholder": "Select project type",
+      "sector_options": ["Hotel / Hospitality", "Office / Commercial", "Healthcare / Medical", "Education", "Luxury Residential", "Other"],
+      "budget": "Estimated Budget (USD)",
+      "budget_placeholder": "Prefer not to say",
+      "budget_options": ["Under $50,000", "$50,000 – $200,000", "$200,000 – $500,000", "$500,000+"],
+      "message": "Project Description *",
+      "message_placeholder": "Describe your project — space type, quantity, timeline, any specific requirements or style preferences...",
+      "submit": "Send Enquiry",
+      "note": "By submitting this form you agree to be contacted by our sales team regarding your project enquiry.",
+      "success": {
+        "title": "Message Sent!",
+        "desc": "Thank you for your enquiry. Our team will review your project details and get back to you within 24 hours.",
+        "whatsapp": "For urgent projects, please contact us directly via WhatsApp."
+      }
+    },
+    "faq": {
+      "tag": "FAQ",
+      "title": "Frequently Asked Questions",
+      "g1": {
+        "title": "Products & Manufacturing"
+      },
+      "q1": {
+        "q": "Can you manufacture custom furniture to our exact specifications?",
+        "a": "Yes — full customization is our specialty. We can work from your design drawings, mood boards, or brand guidelines. Our in-house design team can also create bespoke designs for your approval before production begins."
+      },
+      "q2": {
+        "q": "What is the minimum order quantity?",
+        "a": "For commercial projects, MOQ varies by product type. Generally, we work with project-based orders rather than unit quantities — a complete room set, floor, or full property supply is typical. Contact us with your project scope for guidance."
+      },
+      "q3": {
+        "q": "What materials do you work with?",
+        "a": "We work with solid wood, MDF/particleboard, plywood, stainless steel, mild steel, aluminum, marble, glass, and a full range of upholstery materials. All timber is FSC-certified and all composite panels meet CARB emission standards."
+      },
+      "g2": {
+        "title": "Quality & Certifications"
+      },
+      "q4": {
+        "q": "What quality certifications do you hold?",
+        "a": "Hongye holds ISO 9001:2015, CE Mark, SGS verification, BIFMA standard compliance, FSC certification, and CARB compliance. Copies of all certificates are available on request."
+      },
+      "q5": {
+        "q": "Can we inspect the factory and products before shipment?",
+        "a": "Absolutely. Factory visits are welcome — we regularly host international clients for in-person visits and virtual tours. Pre-shipment inspection by third-party QC companies (SGS, Bureau Veritas, etc.) can also be arranged."
+      },
+      "g3": {
+        "title": "Logistics & Import"
+      },
+      "q6": {
+        "q": "Do you handle shipping and customs documentation?",
+        "a": "Yes — we provide complete export documentation including commercial invoice, packing list, bill of lading, certificate of origin, and fumigation certificate. We work with experienced freight forwarders for FOB, CFR, and CIF terms."
+      },
+      "q7": {
+        "q": "What is the typical lead time?",
+        "a": "Standard lead times are 45–75 days for production after order confirmation, depending on order complexity and volume. We provide project-specific timelines during the quotation phase, including production schedule milestones."
+      },
+      "g4": {
+        "title": "Working with Hongye"
+      },
+      "q8": {
+        "q": "How do we start a project with Hongye?",
+        "a": "Submit your enquiry via WhatsApp, email, or the form on this page. Our project team will contact you within 24 hours to discuss your requirements. We'll then prepare a preliminary proposal and begin the design consultation process."
+      },
+      "q9": {
+        "q": "Do you provide after-sales support?",
+        "a": "All products carry a 2-year warranty. Our dedicated after-sales team handles replacement parts, repairs, and installation queries. For major markets, local service partners are available for on-site support."
+      }
+    }
+  },
+  "page": {
+    "title": "Hongye Furniture Group — Commercial Furniture Manufacturer"
+  }
+}
