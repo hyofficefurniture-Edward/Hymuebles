@@ -100,7 +100,11 @@
         <p class="contacto-subtitle">Completa lo esencial — te respondemos en menos de 24 horas.</p>
       </div>
 
-      <form class="contacto-form" id="contactoForm" action="#" method="post">
+      <form class="contacto-form" id="contactoForm" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="b08f8db9-03cc-4f84-99ed-2e651cddd7ee" />
+        <input type="hidden" name="subject" value="Nuevo presupuesto de hymobiliario.com" />
+        <input type="hidden" name="from_name" value="Hymuebles Web" />
+        <input type="hidden" name="ccemail" value="h@hysdfurniture.com" />
         <!-- Row 1: Nombre + Pais -->
         <div class="cf-row">
           <div class="cf-group">
@@ -285,6 +289,36 @@
   </footer>
 
   <script>
+    // Form submission via Web3Forms
+    const form = document.getElementById('contactoForm');
+    const success = document.getElementById('cfSuccess');
+    const submitBtn = form.querySelector('.cf-submit');
+
+    form.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      submitBtn.disabled = true;
+      submitBtn.innerHTML = 'Enviando...';
+
+      try {
+        const formData = new FormData(form);
+        const res = await fetch(form.action, { method: 'POST', body: formData });
+        const data = await res.json();
+
+        if (data.success) {
+          form.style.display = 'none';
+          success.style.display = 'block';
+        } else {
+          alert('Error al enviar. Por favor intente de nuevo o escríbanos directamente a ao@hysdfurniture.com');
+          submitBtn.disabled = false;
+          submitBtn.innerHTML = 'Enviar mi consulta de proyecto<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
+        }
+      } catch (err) {
+        alert('Error de conexión. Intente de nuevo o contáctenos por WhatsApp: +86 18038813653');
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = 'Enviar mi consulta de proyecto<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
+      }
+    });
+
     // Mobile menu toggle
   <script src="../mobile-nav.js"></script>
   <script>
