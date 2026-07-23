@@ -428,6 +428,20 @@
                 font-size: 24px;
             }
         }
+    
+        .gallery-main-img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            position: absolute;
+            top: 0; left: 0;
+        }
+        .gallery-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 4px;
+        }
     </style>
 </head>
 <body>
@@ -446,13 +460,13 @@
     <main class="product-hero">
         <div class="product-gallery">
             <div class="gallery-main">
-                <div class="gallery-main-content">
-                    <h4>Sofá de Dos Plazas Compacto para Apartamentos y Espacios Reducidos</h4>
+                <img class="gallery-main-img" src="../images/productos/prd-11/prd-11-01.jpg" alt="Producto principal" loading="eager">
+                <div class="gallery-main-content" style="display:none"><h4>Sofá de Dos Plazas Compacto para Apartamentos y Espacios Reducidos</h4>
                     <p>Imagen principal del producto — 5 vistas disponibles</p>
                 </div>
             </div>
             <div class="gallery-thumbs">
-                <div class="gallery-thumb"></div><div class="gallery-thumb"></div><div class="gallery-thumb"></div><div class="gallery-thumb"></div><div class="gallery-thumb"></div>
+                <div class="gallery-thumb active"><img src="../images/productos/prd-11/prd-11-01.jpg" alt="Vista 1" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-11/prd-11-01.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-11/prd-11-02.jpg" alt="Vista 2" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-11/prd-11-02.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-11/prd-11-03.jpg" alt="Vista 3" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-11/prd-11-03.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-11/prd-11-04.jpg" alt="Vista 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-11/prd-11-04.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-11/prd-11-05.jpg" alt="Vista 5" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-11/prd-11-05.jpg'"></div>
             </div>
         </div>
         
