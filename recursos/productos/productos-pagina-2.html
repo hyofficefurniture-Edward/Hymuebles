@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Muebles — Página 2 | HYMobiliario</title>
+  <meta name="description" content="Segunda página de nuestro catálogo: sofás modulares, sofás compactos y mesitas de noche. Muebles con carácter para casas con personalidad.">
+  <meta name="robots" content="index, follow">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      color: #2C2416;
+      background: #FDFCF9;
+      line-height: 1.6;
+    }
+    .listado-header {
+      background: linear-gradient(135deg, #5C4A3A 0%, #8B7355 100%);
+      color: #fff;
+      padding: 64px 0 48px;
+      text-align: center;
+    }
+    .listado-header h1 {
+      font-family: Georgia, serif;
+      font-size: 36px;
+      margin-bottom: 12px;
+      letter-spacing: -0.5px;
+    }
+    .listado-subtitle {
+      font-size: 16px;
+      opacity: 0.9;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    .productos-grid-section {
+      padding: 48px 0;
+    }
+    .content-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    .productos-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .producto-card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 12px rgba(44,36,22,0.06);
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+      transition: box-shadow 0.2s, transform 0.2s;
+      display: block;
+    }
+    .producto-card:hover {
+      box-shadow: 0 8px 32px rgba(44,36,22,0.12);
+      transform: translateY(-2px);
+    }
+    .producto-card-img {
+      background: #F5F2EC;
+      height: 200px;
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-end;
+      padding: 16px;
+    }
+    .producto-card-cat {
+      background: #8B7355;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 4px 10px;
+      border-radius: 4px;
+    }
+    .producto-card-info {
+      padding: 20px;
+    }
+    .producto-card-info h3 {
+      font-size: 16px;
+      line-height: 1.3;
+      margin-bottom: 8px;
+      color: #2C2416;
+    }
+    .producto-card-desc {
+      font-size: 13.5px;
+      color: #6B6358;
+      line-height: 1.6;
+      margin-bottom: 12px;
+    }
+    .producto-card-link {
+      font-size: 13px;
+      font-weight: 600;
+      color: #8B7355;
+    }
+    .paginacion {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      margin-top: 40px;
+      padding-top: 32px;
+      border-top: 1px solid #E8E3D9;
+    }
+    .pag-actual {
+      padding: 8px 16px;
+      background: #8B7355;
+      color: #fff;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .pag-link {
+      padding: 8px 16px;
+      border: 2px solid #E8E3D9;
+      border-radius: 6px;
+      font-size: 14px;
+      color: #8B7355;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .pag-link:hover {
+      border-color: #8B7355;
+    }
+    .cta-section {
+      padding: 48px 0;
+      border-top: 1px solid #E8E3D9;
+      text-align: center;
+      background: #fff;
+    }
+    .cta-section h2 {
+      font-size: 22px;
+      margin-bottom: 12px;
+    }
+    .cta-section p {
+      color: #6B6358;
+      margin-bottom: 24px;
+    }
+    .btn-primary {
+      background: #8B7355;
+      color: #fff;
+      padding: 14px 32px;
+      font-size: 15px;
+      font-weight: 600;
+      border-radius: 8px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn-primary:hover {
+      background: #6B5638;
+    }
+    .product-footer {
+      border-top: 2px solid #E8E3D9;
+      padding: 32px 0;
+      text-align: center;
+      color: #6B6358;
+      font-size: 13px;
+    }
+    @media (max-width: 768px) {
+      .productos-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="listado-productos">
+    <header class="listado-header">
+      <h1>Catálogo de Muebles — Página 2 | HYMobiliario</h1>
+      <p class="listado-subtitle">Segunda página de nuestro catálogo: sofás modulares, sofás compactos y mesitas de noche. Muebles con carácter para casas con personalidad.</p>
+    </header>
+    <section class="productos-grid-section">
+      <div class="content-container">
+        <div class="productos-grid">
+          <a href="prd-10-sofa-modular-salon-otomana.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos/prd-10/prd-10-01.jpg)">
+              <span class="producto-card-cat">Sofás y Asientos</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Sofá Modular de Salón con Otomana a Juego</h3>
+              <p class="producto-card-desc">Un sofá que crece y se adapta contigo. Empiezas con dos módulos para tu primer piso, añades otro cuando te mudas a una casa más grande, y sumas la oto...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="prd-11-sofa-dos-plazas-compacto-apartamento.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos/prd-11/prd-11-01.jpg)">
+              <span class="producto-card-cat">Sofás y Asientos</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Sofá de Dos Plazas Compacto para Apartamentos y Espacios Reducidos</h3>
+              <p class="producto-card-desc">Un sofá pequeño de verdad, no un sofá recortado que parece un juguete. Con solo 140 cm de ancho cabe en apartamentos, estudios y salones estrechos don...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="prd-12-mesita-noche-flotante-usb-carga-rapida.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos/prd-12/prd-12-01.jpg)">
+              <span class="producto-card-cat">Mesas Auxiliares</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Mesita de Noche Flotante con Puerto USB y Carga Rápida</h3>
+              <p class="producto-card-desc">La mesita que flota en la pared y te carga el móvil mientras duermes. Sin patas que estorben al pasar la fregona, sin cables a la vista enredados en l...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+        </div>
+              <nav class="paginacion">
+        <a href="index.html" class="pag-link">← 1</a>
+        <span class="pag-actual">2</span>
+      </nav>
+      </div>
+    </section>
+    <section class="cta-section">
+      <div class="content-container">
+        <h2>¿No encuentras lo que buscas?</h2>
+        <p>Consúltanos sin compromiso. Te ayudamos a encontrar el mueble perfecto para tu hogar.</p>
+        <a href="/contacto/" class="btn-primary">📋 Solicitar catálogo</a>
+      </div>
+    </section>
+  </main>
+  <footer class="product-footer">
+    <p>HYMobiliario — Muebles con carácter, casas con personalidad.</p>
+  </footer>
+</body>
+</html>
