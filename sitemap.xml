@@ -2,142 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hymobiliario.com/</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/pagina-2.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-01-armario-empotrado-medida-chapa-madera.html</loc>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-02-sofa-curvo-salon-mesa-centro.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-03-mesa-comedor-extensible-nogal-sillas.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-04-mesa-centro-redonda-madera-patas-metal.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-05-mueble-bar-salon-chapa-nogal.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-06-mesa-comedor-redonda-4-sillas.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-07-mesa-extensible-recepciones-eventos-casa.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-08-armario-dormitorio-medida-cajonera-espejo.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-09-paneles-decorativos-pared-chapa-madera.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-10-sofa-modular-salon-otomana.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-11-sofa-dos-plazas-compacto-apartamento.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/productos/prd-12-mesita-noche-flotante-usb-carga-rapida.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/about</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/catalogo/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/catalogo/educacion/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/catalogo/hoteleria/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/catalogo/oficinas/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/catalogo/residencial/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/catalogo/salud/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/contact</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/contacto/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/educacion/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/fabrica/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/hoteles/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/oficinas/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/politica-privacidad/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/products</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/proyectos/educacion/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/proyectos/hoteleria/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/proyectos/oficinas/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/proyectos/residencial/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/proyectos/salud/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/blog/</loc>
     <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/blog/costo-amueblar-hotel-2026-guia-ffe.html</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/videos/</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://hymobiliario.com/residencial/</loc>
+    <loc>https://hymobiliario.com/politica-privacidad/</loc>
     <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/salud/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/terminos-condiciones/</loc>
     <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>
