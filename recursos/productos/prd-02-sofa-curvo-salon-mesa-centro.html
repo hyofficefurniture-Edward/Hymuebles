@@ -58,7 +58,7 @@
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
-      "mainEntity": [{"@type": "Question", "name": "¿Puedo probar el sofá antes de comprarlo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, disponemos de showroom con unidades de exposición en nuestros centros. Además, ofrecemos servicio de muestras de tejido a domicilio sin compromiso para que puedas comprobar colores y texturas en tu propio salón."}}, {"@type": "Question", "name": "¿Se entrega montado?", "acceptedAnswer": {"@type": "Answer", "text": "El sofá se entrega en módulos que se acoplan entre sí en el momento de la instalación. El montaje completo lo realiza nuestro equipo en menos de 2 horas y se llevan todos los embalajes."}}, {"@type": "Question", "name": "¿Qué mantenimiento necesita el tapizado?", "acceptedAnswer": {"@type": "Answer", "text": "Aspirado semanal con cepillo suave para eliminar el polvo. En caso de mancha, actuar rápido con un paño húmedo. Una vez al año recomendamos una limpieza profesional con espuma seca incluida en la garantía los primeros 3 años."}}]
+      "mainEntity": [{"@type": "Question", "name": "¿Puedo probar el sofá antes de comprarlo?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, disponemos de showroom con unidades de exposición en nuestros centros. También ofrecemos servicio de muestras de tejido a domicilio sin compromiso para que puedas comprobar colores y texturas en tu propio salón."}}, {"@type": "Question", "name": "¿Se entrega montado?", "acceptedAnswer": {"@type": "Answer", "text": "El sofá se entrega en módulos que se acoplan entre sí en el momento de la instalación. El montaje completo lo realiza nuestro equipo en menos de 2 horas y se llevan todos los embalajes."}}, {"@type": "Question", "name": "¿Qué mantenimiento necesita el tapizado?", "acceptedAnswer": {"@type": "Answer", "text": "Aspirado semanal con cepillo suave para eliminar el polvo. En caso de mancha, actuar rápido con un paño húmedo. Una vez al año recomendamos una limpieza profesional con espuma seca incluida en la garantía los primeros 3 años."}}]
     }
     </script>
     
@@ -442,7 +442,76 @@
             object-fit: cover;
             border-radius: 4px;
         }
-    </style>
+    
+  /* Related products */
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .producto-card-mini {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    background: var(--color-surface, #FFFFFF);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(44,36,22,0.06);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .producto-card-mini:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(44,36,22,0.12);
+  }
+  .card-mini-img {
+    height: 160px;
+    background: #EEF0F3;
+    background-size: cover;
+    background-position: center;
+  }
+  .card-mini-info {
+    padding: 16px 20px;
+  }
+  .card-mini-cat {
+    display: block;
+    font-size: 11px;
+    color: var(--color-text-light, #6B6358);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  .card-mini-info h3 {
+    font-size: 14px;
+    color: var(--color-text, #2C2416);
+    line-height: 1.4;
+    margin: 0;
+  }
+  @media (max-width: 768px) {
+    .related-grid { grid-template-columns: 1fr; }
+  }
+
+
+  .cross-domain-link {
+    background: #F8F6F1;
+    padding: 20px 0;
+    border-top: 1px solid var(--color-border, #E8E3D9);
+    text-align: center;
+  }
+  .cross-domain-link p {
+    font-size: 14px;
+    color: var(--color-text-light, #6B6358);
+    margin: 0;
+  }
+  .cross-domain-link a {
+    color: var(--color-primary, #1a3a5c);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .cross-domain-link a:hover {
+    text-decoration: underline;
+  }
+
+</style>
 </head>
 <body>
     <!-- Breadcrumb -->
@@ -460,13 +529,13 @@
     <main class="product-hero">
         <div class="product-gallery">
             <div class="gallery-main">
-                <img class="gallery-main-img" src="images/productos/prd-02/prd-02-01.jpg" alt="Sofá Curvo de Salón con Mesa de Centro" loading="eager">
+                <img class="gallery-main-img" src="images/productos/prd-02/prd-02-01.jpg" alt="Sofá curvo de salón con mesa de centro a juego para living" loading="eager">
                 <div class="gallery-main-content" style="display:none"><h4>Sofá Curvo de Salón con Mesa de Centro a Juego</h4>
                     <p>Imagen principal del producto — 6 vistas disponibles</p>
                 </div>
             </div>
             <div class="gallery-thumbs">
-                <div class="gallery-thumb active"><img src="images/productos/prd-02/prd-02-01.jpg" alt="Sofá Curvo de Salón con - vista 1 de 6" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-01.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-02.jpg" alt="Sofá Curvo de Salón con - vista 2 de 6" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-02.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-03.jpg" alt="Sofá Curvo de Salón con - vista 3 de 6" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-03.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-04.jpg" alt="Sofá Curvo de Salón con - vista 4 de 6" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-04.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-05.jpg" alt="Sofá Curvo de Salón con - vista 5 de 6" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-05.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-06.jpg" alt="Sofá Curvo de Salón con - vista 6 de 6" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-06.jpg'"></div>
+                <div class="gallery-thumb active"><img src="images/productos/prd-02/prd-02-01.jpg" alt="Sofá curvo salón tejido suave mesa centro" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-01.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-02.jpg" alt="Detalle costuras sofá curvo salón hogar" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-02.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-03.jpg" alt="Conjunto sofá curvo y mesa centro living" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-03.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-04.jpg" alt="Espuma alta resiliencia sofá curvo confort" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-04.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-05.jpg" alt="Sofá curvo personalizable color salón" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-05.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-02/prd-02-06.jpg" alt="Mesa de centro madera a juego sofá curvo" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-02/prd-02-06.jpg'"></div>
             </div>
         </div>
         
@@ -489,7 +558,7 @@
                     <div class="ventaja-item">
                         <div class="ventaja-icon">🛡️</div>
                         <div class="ventaja-content">
-                            <p>La forma curva rompe con los salones cuadriculados de siempre y crea una zona de estar que invita a sentarse. Además, al no tener esquinas, el tránsito alrededor del sofá es más fluido, algo que se agradece en salones abiertos o integrados con cocina.</p>
+                            <p>La forma curva rompe con los salones cuadriculados de siempre y crea una zona de estar que invita a sentarse. Al no tener esquinas,, el tránsito alrededor del sofá es más natural, algo que se agradece en salones abiertos o integrados con cocina.</p>
                         </div>
                     </div>
                     <div class="ventaja-item">
@@ -508,6 +577,27 @@
         </div>
     </section>
     
+    
+    <!-- SEO Table -->
+    <section class="section">
+        <div class="content-container">
+            <h2 class="section-title">Opciones de tapizado y tamaño para tu salón</h2>
+        <div class="specs-wrapper">
+          <table class="specs-table">
+            <thead>
+              <tr><th>Tapizado</th><th>Confort</th><th>Mantenimiento</th><th>Ideal para</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Tejido bouclé</td><td>Muy suave</td><td>Aspirado semanal</td><td>Salón de uso diario</td></tr>
+              <tr><td>Lino mezcla</td><td>Natural y fresco</td><td>Limpieza en seco</td><td>Salones luminosos</td></tr>
+              <tr><td>Veludo</td><td>Lujo y calidez</td><td>Cepillado suave</td><td>Salón elegante</td></tr>
+              <tr><td>Microfibra</td><td>Resistente</td><td>Paño húmedo</td><td>Familias con niños</td></tr>
+            </tbody>
+          </table>
+        </div>
+        </div>
+    </section>
+
     <!-- Technical Parameters -->
     <section class="section">
         <div class="content-container">
@@ -571,7 +661,7 @@
                             <span class="faq-arrow">+</span>
                         </button>
                         <div class="faq-answer">
-                            <p>Sí, disponemos de showroom con unidades de exposición en nuestros centros. Además, ofrecemos servicio de muestras de tejido a domicilio sin compromiso para que puedas comprobar colores y texturas en tu propio salón.</p>
+                            <p>Sí, disponemos de showroom con unidades de exposición en nuestros centros. También ofrecemos servicio de muestras de tejido a domicilio sin compromiso para que puedas comprobar colores y texturas en tu propio salón.</p>
                         </div>
                     </div>
                     <div class="faq-item">
@@ -597,6 +687,43 @@
     </section>
     
     <!-- Bottom CTA -->
+        <!-- Productos relacionados -->
+    <section class="section">
+      <div class="content-container">
+        <h2 class="section-title">Productos que también te pueden gustar</h2>
+        <div class="related-grid">
+        <a href="prd-10-sofa-modular-salon-otomana.html" class="producto-card-mini">
+          <div class="card-mini-img" style="background-image: url(images/productos/prd-10/prd-10-01.jpg)"></div>
+          <div class="card-mini-info">
+            <span class="card-mini-cat">Sofás y Asientos</span>
+            <h3>Sofá Modular de Salón con Otomana a Juego</h3>
+          </div>
+        </a>
+        <a href="prd-11-sofa-dos-plazas-compacto-apartamento.html" class="producto-card-mini">
+          <div class="card-mini-img" style="background-image: url(images/productos/prd-11/prd-11-01.jpg)"></div>
+          <div class="card-mini-info">
+            <span class="card-mini-cat">Sofás y Asientos</span>
+            <h3>Sofá de Dos Plazas Compacto para Apartamentos y Espacios Reducidos</h3>
+          </div>
+        </a>
+        <a href="prd-04-mesa-centro-redonda-madera-patas-metal.html" class="producto-card-mini">
+          <div class="card-mini-img" style="background-image: url(images/productos/prd-04/prd-04-01.jpg)"></div>
+          <div class="card-mini-info">
+            <span class="card-mini-cat">Mesas Auxiliares</span>
+            <h3>Mesa de Centro Redonda de Madera con Patas Metálicas Finas</h3>
+          </div>
+        </a>
+        </div>
+      </div>
+    </section>
+    
+        <!-- Cross-domain link -->
+    <section class="section cross-domain-link">
+      <div class="content-container">
+        <p>¿Buscas este producto para un proyecto comercial? Visita nuestra web profesional: <a href="https://hymueble.com/productos/sofa-curvo-lobby-hotel-mesa-centro/" rel="noopener" target="_blank">Ver versión hotelera →</a></p>
+      </div>
+    </section>
+
     <section class="cta-section">
         <div class="content-container">
             <h2>¿Te interesa este producto?</h2>
