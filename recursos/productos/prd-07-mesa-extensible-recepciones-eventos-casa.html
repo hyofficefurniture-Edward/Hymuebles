@@ -442,7 +442,76 @@
             object-fit: cover;
             border-radius: 4px;
         }
-    </style>
+    
+  /* Related products */
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .producto-card-mini {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    background: var(--color-surface, #FFFFFF);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(44,36,22,0.06);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .producto-card-mini:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(44,36,22,0.12);
+  }
+  .card-mini-img {
+    height: 160px;
+    background: #EEF0F3;
+    background-size: cover;
+    background-position: center;
+  }
+  .card-mini-info {
+    padding: 16px 20px;
+  }
+  .card-mini-cat {
+    display: block;
+    font-size: 11px;
+    color: var(--color-text-light, #6B6358);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  .card-mini-info h3 {
+    font-size: 14px;
+    color: var(--color-text, #2C2416);
+    line-height: 1.4;
+    margin: 0;
+  }
+  @media (max-width: 768px) {
+    .related-grid { grid-template-columns: 1fr; }
+  }
+
+
+  .cross-domain-link {
+    background: #F8F6F1;
+    padding: 20px 0;
+    border-top: 1px solid var(--color-border, #E8E3D9);
+    text-align: center;
+  }
+  .cross-domain-link p {
+    font-size: 14px;
+    color: var(--color-text-light, #6B6358);
+    margin: 0;
+  }
+  .cross-domain-link a {
+    color: var(--color-primary, #1a3a5c);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .cross-domain-link a:hover {
+    text-decoration: underline;
+  }
+
+</style>
 </head>
 <body>
     <!-- Breadcrumb -->
@@ -460,13 +529,13 @@
     <main class="product-hero">
         <div class="product-gallery">
             <div class="gallery-main">
-                <img class="gallery-main-img" src="images/productos/prd-07/prd-07-01.jpg" alt="Mesa Extensible para Recepciones y Eventos en Casa" loading="eager">
+                <img class="gallery-main-img" src="images/productos/prd-07/prd-07-01.jpg" alt="Mesa extensible para recepciones y eventos en casa" loading="eager">
                 <div class="gallery-main-content" style="display:none"><h4>Mesa Extensible para Recepciones y Eventos en Casa</h4>
                     <p>Imagen principal del producto — 4 vistas disponibles</p>
                 </div>
             </div>
             <div class="gallery-thumbs">
-                <div class="gallery-thumb active"><img src="images/productos/prd-07/prd-07-01.jpg" alt="Mesa Extensible para Recepciones y - vista 1 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-01.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-07/prd-07-02.jpg" alt="Mesa Extensible para Recepciones y - vista 2 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-02.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-07/prd-07-03.jpg" alt="Mesa Extensible para Recepciones y - vista 3 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-03.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-07/prd-07-04.jpg" alt="Mesa Extensible para Recepciones y - vista 4 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-04.jpg'"></div>
+                <div class="gallery-thumb active"><img src="images/productos/prd-07/prd-07-01.jpg" alt="Mesa extensible eventos hogar plegable" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-01.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-07/prd-07-02.jpg" alt="Sistema plegado mesa extensible almacenaje" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-02.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-07/prd-07-03.jpg" alt="Mesa extensible madera natural salón" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-03.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-07/prd-07-04.jpg" alt="Mesa plegable guardar trastero compacta" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-07/prd-07-04.jpg'"></div>
             </div>
         </div>
         
@@ -508,6 +577,27 @@
         </div>
     </section>
     
+    
+    <!-- SEO Table -->
+    <section class="section">
+        <div class="content-container">
+            <h2 class="section-title">Modelos de mesa extensible para tu hogar</h2>
+        <div class="specs-wrapper">
+          <table class="specs-table">
+            <thead>
+              <tr><th>Modelo</th><th>Abierta</th><th>Cerrada</th><th>Ideal para</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Plegable redonda</td><td>Ø 150 cm</td><td>Ø 75 × 8 cm</td><td>Eventos puntuales</td></tr>
+              <tr><td>Extensible</td><td>180 × 90 cm</td><td>120 × 90 cm</td><td>Comedor diario</td></tr>
+              <tr><td>Plegable rectangular</td><td>160 × 75 cm</td><td>80 × 75 × 8 cm</td><td>Guardar en trastero</td></tr>
+              <tr><td>Modular</td><td>200 × 100 cm</td><td>100 × 100 cm</td><td>Salón comedor</td></tr>
+            </tbody>
+          </table>
+        </div>
+        </div>
+    </section>
+
     <!-- Technical Parameters -->
     <section class="section">
         <div class="content-container">
@@ -597,6 +687,43 @@
     </section>
     
     <!-- Bottom CTA -->
+        <!-- Productos relacionados -->
+    <section class="section">
+      <div class="content-container">
+        <h2 class="section-title">Productos que también te pueden gustar</h2>
+        <div class="related-grid">
+        <a href="prd-03-mesa-comedor-extensible-nogal-sillas.html" class="producto-card-mini">
+          <div class="card-mini-img" style="background-image: url(images/productos/prd-03/prd-03-01.jpg)"></div>
+          <div class="card-mini-info">
+            <span class="card-mini-cat">Mesas</span>
+            <h3>Mesa de Comedor Extensible con Chapa de Nogal y 6 Sillas</h3>
+          </div>
+        </a>
+        <a href="prd-06-mesa-comedor-redonda-4-sillas.html" class="producto-card-mini">
+          <div class="card-mini-img" style="background-image: url(images/productos/prd-06/prd-06-01.jpg)"></div>
+          <div class="card-mini-info">
+            <span class="card-mini-cat">Mesas</span>
+            <h3>Mesa de Comedor Redonda con 4 Sillas Tapizadas</h3>
+          </div>
+        </a>
+        <a href="prd-04-mesa-centro-redonda-madera-patas-metal.html" class="producto-card-mini">
+          <div class="card-mini-img" style="background-image: url(images/productos/prd-04/prd-04-01.jpg)"></div>
+          <div class="card-mini-info">
+            <span class="card-mini-cat">Mesas Auxiliares</span>
+            <h3>Mesa de Centro Redonda de Madera con Patas Metálicas Finas</h3>
+          </div>
+        </a>
+        </div>
+      </div>
+    </section>
+    
+        <!-- Cross-domain link -->
+    <section class="section cross-domain-link">
+      <div class="content-container">
+        <p>¿Buscas este producto para un proyecto comercial? Visita nuestra web profesional: <a href="https://hymueble.com/productos/mesa-banquetes-plegable-chapa-sillas/" rel="noopener" target="_blank">Ver versión hotelera →</a></p>
+      </div>
+    </section>
+
     <section class="cta-section">
         <div class="content-container">
             <h2>¿Te interesa este producto?</h2>
