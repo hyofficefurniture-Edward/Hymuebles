@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mobiliario de Oficina para Casa | HYMobiliario</title>
+  <meta name="description" content="Descubre nuestra colección de muebles de oficina para casa: escritorios, sillas ergonómicas, mesas de reuniones y más. Diseño y calidad para tu home office.">
+  <meta name="robots" content="index, follow">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; color: #2C2416; background: #FDFCF9; line-height: 1.6; }
+    .listado-header { background: linear-gradient(135deg, #5C4A3A 0%, #8B7355 100%); color: #fff; padding: 64px 0 48px; text-align: center; }
+    .listado-header h1 { font-family: Georgia, serif; font-size: 36px; margin-bottom: 12px; letter-spacing: -0.5px; }
+    .listado-subtitle { font-size: 16px; opacity: 0.9; max-width: 600px; margin: 0 auto; padding: 0 24px; }
+    .productos-grid-section { padding: 48px 0; }
+    .content-container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+    .productos-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+    .producto-card { background: #fff; border-radius: 8px; box-shadow: 0 2px 12px rgba(44,36,22,0.06); overflow: hidden; text-decoration: none; color: inherit; transition: box-shadow 0.2s, transform 0.2s; display: block; }
+    .producto-card:hover { box-shadow: 0 8px 32px rgba(44,36,22,0.12); transform: translateY(-2px); }
+    .producto-card-img { background: #F5F2EC; height: 200px; background-size: cover; background-position: center; display: flex; align-items: flex-start; justify-content: flex-end; padding: 16px; }
+    .producto-card-cat { background: #8B7355; color: #fff; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; padding: 4px 10px; border-radius: 4px; }
+    .producto-card-info { padding: 20px; }
+    .producto-card-info h3 { font-size: 16px; line-height: 1.3; margin-bottom: 8px; color: #2C2416; }
+    .producto-card-desc { font-size: 13.5px; color: #6B6358; line-height: 1.6; margin-bottom: 12px; }
+    .producto-card-link { font-size: 13px; font-weight: 600; color: #8B7355; }
+    .paginacion { display: flex; justify-content: center; gap: 16px; margin-top: 40px; padding-top: 32px; border-top: 1px solid #E8E3D9; }
+    .pag-actual { padding: 8px 16px; background: #8B7355; color: #fff; border-radius: 6px; font-size: 14px; font-weight: 600; }
+    .pag-link { padding: 8px 16px; border: 2px solid #E8E3D9; border-radius: 6px; font-size: 14px; color: #8B7355; text-decoration: none; font-weight: 600; }
+    .pag-link:hover { border-color: #8B7355; }
+    .cta-section { padding: 48px 0; border-top: 1px solid #E8E3D9; text-align: center; background: #fff; }
+    .cta-section h2 { font-size: 22px; margin-bottom: 12px; }
+    .cta-section p { color: #6B6358; margin-bottom: 24px; }
+    .btn-primary { background: #8B7355; color: #fff; padding: 14px 32px; font-size: 15px; font-weight: 600; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; }
+    .btn-primary:hover { background: #6B5638; }
+    .product-footer { border-top: 2px solid #E8E3D9; padding: 32px 0; text-align: center; color: #6B6358; font-size: 13px; }
+    @media (max-width: 768px) { .productos-grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main class="listado-productos">
+    <header class="listado-header">
+      <h1>Mobiliario de Oficina para Casa | HYMobiliario</h1>
+      <p class="listado-subtitle">Descubre nuestra colección de muebles de oficina para casa: escritorios, sillas ergonómicas, mesas de reuniones y más. Diseño y calidad para tu home office.</p>
+    </header>
+    <section class="productos-grid-section">
+      <div class="content-container">
+        <div class="productos-grid">
+          <a href="of-01-escritorio-ejecutivo-home-office.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos-oficina/of-01/of-01-01.jpg)">
+              <span class="producto-card-cat">Escritorios</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Escritorio Ejecutivo para Home Office</h3>
+              <p class="producto-card-desc">Un escritorio ejecutivo que convierte cualquier rincón de casa en un despacho con carácter. La chapa de madera natural a...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="of-02-escritorio-modular-home-office.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos-oficina/of-02/of-02-01.jpg)">
+              <span class="producto-card-cat">Estaciones de Trabajo</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Escritorio Modular para Home Office</h3>
+              <p class="producto-card-desc">Un escritorio modular que se adapta a la forma de trabajar de cada persona en casa. Pensado para jornadas de teletrabajo...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="of-03-mesa-reuniones-oficina-casa.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos-oficina/of-03/of-03-01.jpg)">
+              <span class="producto-card-cat">Mesas de Reunión</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Mesa de Reuniones para Oficina en Casa</h3>
+              <p class="producto-card-desc">Una mesa de reuniones que cabe en casa y cumple la misma función que la del despacho profesional. El diseño modular perm...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="of-04-silla-ergonomica-escritorio-casa.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos-oficina/of-04/of-04-01.jpg)">
+              <span class="producto-card-cat">Sillería</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Silla Ergonómica para Escritorio en Casa</h3>
+              <p class="producto-card-desc">Una silla ergonómica que cuida tu espalda mientras trabajas desde casa. El soporte lumbar dinámico sigue el movimiento n...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="of-05-silla-diseno-estudio-casa.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos-oficina/of-05/of-05-01.jpg)">
+              <span class="producto-card-cat">Sillería de Diseño</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Silla de Diseño para Estudio en Casa</h3>
+              <p class="producto-card-desc">Una silla que no pasa desaparecida. El respaldo geométrico la convierte en una pieza de autor, pero no sacrifica el conf...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+          <a href="of-06-sofa-modular-salon-casa.html" class="producto-card">
+            <div class="producto-card-img" style="background-image: url(images/productos-oficina/of-06/of-06-01.jpg)">
+              <span class="producto-card-cat">Lounge Corporativo</span>
+            </div>
+            <div class="producto-card-info">
+              <h3>Sofá Modular para Salón de Casa</h3>
+              <p class="producto-card-desc">Un sofá modular que se adapta a tu salón, no al revés. Empieza con dos plazas y añade una chaise cuando lo necesites. La...</p>
+              <span class="producto-card-link">Ver producto →</span>
+            </div>
+          </a>
+        </div>
+      <nav class="paginacion">
+        <span class="pag-actual">1</span>
+        <a href="pagina-2.html" class="pag-link">2 →</a>
+      </nav>
+      </div>
+    </section>
+    <section class="cta-section">
+      <div class="content-container">
+        <h2>¿No encuentras lo que buscas?</h2>
+        <p>Consúltanos sin compromiso. Te ayudamos a encontrar el mueble perfecto para tu home office.</p>
+        <a href="/contacto/" class="btn-primary">📋 Solicitar catálogo</a>
+      </div>
+    </section>
+  </main>
+  <footer class="product-footer">
+    <p>HYMobiliario — Muebles con carácter, casas con personalidad.</p>
+  </footer>
+</body>
+</html>
