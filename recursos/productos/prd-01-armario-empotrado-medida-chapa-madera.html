@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+  <!-- hy-group-sites-css -->
+  <style>
+.hy-group-sites{border-top:1px solid #e0e0e0;padding:24px 0;margin-top:0;background:#f8f9fa}
+.hy-group-sites__inner{max-width:1200px;margin:0 auto;padding:0 20px}
+.hy-group-sites__title{font-size:16px;font-weight:600;color:#333;margin:0 0 8px}
+.hy-group-sites__desc{font-size:13px;color:#666;margin:0 0 12px}
+.hy-group-sites__list{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px 24px}
+.hy-group-sites__list li{font-size:13px;color:#888}
+.hy-group-sites__list a{color:#2563eb;text-decoration:none;font-weight:500}
+.hy-group-sites__list a:hover{text-decoration:underline}
+</style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Armario Empotrado a Medida Chapa Madera Natural | HYMobiliario</title>
@@ -442,76 +453,7 @@
             object-fit: cover;
             border-radius: 4px;
         }
-    
-  /* Related products */
-  .related-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-  }
-  .producto-card-mini {
-    text-decoration: none;
-    color: inherit;
-    display: block;
-    background: var(--color-surface, #FFFFFF);
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 12px rgba(44,36,22,0.06);
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-  .producto-card-mini:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 20px rgba(44,36,22,0.12);
-  }
-  .card-mini-img {
-    height: 160px;
-    background: #EEF0F3;
-    background-size: cover;
-    background-position: center;
-  }
-  .card-mini-info {
-    padding: 16px 20px;
-  }
-  .card-mini-cat {
-    display: block;
-    font-size: 11px;
-    color: var(--color-text-light, #6B6358);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 6px;
-  }
-  .card-mini-info h3 {
-    font-size: 14px;
-    color: var(--color-text, #2C2416);
-    line-height: 1.4;
-    margin: 0;
-  }
-  @media (max-width: 768px) {
-    .related-grid { grid-template-columns: 1fr; }
-  }
-
-
-  .cross-domain-link {
-    background: #F8F6F1;
-    padding: 20px 0;
-    border-top: 1px solid var(--color-border, #E8E3D9);
-    text-align: center;
-  }
-  .cross-domain-link p {
-    font-size: 14px;
-    color: var(--color-text-light, #6B6358);
-    margin: 0;
-  }
-  .cross-domain-link a {
-    color: var(--color-primary, #1a3a5c);
-    font-weight: 600;
-    text-decoration: none;
-  }
-  .cross-domain-link a:hover {
-    text-decoration: underline;
-  }
-
-</style>
+    </style>
 </head>
 <body>
     <!-- Breadcrumb -->
@@ -529,20 +471,20 @@
     <main class="product-hero">
         <div class="product-gallery">
             <div class="gallery-main">
-                <img class="gallery-main-img" src="images/productos/prd-01/prd-01-01.jpg" alt="Armario empotrado a medida de chapa de madera natural para dormitorio" loading="eager">
+                <img class="gallery-main-img" src="../images/productos/prd-01/prd-01-01.jpg" alt="Armario Empotrado a Medida con Chapa de Madera" loading="eager">
                 <div class="gallery-main-content" style="display:none"><h4>Armario Empotrado a Medida con Chapa de Madera Natural</h4>
                     <p>Imagen principal del producto — 4 vistas disponibles</p>
                 </div>
             </div>
             <div class="gallery-thumbs">
-                <div class="gallery-thumb active"><img src="images/productos/prd-01/prd-01-01.jpg" alt="Armario empotrado chapa roble dormitorio principal" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-01/prd-01-01.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-01/prd-01-02.jpg" alt="Puertas correderas armario madera medida salón" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-01/prd-01-02.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-01/prd-01-03.jpg" alt="Interior armario LED estantes y barra colgar" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-01/prd-01-03.jpg'"></div><div class="gallery-thumb"><img src="images/productos/prd-01/prd-01-04.jpg" alt="Armario a medida chapa nogal acabado natural" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='images/productos/prd-01/prd-01-04.jpg'"></div>
+                <div class="gallery-thumb active"><img src="../images/productos/prd-01/prd-01-01.jpg" alt="Armario Empotrado a Medida con - vista 1 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-01/prd-01-01.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-01/prd-01-02.jpg" alt="Armario Empotrado a Medida con - vista 2 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-01/prd-01-02.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-01/prd-01-03.jpg" alt="Armario Empotrado a Medida con - vista 3 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-01/prd-01-03.jpg'"></div><div class="gallery-thumb"><img src="../images/productos/prd-01/prd-01-04.jpg" alt="Armario Empotrado a Medida con - vista 4 de 4" loading="lazy" width="120" height="120" onclick="document.querySelector('.gallery-main-img').src='../images/productos/prd-01/prd-01-04.jpg'"></div>
             </div>
         </div>
         
         <div class="product-info">
             <span class="product-category">Armarios y Almacenaje</span>
             <h1>Armario Empotrado a Medida con Chapa de Madera Natural</h1>
-            <p class="product-intro">Un armario empotrado que transforma el dormitorio en un espacio ordenado y elegante. Fabricado con chapa de madera natural y herrajes de primera calidad, cada armario se diseña a medida para ocupar hasta el último centímetro de tu pared. La iluminación LED interior y el sistema de cierre suave convierten el día a día en una experiencia más cómoda.</p>
+            <p class="product-intro">Un armario empotrado que transforma el dormitorio en un espacio ordenado y elegante. Fabricado con chapa de madera natural y herrajes de primera calidad, cada armario se diseña a medida para aprovechar hasta el último centímetro de tu pared. La iluminación LED interior y el sistema de cierre suave convierten el día a día en una experiencia más cómoda.</p>
             <div class="product-cta-group">
                 <a href="/contacto/" class="btn-primary">📋 Solicitar catálogo</a>
                 <a href="/contacto/" class="btn-secondary">💬 Consultar precio</a>
@@ -577,27 +519,6 @@
         </div>
     </section>
     
-    
-    <!-- SEO Table -->
-    <section class="section">
-        <div class="content-container">
-            <h2 class="section-title">Comparativa de chapas y acabados para tu dormitorio</h2>
-        <div class="specs-wrapper">
-          <table class="specs-table">
-            <thead>
-              <tr><th>Tipo de chapa</th><th>Tono</th><th>Estilo</th><th>Ideal para</th></tr>
-            </thead>
-            <tbody>
-              <tr><td>Roble natural</td><td>Miel claro</td><td>Nórdico y actual</td><td>Dormitorio luminoso</td></tr>
-              <tr><td>Nogal europeo</td><td>Marrón cálido</td><td>Clásico y elegante</td><td>Dormitorio principal</td></tr>
-              <tr><td>Fresno teñido</td><td>Gris antracita</td><td>Industrial moderno</td><td>Loft y departamentos</td></tr>
-              <tr><td>Lacado mate</td><td>Blanco o color</td><td>Minimalista</td><td>Espacios pequeños</td></tr>
-            </tbody>
-          </table>
-        </div>
-        </div>
-    </section>
-
     <!-- Technical Parameters -->
     <section class="section">
         <div class="content-container">
@@ -687,43 +608,6 @@
     </section>
     
     <!-- Bottom CTA -->
-        <!-- Productos relacionados -->
-    <section class="section">
-      <div class="content-container">
-        <h2 class="section-title">Productos que también te pueden gustar</h2>
-        <div class="related-grid">
-        <a href="prd-08-armario-dormitorio-medida-cajonera-espejo.html" class="producto-card-mini">
-          <div class="card-mini-img" style="background-image: url(images/productos/prd-08/prd-08-01.jpg)"></div>
-          <div class="card-mini-info">
-            <span class="card-mini-cat">Armarios y Almacenaje</span>
-            <h3>Armario de Dormitorio a Medida con Cajonera y Espejo Integrado</h3>
-          </div>
-        </a>
-        <a href="prd-05-mueble-bar-salon-chapa-nogal.html" class="producto-card-mini">
-          <div class="card-mini-img" style="background-image: url(images/productos/prd-05/prd-05-01.jpg)"></div>
-          <div class="card-mini-info">
-            <span class="card-mini-cat">Armarios y Almacenaje</span>
-            <h3>Mueble Bar de Salón con Chapa de Nogal y Encimera Antimanchas</h3>
-          </div>
-        </a>
-        <a href="prd-09-paneles-decorativos-pared-chapa-madera.html" class="producto-card-mini">
-          <div class="card-mini-img" style="background-image: url(images/productos/prd-09/prd-09-01.jpg)"></div>
-          <div class="card-mini-info">
-            <span class="card-mini-cat">Revestimientos</span>
-            <h3>Paneles Decorativos de Pared con Chapa de Madera Natural</h3>
-          </div>
-        </a>
-        </div>
-      </div>
-    </section>
-    
-        <!-- Cross-domain link -->
-    <section class="section cross-domain-link">
-      <div class="content-container">
-        <p>¿Buscas este producto para un proyecto comercial? Visita nuestra web profesional: <a href="https://hymueble.com/productos/armario-hotelero-empotrado-chapa-madera/" rel="noopener" target="_blank">Ver versión hotelera →</a></p>
-      </div>
-    </section>
-
     <section class="cta-section">
         <div class="content-container">
             <h2>¿Te interesa este producto?</h2>
@@ -736,7 +620,24 @@
     <footer class="product-footer">
         <p>HYMobiliario — Muebles con carácter, casas con personalidad.</p>
         <p>© 2026 HYMobiliario. Todos los derechos reservados.</p>
-    </footer>
+        <!-- ===== Hongye Furniture Group — Sister Sites ===== -->
+    <div class="hy-group-sites">
+      <div class="hy-group-sites__inner">
+        <h4 class="hy-group-sites__title">Hongye Furniture Group</h4>
+        <p class="hy-group-sites__desc">Our specialized furniture divisions serving global projects:</p>
+        <ul class="hy-group-sites__list">
+          <li><a href="https://hysdfurniture.com" target="_blank" rel="noopener">Hongye SD Furniture</a> &mdash; Project Furniture Manufacturer</li>
+          <li><a href="https://www.hyhotelfurniture.com" target="_blank" rel="noopener">Hongye Hotel Furniture</a> &mdash; Hospitality FF&amp;E Solutions</li>
+          <li><a href="https://www.hyofficefurniture.com" target="_blank" rel="noopener">Hongye Office Furniture</a> &mdash; Workplace &amp; Commercial</li>
+          <li><a href="https://www.hyhealthcarefurniture.com" target="_blank" rel="noopener">Hongye Healthcare Furniture</a> &mdash; Medical &amp; Senior Care</li>
+          <li><a href="https://www.hyeducationfurniture.com" target="_blank" rel="noopener">Hongye Education Furniture</a> &mdash; K-12 &amp; University</li>
+          <li><a href="https://fenmicasa.com" target="_blank" rel="noopener">Fenmicasa</a> &mdash; Premium Residential Furniture</li>
+          <li><a href="https://taula.cn" target="_blank" rel="noopener">TAULA</a> &mdash; Sintered Stone &amp; Surface Solutions</li>
+        </ul>
+      </div>
+    </div>
+    <!-- ===== End Sister Sites ===== -->
+  </footer>
     
     <script>
         // FAQ accordion is handled by CSS with .open class
