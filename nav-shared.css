@@ -303,3 +303,20 @@
   .nav-cta { margin: 12px 24px 0; }
   .lang-switch { margin: 8px 24px 0; }
 }
+
+/* =============================================
+   HONGYE TEXT LOGO (replaces image logo)
+   ============================================= */
+.logo-text {
+  font-family: var(--font-display, Georgia, "Times New Roman", serif);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--color-primary, #1a1a1a);
+  line-height: 1;
+  white-space: nowrap;
+  transition: color 0.2s ease;
+}
+.logo:hover .logo-text {
+  color: var(--color-accent, #c8442a);
+}
