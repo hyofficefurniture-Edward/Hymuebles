@@ -408,6 +408,66 @@
   </section>
 
   <!-- ══ FOOTER ══ -->
+  
+  <!-- ══ PRODUCTOS DESTACADOS ( topical clustering ) ══ -->
+  <section class="featured-productos" id="productos-destacados">
+    <style>
+      .featured-productos { max-width:1200px; margin:0 auto; padding:64px 24px; }
+      .featured-productos h2 { font-size:30px; color:#2C2416; text-align:center; margin:0 0 12px; }
+      .featured-productos .fp-sub { text-align:center; color:#6B6358; font-size:15px; max-width:760px; margin:0 auto 40px; line-height:1.65; }
+      .featured-productos .fp-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; }
+      .featured-productos .fp-card { text-decoration:none; color:inherit; display:block; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 2px 12px rgba(44,36,22,0.08); transition:transform .2s, box-shadow .2s; }
+      .featured-productos .fp-card:hover { transform:translateY(-3px); box-shadow:0 6px 24px rgba(44,36,22,0.15); }
+      .featured-productos .fp-img { width:100%; height:200px; object-fit:cover; background:#F5F2EC; display:block; }
+      .featured-productos .fp-info { padding:16px 18px 18px; }
+      .featured-productos .fp-info h3 { font-size:15px; color:#2C2416; line-height:1.4; margin:0 0 8px; font-weight:600; }
+      .featured-productos .fp-info p { font-size:13px; color:#6B6358; line-height:1.55; margin:0 0 10px; }
+      .featured-productos .fp-link { font-size:13px; color:#C8442A; font-weight:600; }
+      .featured-productos .fp-cta { text-align:center; margin-top:36px; }
+      .featured-productos .fp-cta a { display:inline-block; padding:13px 32px; background:#2C2416; color:#fff; text-decoration:none; border-radius:6px; font-size:14px; font-weight:600; transition:background .2s; }
+      .featured-productos .fp-cta a:hover { background:#C8442A; }
+      @media(max-width:900px){ .featured-productos .fp-grid{grid-template-columns:repeat(2,1fr);} }
+      @media(max-width:560px){ .featured-productos .fp-grid{grid-template-columns:1fr;} .featured-productos h2{font-size:24px;} }
+    </style>
+    <h2>Productos destacados</h2>
+    <p class="fp-sub">Mobiliario para consultorios, cuidados m&eacute;dicos en casa y cl&iacute;nicas: conjuntos completos, recepciones y almacenamiento con est&aacute;ndares sanitarios.</p>
+    <div class="fp-grid">
+        <a href="/recursos/productos-medicos/med-01-conjunto-mobiliario-consultorio-medico.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos-medicos/images/productos-medicos/med-01/med-01-01.jpg" alt="Conjunto de Mobiliario para Consultorio Médico" loading="lazy" />
+          <div class="fp-info">
+            <h3>Conjunto de Mobiliario para Consultorio Médico</h3>
+            <p>Conjunto completo de mobiliario para consultorio médico con escritorio, almacenamiento y sillón. Sup...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+        <a href="/recursos/productos-medicos/med-02-set-mobiliario-sala-reconocimiento-medico.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos-medicos/images/productos-medicos/med-02/med-02-01.jpg" alt="Set de Mobiliario para Sala de Reconocimiento Médico" loading="lazy" />
+          <div class="fp-info">
+            <h3>Set de Mobiliario para Sala de Reconocimiento Médico</h3>
+            <p>Set completo de mobiliario para sala de reconocimiento: camilla, armario de almacenamiento y escrito...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+        <a href="/recursos/productos-medicos/med-03-set-muebles-habitacion-cuidados-casa.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos-medicos/images/productos-medicos/med-03/med-03-01.jpg" alt="Set de Muebles para Habitación de Cuidados en Casa" loading="lazy" />
+          <div class="fp-info">
+            <h3>Set de Muebles para Habitación de Cuidados en Casa</h3>
+            <p>Set de muebles para habitación de cuidados en casa: mesita, armario y sillón reclinable. Diseño cáli...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+        <a href="/recursos/productos-medicos/med-04-mostrador-recepcion-clinica-privada.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos-medicos/images/productos-medicos/med-04/med-04-01.jpg" alt="Mostrador de Recepción para Clínica Privada" loading="lazy" />
+          <div class="fp-info">
+            <h3>Mostrador de Recepción para Clínica Privada</h3>
+            <p>Mostrador de recepción para clínica privada con diseño elegante y funcional. Superficie de fácil lim...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+    </div>
+    <div class="fp-cta"><a href="/recursos/productos-medicos/">Ver todos los productos m&eacute;dicos &rarr;</a></div>
+  </section>
+
   <footer class="footer">
     <div class="footer-cta">
       <div class="container footer-cta-inner">
