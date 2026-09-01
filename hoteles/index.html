@@ -408,6 +408,66 @@
   </section>
 
   <!-- ══ FOOTER ══ -->
+  
+  <!-- ══ PRODUCTOS DESTACADOS ( topical clustering ) ══ -->
+  <section class="featured-productos" id="productos-destacados">
+    <style>
+      .featured-productos { max-width:1200px; margin:0 auto; padding:64px 24px; }
+      .featured-productos h2 { font-size:30px; color:#2C2416; text-align:center; margin:0 0 12px; }
+      .featured-productos .fp-sub { text-align:center; color:#6B6358; font-size:15px; max-width:760px; margin:0 auto 40px; line-height:1.65; }
+      .featured-productos .fp-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; }
+      .featured-productos .fp-card { text-decoration:none; color:inherit; display:block; background:#fff; border-radius:10px; overflow:hidden; box-shadow:0 2px 12px rgba(44,36,22,0.08); transition:transform .2s, box-shadow .2s; }
+      .featured-productos .fp-card:hover { transform:translateY(-3px); box-shadow:0 6px 24px rgba(44,36,22,0.15); }
+      .featured-productos .fp-img { width:100%; height:200px; object-fit:cover; background:#F5F2EC; display:block; }
+      .featured-productos .fp-info { padding:16px 18px 18px; }
+      .featured-productos .fp-info h3 { font-size:15px; color:#2C2416; line-height:1.4; margin:0 0 8px; font-weight:600; }
+      .featured-productos .fp-info p { font-size:13px; color:#6B6358; line-height:1.55; margin:0 0 10px; }
+      .featured-productos .fp-link { font-size:13px; color:#C8442A; font-weight:600; }
+      .featured-productos .fp-cta { text-align:center; margin-top:36px; }
+      .featured-productos .fp-cta a { display:inline-block; padding:13px 32px; background:#2C2416; color:#fff; text-decoration:none; border-radius:6px; font-size:14px; font-weight:600; transition:background .2s; }
+      .featured-productos .fp-cta a:hover { background:#C8442A; }
+      @media(max-width:900px){ .featured-productos .fp-grid{grid-template-columns:repeat(2,1fr);} }
+      @media(max-width:560px){ .featured-productos .fp-grid{grid-template-columns:1fr;} .featured-productos h2{font-size:24px;} }
+    </style>
+    <h2>Productos destacados</h2>
+    <p class="fp-sub">Selecci&oacute;n de mobiliario fabricado por Hongye Furniture Group: armarios a medida, sof&aacute;s y mesas con acabados aptos para proyectos hoteleros y para el hogar.</p>
+    <div class="fp-grid">
+        <a href="/recursos/productos/prd-01-armario-empotrado-medida-chapa-madera.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos/images/productos/prd-01/prd-01-01.jpg" alt="Armario Empotrado a Medida con Chapa de Madera Natural" loading="lazy" />
+          <div class="fp-info">
+            <h3>Armario Empotrado a Medida con Chapa de Madera Natural</h3>
+            <p>Un armario empotrado que transforma el dormitorio en un espacio ordenado y elegante. Fabricado con chapa de...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+        <a href="/recursos/productos/prd-02-sofa-curvo-salon-mesa-centro.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos/images/productos/prd-02/prd-02-01.jpg" alt="Sofá Curvo de Salón con Mesa de Centro a Juego" loading="lazy" />
+          <div class="fp-info">
+            <h3>Sofá Curvo de Salón con Mesa de Centro a Juego</h3>
+            <p>Un sofá que cambia la forma de vivir el salón. El diseño curvo envuelve y crea un punto de reunión natural...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+        <a href="/recursos/productos/prd-03-mesa-comedor-extensible-nogal-sillas.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos/images/productos/prd-03/prd-03-01.jpg" alt="Mesa de Comedor Extensible con Chapa de Nogal y 6 Sillas" loading="lazy" />
+          <div class="fp-info">
+            <h3>Mesa de Comedor Extensible con Chapa de Nogal y 6 Sillas</h3>
+            <p>Una mesa de comedor que se adapta al día a día y a las ocasiones especiales. En su formato compacto, seis c...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+        <a href="/recursos/productos/prd-04-mesa-centro-redonda-madera-patas-metal.html" class="fp-card">
+          <img class="fp-img" src="/recursos/productos/images/productos/prd-04/prd-04-01.jpg" alt="Mesa de Centro Redonda de Madera con Patas Metálicas Finas" loading="lazy" />
+          <div class="fp-info">
+            <h3>Mesa de Centro Redonda de Madera con Patas Metálicas Finas</h3>
+            <p>La mesa de centro que necesitas si buscas algo que no abrume el salón. Las patas metálicas finas sostienen...</p>
+            <span class="fp-link">Ver producto &rarr;</span>
+          </div>
+        </a>
+    </div>
+    <div class="fp-cta"><a href="/recursos/productos/">Ver todos los productos para hogar y hoteles &rarr;</a></div>
+  </section>
+
   <footer class="footer">
     <div class="footer-cta">
       <div class="container footer-cta-inner">
