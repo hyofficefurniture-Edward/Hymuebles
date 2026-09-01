@@ -13,12 +13,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hymobiliario.com/recursos/productos/pagina-2.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hymobiliario.com/recursos/productos/prd-01-armario-empotrado-medida-chapa-madera.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -95,12 +89,6 @@
     <lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/recursos/productos-oficina/pagina-2.html</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/productos-oficina/of-01-escritorio-ejecutivo-home-office.html</loc>
@@ -241,12 +229,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hymobiliario.com/recursos/productos-medicos/pagina-2.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hymobiliario.com/recursos/productos-medicos/med-01-conjunto-mobiliario-consultorio-medico.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -325,12 +307,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://hymobiliario.com/recursos/productos-escolares/pagina-2.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hymobiliario.com/recursos/productos-escolares/esc-01-muebles-aula-infantil-casa-coloridos-seguros.html</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -404,9 +380,6 @@
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/productos-residenciales/</loc>
-  </url>
-  <url>
-    <loc>https://hymobiliario.com/recursos/productos-residenciales/pagina-2.html</loc>
   </url>
   <url>
     <loc>https://hymobiliario.com/recursos/productos-residenciales/res-01-conjunto-muebles-apartamento-estilo-actual.html</loc>
