@@ -13,17 +13,17 @@
   <link rel="shortcut icon" href="/images/favicon.ico?v=2" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contacto y Cotización de Mobiliario | Hongye Furniture Group</title>
-  <meta name="description" content="Solicite cotización para muebles comerciales a medida. Respondemos en 24h por WhatsApp o correo. Fabrica directa en China con envio global. Hongye Furniture." />
+  <title>Consulta de Diseño Residencial | Hymobiliario</title>
+  <meta name="description" content="Solicita una consulta de diseño para tu villa, casa o apartamento. Comparte tu distribución y recibe orientación inicial para mobiliario residencial a medida." />
   <link rel="canonical" href="https://www.hymobiliario.com/contacto/" />
-  <meta name="keywords" content="cotización muebles comerciales, contacto fabricante muebles China, presupuesto mobiliario hotel, fabrica muebles Guangdong" />
+  <meta name="keywords" content="consulta diseño interior, muebles residenciales a medida, mobiliario para villa, muebles para casa de lujo" />
   <meta name="robots" content="index, follow" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="Contacto y Cotización de Mobiliario | Hongye Furniture Group" />
-  <meta property="og:description" content="Solicite cotización para muebles comerciales a medida. Respondemos en 24h." />
-  <meta property="og:image" content="../images/productos/hotel/mobiliario-hotelero-lujo-lobby.webp" />
+  <meta property="og:title" content="Consulta de Diseño Residencial | Hymobiliario" />
+  <meta property="og:description" content="Comparte tu distribución y recibe orientación inicial para mobiliario residencial a medida." />
+  <meta property="og:image" content="/images/productos/residencial/salon-lujo-villa-moderno.webp" />
   <meta property="og:url" content="https://www.hymobiliario.com/contacto/" />
-  <meta property="og:site_name" content="Hongye Furniture Group" />
+  <meta property="og:site_name" content="Hymobiliario" />
   <meta property="og:locale" content="es_ES" />
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="stylesheet" href="styles.css" />
@@ -152,7 +152,7 @@
         <a href="/contacto/index.html" class="nav-link">Contacto</a>
       </div>
       </nav>
-      <a href="/contacto/index.html" class="nav-cta btn-primary">Solicitar Cotizaci&oacute;n</a>
+      <a href="/contacto/index.html" class="nav-cta btn-primary">Consulta de diseño</a>
       <div class="lang-switch">
         <button class="lang-btn lang-btn-active" id="langEs">ES</button>
         <button class="lang-btn" id="langEn">EN</button>
@@ -167,19 +167,22 @@
   <section class="section contacto-form-section">
     <div class="container contacto-form-container">
       <div class="contacto-form-header">
-        <h1 class="contacto-title">¿Tienes un proyecto de mobiliario?</h1>
-        <p class="contacto-subtitle">Completa lo esencial — te respondemos en menos de 24 horas.</p>
+        <h1 class="contacto-title">Consulta de diseño para tu hogar</h1>
+        <p class="contacto-subtitle">Cuéntanos tu vivienda y tus necesidades. Comparte un plano o referencias si las tienes.</p>
       </div>
 
-      <form class="contacto-form" id="contactoForm" action="https://api.web3forms.com/submit" method="POST">
+      <form class="contacto-form" id="contactoForm" action="https://api.web3forms.com/submit" method="POST" enctype="multipart/form-data">
         <input type="hidden" name="access_key" value="b08f8db9-03cc-4f84-99ed-2e651cddd7ee" />
-        <input type="hidden" name="subject" value="Nuevo presupuesto de hymobiliario.com" />
-        <input type="hidden" name="from_name" value="Hymuebles Web" />
-        <!-- Row 1: Nombre + Pais -->
+        <input type="hidden" name="subject" value="Nueva consulta de diseño residencial | hymobiliario.com" />
+        <input type="hidden" name="from_name" value="Hymobiliario Residential Web" />
+        <input type="hidden" name="lead_type" value="RESIDENTIAL_DESIGN_CONSULTATION" />
+        <input type="hidden" name="site_variant" value="hymobiliario_residential" />
+        <input type="hidden" name="source_path" value="/contacto/" />
+        <!-- Row 1: Nombre + ubicación -->
         <div class="cf-row">
           <div class="cf-group">
-            <label for="nombre">Nombre o empresa <span class="cf-required">*</span></label>
-            <input type="text" id="nombre" name="nombre" placeholder="Tu nombre o empresa" required />
+            <label for="nombre">Nombre <span class="cf-required">*</span></label>
+            <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" required />
           </div>
           <div class="cf-group">
             <label for="pais">País o ciudad del proyecto <span class="cf-required">*</span></label>
@@ -199,52 +202,85 @@
           </div>
         </div>
 
-        <!-- Sector chips -->
+        <!-- Perfil del cliente -->
         <div class="cf-group">
-          <label>Sector del proyecto <span class="cf-required">*</span></label>
+          <label>¿Cómo participas en el proyecto? <span class="cf-required">*</span></label>
           <div class="cf-sector-chips" id="sectorChips">
             <label class="cf-chip">
-              <input type="radio" name="sector" value="hoteles" required />
-              <span>hoteles</span>
+              <input type="radio" name="cliente_tipo" value="propietario" required />
+              <span>Propietario</span>
             </label>
             <label class="cf-chip">
-              <input type="radio" name="sector" value="oficinas" />
-              <span>oficinas</span>
+              <input type="radio" name="cliente_tipo" value="estudio-de-diseno" />
+              <span>Estudio de diseño</span>
             </label>
             <label class="cf-chip">
-              <input type="radio" name="sector" value="salud" />
-              <span>salud</span>
+              <input type="radio" name="cliente_tipo" value="arquitecto" />
+              <span>Arquitecto</span>
             </label>
             <label class="cf-chip">
-              <input type="radio" name="sector" value="educacion" />
-              <span>educación</span>
-            </label>
-            <label class="cf-chip">
-              <input type="radio" name="sector" value="residencial" />
-              <span>residencial</span>
-            </label>
-            <label class="cf-chip">
-              <input type="radio" name="sector" value="otro" />
-              <span>otro</span>
+              <input type="radio" name="cliente_tipo" value="otro" />
+              <span>Otro</span>
             </label>
           </div>
         </div>
 
+        <div class="cf-row">
+          <div class="cf-group">
+            <label for="vivienda">Tipo de vivienda <span class="cf-required">*</span></label>
+            <select id="vivienda" name="tipo_vivienda" required>
+              <option value="">Selecciona una opción</option>
+              <option>Villa o casa independiente</option>
+              <option>Penthouse</option>
+              <option>Apartamento</option>
+              <option>Casa de vacaciones</option>
+              <option>Otro</option>
+            </select>
+          </div>
+          <div class="cf-group">
+            <label for="etapa">Etapa del proyecto</label>
+            <select id="etapa" name="etapa_proyecto">
+              <option value="">Selecciona una opción</option>
+              <option>Buscando inspiración</option>
+              <option>Con planos o distribución</option>
+              <option>En reforma o construcción</option>
+              <option>Listo para definir mobiliario</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="cf-row">
+          <div class="cf-group">
+            <label for="espacios">Espacios a diseñar</label>
+            <input type="text" id="espacios" name="espacios" placeholder="Ej. salón, dormitorio, cocina" />
+          </div>
+          <div class="cf-group">
+            <label for="superficie">Superficie aproximada</label>
+            <input type="text" id="superficie" name="superficie" placeholder="Ej. 180 m²" />
+          </div>
+        </div>
+
+        <div class="cf-group">
+          <label for="plano">Plano, distribución o referencias visuales</label>
+          <input type="file" id="plano" name="attachment" accept="application/pdf,image/png,image/jpeg" />
+          <small>Un archivo PDF, JPG o PNG de hasta 5 MB. Para varios archivos, adjunta el más representativo y te indicaremos cómo compartir el resto.</small>
+        </div>
+
         <!-- Textarea -->
         <div class="cf-group">
-          <label for="detalle">Cuanto más detallas tu proyecto, más precisa será la cotización que te enviamos.</label>
-          <textarea id="detalle" name="detalle" rows="4" placeholder="Tipo de espacio, cantidad aproximada de muebles, plazos, materiales..."></textarea>
+          <label for="detalle">¿Qué necesitas para tu hogar?</label>
+          <textarea id="detalle" name="detalle" rows="4" placeholder="Estilo deseado, necesidades de cada espacio, fecha orientativa y cualquier detalle útil..."></textarea>
         </div>
 
         <!-- Privacy notice -->
         <div class="cf-privacy">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
-          <span>Tu información es confidencial y se usa exclusivamente para atender tu consulta.</span>
+          <label><input type="checkbox" name="privacy_consent" required /> Autorizo el uso de mis datos exclusivamente para atender esta consulta.</label>
         </div>
 
         <!-- Submit -->
         <button type="submit" class="cf-submit">
-          Enviar mi consulta de proyecto
+          Solicitar consulta de diseño
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </button>
       </form>
@@ -266,7 +302,7 @@
   <section class="section section-light contacto-showcase-section">
     <div class="container contacto-showcase-grid">
       <div class="contacto-showcase-img">
-        <img src="../images/productos/hotel/mobiliario-hotelero-lujo-lobby.webp" alt="Mobiliario hotelero de lujo fabricado por Hongye Furniture Group - muebles comerciales a medida" loading="lazy" width="700" height="500" />
+        <img src="../images/productos/residencial/salon-lujo-villa-moderno.webp" alt="Salón de villa con mobiliario residencial a medida de Hymobiliario" loading="lazy" width="700" height="500" />
       </div>
       <div class="contacto-showcase-map" id="contactoMap">
         <iframe
@@ -375,6 +411,16 @@
 
       try {
         const formData = new FormData(form);
+        const attachment = formData.get('attachment');
+        if (attachment instanceof File && attachment.size > 5 * 1024 * 1024) {
+          throw new Error('El archivo supera el límite de 5 MB.');
+        }
+        formData.set('source_url', window.location.href);
+        formData.set('referrer', document.referrer || 'direct');
+        ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach((key) => {
+          const value = new URLSearchParams(window.location.search).get(key);
+          if (value) formData.set(key, value);
+        });
         const res = await fetch(form.action, { method: 'POST', body: formData });
         const data = await res.json();
 
@@ -384,16 +430,17 @@
         } else {
           alert('Error al enviar. Por favor intente de nuevo o escríbanos directamente a ao@hysdfurniture.com');
           submitBtn.disabled = false;
-          submitBtn.innerHTML = 'Enviar mi consulta de proyecto<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
+          submitBtn.innerHTML = 'Solicitar consulta de diseño<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
         }
       } catch (err) {
-        alert('Error de conexión. Intente de nuevo o contáctenos por WhatsApp: +86 18038813653');
+        alert(err instanceof Error && err.message.includes('5 MB') ? err.message : 'Error de conexión. Intente de nuevo o contáctenos por WhatsApp: +86 18038813653');
         submitBtn.disabled = false;
-        submitBtn.innerHTML = 'Enviar mi consulta de proyecto<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
+        submitBtn.innerHTML = 'Solicitar consulta de diseño<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
       }
     });
 
     // Mobile menu toggle
+  </script>
   <script src="../mobile-nav.js"></script>
   <script>
     document.querySelectorAll('.lang-btn').forEach(btn => {
