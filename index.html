@@ -12,14 +12,14 @@
   <link rel="shortcut icon" href="/images/favicon.ico?v=2" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="canonical" href="https://www.hymobiliario.com/" />
+  <link rel="canonical" href="https://hymobiliario.com/" />
   <meta name="keywords" content="muebles a medida para villas, mobiliario residencial de lujo, interiorismo residencial, muebles para penthouse, diseño de interiores, Fenmi Casa" />
   <meta name="robots" content="index, follow" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Muebles a Medida para Villas y Residencias | Fenmi Casa" />
   <meta property="og:description" content="Fenmi Casa crea mobiliario residencial a medida para villas, penthouses y hogares premium." />
   <meta property="og:image" content="images/productos/residencial/salon-lujo-villa-moderno.webp" />
-  <meta property="og:url" content="https://www.hymobiliario.com/" />
+  <meta property="og:url" content="https://hymobiliario.com/" />
   <meta property="og:site_name" content="Fenmi Casa" />
   <meta property="og:locale" content="es_ES" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -64,6 +64,30 @@
 
 <!-- FENMI-FAQ-SCHEMA -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"\u00bfQu\u00e9 conviene compartir para iniciar una consulta?","acceptedAnswer":{"@type":"Answer","text":"Un plano o croquis con medidas, fotos del espacio y referencias de estilo ayudan a entender el proyecto. Si a\u00fan no los tienes, puedes indicar los ambientes que quieres resolver y tus prioridades."}},{"@type":"Question","name":"\u00bfPueden adaptar los muebles a mi distribuci\u00f3n?","acceptedAnswer":{"@type":"Answer","text":"La consulta sirve para revisar dimensiones, uso del espacio, materiales y acabados. La viabilidad de cada pieza se confirma despu\u00e9s de revisar la informaci\u00f3n del proyecto."}},{"@type":"Question","name":"\u00bfPuedo consultar por una sola estancia o por toda la vivienda?","acceptedAnswer":{"@type":"Answer","text":"S\u00ed. El alcance se define caso por caso: puede comenzar por un sal\u00f3n, dormitorio, vestidor o cocina, y ampliarse cuando el proyecto lo requiera."}},{"@type":"Question","name":"\u00bfC\u00f3mo se define la propuesta de materiales y acabados?","acceptedAnswer":{"@type":"Answer","text":"La propuesta se conversa a partir del uso del ambiente, el estilo buscado, las referencias visuales y el presupuesto orientativo. Antes de confirmar una pieza, se detallan las especificaciones aplicables al proyecto."}},{"@type":"Question","name":"\u00bfCu\u00e1ndo se confirman precio y plazo?","acceptedAnswer":{"@type":"Answer","text":"Se confirman una vez definido el alcance: piezas, medidas, materiales, acabados, cantidades y destino. No usamos plazos ni precios gen\u00e9ricos porque dependen de esa definici\u00f3n."}},{"@type":"Question","name":"\u00bfC\u00f3mo se planifica la entrega a mi pa\u00eds?","acceptedAnswer":{"@type":"Answer","text":"El embalaje, la ruta y la documentaci\u00f3n se revisan seg\u00fan las piezas y el destino. Confirma con el equipo las responsabilidades de transporte, importaci\u00f3n y cualquier gesti\u00f3n local antes de confirmar el pedido."}},{"@type":"Question","name":"\u00bfLa instalaci\u00f3n est\u00e1 incluida?","acceptedAnswer":{"@type":"Answer","text":"La instalaci\u00f3n, supervisi\u00f3n y servicios locales dependen del pa\u00eds, ciudad y alcance. Indica desde el inicio si necesitas considerar estos servicios para que se revise su viabilidad."}}]}</script>
+<!-- HY-ANALYTICS:BEGIN -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-56D2R6716K"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-56D2R6716K', { site: 'hymobiliario', content_group: 'residential', page_language: 'es' });
+(function(){
+  function ev(n, p) { try { gtag('event', n, Object.assign({ site: 'hymobiliario' }, p || {})); } catch (e) {} }
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (!a) return;
+    var h = a.getAttribute('href') || '';
+    if (h.indexOf('wa.me') > -1) ev('wa_click', { link_url: h });
+    else if (h.indexOf('t.me') > -1) ev('tg_click', { link_url: h });
+    else if (h.indexOf('mailto:') === 0) ev('email_click', { link_url: h });
+    else if (/(consulta|contacto|diseno|diseño|proyecto)/i.test(h)) ev('consult_click', { link_url: h });
+  }, true);
+  document.addEventListener('submit', function () {
+    ev('generate_lead', { lead_type: 'RESIDENTIAL_DESIGN_CONSULTATION', form_page: location.pathname });
+  }, true);
+})();
+</script>
+<!-- HY-ANALYTICS:END -->
 </head>
 <body>
 
