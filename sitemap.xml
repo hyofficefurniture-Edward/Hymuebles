@@ -1062,4 +1062,10 @@
 <url><loc>https://hymobiliario.com/proyectos/biblioteca/hos-019/</loc><lastmod>2026-10-13</lastmod></url>
 <url><loc>https://hymobiliario.com/proyectos/biblioteca/edu-011/</loc><lastmod>2026-10-13</lastmod></url>
 <url><loc>https://hymobiliario.com/proyectos/biblioteca/hlt-009/</loc><lastmod>2026-10-13</lastmod></url>
+  <url>
+    <loc>https://hymobiliario.com/recursos/blog/distribuir-comedor-villa-2026.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
