@@ -611,6 +611,66 @@
       "discussion": "Confirma planos, cantidades, dimensiones, acabados y responsabilidades de entrega. Esta referencia no establece precios, plazos ni especificaciones técnicas para otro pedido.",
       "evidenceGrade": "A",
       "updated": "2026-10-13"
+    },
+    {
+      "id": "off-015",
+      "title": "Walmart Costa Rica",
+      "source": "https://hymobiliario.com/proyectos/biblioteca/off-015/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Walmart-Costa-Rica-Office-Project-By-Hongye-Furniture-id45267106.html",
+      "summary": "Esta referencia de oficinas en Costa Rica combina puestos de trabajo y espacios para compartir ideas. Permite comparar el uso de áreas individuales y comunes antes de preparar una lista de mobiliario.",
+      "spaces": [
+        "Puestos de trabajo",
+        "Áreas de reunión informal",
+        "Comedor del personal"
+      ],
+      "questions": [
+        "Separa las cantidades de las zonas individuales y compartidas.",
+        "Marca las tomas de corriente y pasos de cable en el plano.",
+        "Define los asientos y recorridos de las zonas comunes."
+      ],
+      "language": "es",
+      "updated": "2026-10-21",
+      "visibility": "public"
+    },
+    {
+      "id": "off-001",
+      "title": "Ahmadi Services Group, Kuwait Oil Company",
+      "source": "https://hymobiliario.com/proyectos/biblioteca/off-001/",
+      "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
+      "summary": "La referencia de Kuwait reúne despachos privados, puestos de trabajo y espacios de reunión. Revisa la relación entre la distribución, el almacenaje y la atención a visitantes.",
+      "spaces": [
+        "Despachos privados",
+        "Puestos compartidos",
+        "Salas de reunión y formación"
+      ],
+      "questions": [
+        "Distingue los despachos y las áreas de trabajo en equipo.",
+        "Indica el almacenaje y los asientos de visita por estancia.",
+        "Confirma la distribución de las salas antes de seleccionar el mobiliario."
+      ],
+      "language": "es",
+      "updated": "2026-10-21",
+      "visibility": "public"
+    },
+    {
+      "id": "edu-001",
+      "title": "American University in Baghdad",
+      "source": "https://hymobiliario.com/proyectos/biblioteca/edu-001/",
+      "evidenceSource": "https://hyeducationfurniture.com/american-university-in-baghdad-education-project-by-hongye-furniture.html",
+      "summary": "La referencia universitaria en Irak relaciona los asientos del vestíbulo y la recepción con la circulación. La galería distingue el mobiliario del proyecto y la fabricación de componentes curvos.",
+      "spaces": [
+        "Asientos del vestíbulo",
+        "Recepción",
+        "Producción de componentes curvos"
+      ],
+      "questions": [
+        "Facilita planos y dimensiones de los asientos curvos.",
+        "Identifica los recorridos y espacios libres en recepción.",
+        "Revisa muestras y encuentros entre componentes antes del pedido."
+      ],
+      "language": "es",
+      "updated": "2026-10-21",
+      "visibility": "public"
     }
   ]
 }
