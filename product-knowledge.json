@@ -26,6 +26,122 @@
           "a": "Debe comprobarse el paso libre y las condiciones de la vivienda sobre el plano antes de confirmar la selección."
         }
       ]
+    },
+    {
+      "id": "TS004",
+      "sku": "TS004",
+      "title": "Mesa de té TS004",
+      "source": "https://hymobiliario.com/productos/mesa-de-te-ts004/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-de-te-ts004.jpg",
+      "dimensions_mm": {
+        "length": 2400,
+        "depth": 1100,
+        "height": 750
+      },
+      "summary": "Una mesa de té de 240 cm para estudiar una composición amplia. Antes de elegirla, relaciona la anchura de 110 cm con las sillas, el paso libre y la proporción de la estancia.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la TS004?",
+          "a": "La ficha del modelo indica 2400 mm de largo, 1100 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, hervidores, equipos de té, grifería y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation."
+    },
+    {
+      "id": "TS002",
+      "sku": "TS002",
+      "title": "Mesa de té TS002",
+      "source": "https://hymobiliario.com/productos/mesa-de-te-ts002/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-de-te-ts002.jpg",
+      "dimensions_mm": {
+        "length": 1615,
+        "depth": 750,
+        "height": 750
+      },
+      "summary": "La TS002 ofrece una configuración de 161,5 cm para un rincón de té residencial. Revisa cómo se sitúan los apoyos respecto a los asientos y qué recorrido queda alrededor de la mesa.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la TS002?",
+          "a": "La ficha del modelo indica 1615 mm de largo, 750 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, hervidores, equipos de té, grifería y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation."
+    },
+    {
+      "id": "TS009",
+      "sku": "TS009",
+      "title": "Mesa de té TS009",
+      "source": "https://hymobiliario.com/productos/mesa-de-te-ts009/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-de-te-ts009.jpg",
+      "dimensions_mm": {
+        "length": 2400,
+        "depth": 900,
+        "height": 750
+      },
+      "summary": "Una superficie alargada de 240 cm para conversar y compartir el té. Conviene definir la posición de los asientos, la circulación y los accesorios previstos antes de cerrar la composición.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la TS009?",
+          "a": "La ficha del modelo indica 2400 mm de largo, 900 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, hervidores, equipos de té, grifería y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation."
+    },
+    {
+      "id": "TS023",
+      "sku": "TS023",
+      "title": "Mesa de té TS023",
+      "source": "https://hymobiliario.com/productos/mesa-de-te-ts023/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-de-te-ts023.jpg",
+      "dimensions_mm": {
+        "length": 2200,
+        "depth": 850,
+        "height": 750
+      },
+      "summary": "La TS023 combina un largo de 220 cm y un fondo de 85 cm. Elige su ubicación a partir del plano y comprueba el espacio para sentarse y acceder a la superficie de apoyo.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la TS023?",
+          "a": "La ficha del modelo indica 2200 mm de largo, 850 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, hervidores, equipos de té, grifería y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation."
     }
   ]
 }
