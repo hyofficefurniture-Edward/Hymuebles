@@ -1,0 +1,31 @@
+{
+  "language": "es",
+  "updated": "2026-10-22",
+  "entries": [
+    {
+      "id": "ET201",
+      "sku": "ET201",
+      "title": "Consola de entrada ET201",
+      "source": "https://hymobiliario.com/productos/consola-entrada-et201/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/consola-entrada-et201.jpg",
+      "dimensions_mm": {
+        "length": 1600,
+        "depth": 400,
+        "height": 850
+      },
+      "summary": "La ET201 reúne una profundidad contenida y una altura de consola para accesos y pasillos residenciales. La viabilidad se revisa con las dimensiones reales, la circulación y los materiales existentes.",
+      "evidence": "Model, dimensions and image matched to manufacturer product documentation; commercial source documents remain private.",
+      "scope": "Product-reference image; not an installed client project. Materials and finishes confirmed for each order.",
+      "questions": [
+        {
+          "q": "¿Cuál es la profundidad documentada?",
+          "a": "La fuente registra 400 mm de profundidad dentro de una medida total de 1600 × 400 × 850H mm."
+        },
+        {
+          "q": "¿Puedo usarla en un pasillo?",
+          "a": "Debe comprobarse el paso libre y las condiciones de la vivienda sobre el plano antes de confirmar la selección."
+        }
+      ]
+    }
+  ]
+}
