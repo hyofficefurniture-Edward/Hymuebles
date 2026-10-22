@@ -307,6 +307,170 @@
         1500,
         1800
       ]
+    },
+    {
+      "id": "T097",
+      "sku": "T097",
+      "title": "Mesa de comedor redonda T097",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t097/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t097.jpg",
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T097 propone una composición de comedor con base central y diámetros de 1500 o 1800 mm. Ambos formatos tienen 750 mm de alto; comprueba la huella de las sillas y el paso libre alrededor del tablero.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T097?",
+          "a": "La ficha del modelo indica 1500 mm de largo, 1500 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1500,
+        1800
+      ]
+    },
+    {
+      "id": "T148",
+      "sku": "T148",
+      "title": "Mesa de comedor redonda T148",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t148/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t148.jpg",
+      "dimensions_mm": {
+        "length": 1350,
+        "depth": 1350,
+        "height": 750
+      },
+      "summary": "La T148 dispone de dos diámetros documentados: 1350 y 1500 mm, a 750 mm de alto. Su selección parte del plano del comedor y de la relación entre la base central y la posición de los asientos.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T148?",
+          "a": "La ficha del modelo indica 1350 mm de largo, 1350 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1350,
+        1500
+      ]
+    },
+    {
+      "id": "T169",
+      "sku": "T169",
+      "title": "Mesa de comedor redonda T169",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t169/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t169.jpg",
+      "dimensions_mm": {
+        "length": 1350,
+        "depth": 1350,
+        "height": 750
+      },
+      "summary": "La T169 permite comparar diámetros de 1350 y 1500 mm para una misma altura de 750 mm. Revisa el espacio de servicio y las distancias a los muebles de apoyo antes de definir la configuración.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T169?",
+          "a": "La ficha del modelo indica 1350 mm de largo, 1350 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1350,
+        1500
+      ]
+    },
+    {
+      "id": "T214",
+      "sku": "T214",
+      "title": "Mesa de comedor redonda T214",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t214/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t214.jpg",
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T214 está documentada con un diámetro de 1500 mm y altura de 750 mm. Coordina su posición con las sillas y la iluminación del comedor; confirma por separado cualquier complemento mostrado en la imagen.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T214?",
+          "a": "La ficha del modelo indica 1500 mm de largo, 1500 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1500
+      ]
+    },
+    {
+      "id": "T199",
+      "sku": "T199",
+      "title": "Mesa de comedor redonda T199",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t199/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t199.jpg",
+      "dimensions_mm": {
+        "length": 1350,
+        "depth": 1350,
+        "height": 750
+      },
+      "summary": "La T199 ofrece una referencia de base central blanca para el comedor. La ficha documenta diámetros de 1350 y 1500 mm y altura de 750 mm; el tono, la piedra y su veta requieren selección para el proyecto.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T199?",
+          "a": "La ficha del modelo indica 1350 mm de largo, 1350 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1350,
+        1500
+      ]
     }
   ]
 }
