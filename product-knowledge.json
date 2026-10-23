@@ -471,6 +471,72 @@
         1350,
         1500
       ]
+    },
+    {
+      "id": "T002",
+      "sku": "T002",
+      "title": "Mesa de comedor redonda T002",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t002/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t002.jpg",
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T002 permite comparar diámetros de 1500 y 1600 mm con una altura documentada de 750 mm. Sitúa las sillas y los recorridos sobre el plano antes de confirmar la composición.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T002?",
+          "a": "La ficha del modelo indica 1500 mm de largo, 1500 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1500,
+        1600
+      ]
+    },
+    {
+      "id": "T025",
+      "sku": "T025",
+      "title": "Mesa de comedor redonda T025",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t025/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t025.jpg",
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T025 reúne formatos documentados de 1500 y 1800 mm a 750 mm de alto. Comprueba la relación entre el diámetro, el número de plazas y los pasos libres antes de seleccionar el modelo.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T025?",
+          "a": "La ficha del modelo indica 1500 mm de largo, 1500 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        1500,
+        1800
+      ]
     }
   ]
 }
