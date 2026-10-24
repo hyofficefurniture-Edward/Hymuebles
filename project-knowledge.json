@@ -671,6 +671,25 @@
       "language": "es",
       "updated": "2026-10-21",
       "visibility": "public"
+    },
+    {
+      "id": "hos-008",
+      "title": "Holiday Inn Fairview Heights",
+      "source": "https://hymobiliario.com/proyectos/biblioteca/hos-008/",
+      "evidenceSource": "https://www.hyhotelfurniture.com/holiday-inn-fairview-heights-hospitality-project-solution-by-hongye-furniture.html",
+      "summary": "Holiday Inn Fairview Heights, en Estados Unidos, aparece en la documentación hotelera del grupo. La fuente distingue habitaciones y zonas comunes, con mobiliario para descansar, trabajar, sentarse y organizar pertenencias. En Fenmi Casa se presenta como referencia comercial del grupo: no se trata de una entrega residencial ni de una ficha que determine las especificaciones de otra compra.",
+      "documentedSpaces": [
+        "Guestrooms",
+        "Public-area seating"
+      ],
+      "procurementAdvice": [
+        "Esta referencia sirve para explicar una capacidad del grupo en mobiliario comercial. Si tu consulta es residencial, aporta el plano de tu vivienda y una lista de las piezas que necesitas; no traslades automáticamente una solución hotelera al dormitorio de casa. Separa muebles fijos, piezas móviles y accesorios para que la selección responda a tu espacio.",
+        "Marca las tomas de corriente, la iluminación, los encuentros con la pared y el acceso para introducir los muebles. Revisa muestras, tonos y acabados antes de definir el conjunto. Son recomendaciones para preparar una nueva consulta, no afirmaciones sobre un procedimiento de instalación o aprobación del proyecto original."
+      ],
+      "language": "es",
+      "updated": "2026-10-25",
+      "visibility": "public",
+      "publicLevel": "L3"
     }
   ]
 }
