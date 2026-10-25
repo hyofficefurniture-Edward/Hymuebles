@@ -636,6 +636,25 @@
         "2400 × 1100 × 750",
         "2800 × 1100 × 750"
       ]
+    },
+    {
+      "id": "T172",
+      "sku": "T172",
+      "title": "Mesa de comedor redonda T172",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t172/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t172.jpg",
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "diameter_options_mm": [
+        1500,
+        1800,
+        2000
+      ],
+      "summary": "Mesa redonda T172 con diámetros documentados de 1500, 1800 y 2000 mm, altura de 750 mm. Compara el espacio, los asientos y el acabado antes de elegir.",
+      "scope": "Manufacturer model reference; final materials, accessories and order scope require confirmation."
     }
   ]
 }
