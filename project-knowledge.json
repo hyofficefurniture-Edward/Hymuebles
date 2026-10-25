@@ -490,10 +490,19 @@
       "sector": "hospitality",
       "language": "es",
       "source": "https://hymobiliario.com/proyectos/biblioteca/hos-003/",
-      "summary": "Selección de mobiliario para un proyecto del grupo; el país y el sector corresponden a la referencia original.",
+      "summary": "La presentación del grupo sitúa Elaf Hotel en Jeddah, Arabia Saudita, y describe vestíbulos, suites, restaurante, zonas de masaje y reunión. En Fenmi Casa se conserva como referencia comercial del grupo, no como entrega residencial ni como promesa de un servicio local.",
       "discussion": "Confirma planos, cantidades, dimensiones, acabados y responsabilidades de entrega. Esta referencia no establece precios, plazos ni especificaciones técnicas para otro pedido.",
       "evidenceGrade": "A",
-      "updated": "2026-10-13"
+      "updated": "2026-10-26",
+      "evidenceSource": "https://www.hyhotelfurniture.com/testimonials.html",
+      "procurementAdvice": [
+        "La documentación pública permite distinguir habitaciones y espacios compartidos. Esta separación ayuda a explicar por qué no basta con elegir muebles por apariencia: cada zona necesita una lista propia. La fuente se utiliza para identificar el proyecto y sus espacios, sin generalizar cantidades, plazos ni certificaciones.",
+        "Si te interesa la coordinación visual de una suite, toma como referencia la relación entre cama, almacenaje y asientos. Después compárala con el plano de tu vivienda. No traslades automáticamente una distribución hotelera al hogar ni supongas que todos los accesorios de una fotografía están incluidos.",
+        "Anota puertas, recorridos y posiciones de electricidad o iluminación antes de escoger piezas. Separa muebles fijos y móviles, indica cantidades y solicita la confirmación de materiales y acabados mediante muestras. Estos son consejos para un nuevo pedido, no procedimientos atribuidos al proyecto original.",
+        "Fenmi Casa mantiene el enfoque residencial de este sitio. Para un proyecto de hotel, consulta el catálogo comercial del grupo; para una vivienda, envía el plano y las piezas que necesitas. Una referencia publicada no sustituye la ficha técnica ni las responsabilidades de transporte o instalación acordadas para tu proyecto."
+      ],
+      "factAdviceSeparation": true,
+      "scope": "Group commercial reference; not a residential delivery"
     },
     {
       "id": "hos-012",
@@ -637,7 +646,7 @@
       "title": "Ahmadi Services Group, Kuwait Oil Company",
       "source": "https://hymobiliario.com/proyectos/biblioteca/off-001/",
       "evidenceSource": "https://www.hyofficefurniture.com/Ahmadi-Services-Group-Kuwait-Oil-Company-Office-Project-By-Hongye-Furniture-id40818596.html",
-      "summary": "La referencia de Kuwait reúne despachos privados, puestos de trabajo y espacios de reunión. Revisa la relación entre la distribución, el almacenaje y la atención a visitantes.",
+      "summary": "La documentación del proyecto Ahmadi Services Group en Kuwait distingue despachos, áreas de lectura, puestos de trabajo y espacios de reunión y formación. Aquí se presenta como referencia comercial del grupo; Fenmi Casa no la clasifica como proyecto residencial.",
       "spaces": [
         "Despachos privados",
         "Puestos compartidos",
@@ -649,8 +658,16 @@
         "Confirma la distribución de las salas antes de seleccionar el mobiliario."
       ],
       "language": "es",
-      "updated": "2026-10-21",
-      "visibility": "public"
+      "updated": "2026-10-26",
+      "visibility": "public",
+      "procurementAdvice": [
+        "La fuente organiza varias zonas de trabajo, en lugar de presentar todo el edificio como un único conjunto de escritorios. Esa distinción sirve para comprender cómo el uso de cada espacio condiciona el mobiliario. No se trasladan las cantidades o prestaciones de los artículos descritos a un pedido diferente.",
+        "Para una vivienda, empieza por el uso real del escritorio, la ubicación del ordenador y el almacenaje necesario. Una oficina corporativa puede inspirar una organización, pero sus medidas, accesos y número de usuarios no sustituyen el plano de tu habitación ni prueban que un modelo concreto sea adecuado.",
+        "Mide el paso detrás de las sillas y la apertura de los muebles de almacenaje. Señala las tomas de corriente y datos, la iluminación y las necesidades de acceso a cables. Son puntos de preparación para tu nuevo espacio; las fotografías no aportan las dimensiones ocultas necesarias para reproducir los muebles originales.",
+        "Para amueblamiento de oficinas, el enlace del grupo conduce al catálogo comercial. Para un estudio doméstico, la consulta Fenmi Casa se prepara con plano, cantidad y estilo de uso. Las características ergonómicas, acústicas o de carga requieren datos del producto elegido: no se deducen de este caso corporativo."
+      ],
+      "factAdviceSeparation": true,
+      "scope": "Group commercial reference; not a residential delivery"
     },
     {
       "id": "edu-001",
