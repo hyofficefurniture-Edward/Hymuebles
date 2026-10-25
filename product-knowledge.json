@@ -537,6 +537,105 @@
         1500,
         1800
       ]
+    },
+    {
+      "id": "T024",
+      "sku": "T024",
+      "title": "Mesa de comedor larga T024",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-larga-t024/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-larga-t024.jpg",
+      "dimensions_mm": {
+        "length": 2200,
+        "depth": 1000,
+        "height": 750
+      },
+      "summary": "La T024 está documentada en 2200 × 1000 × 750 mm y 2600 × 1200 × 750 mm. Revisa la longitud respecto a las sillas, las puertas y el paso libre antes de elegir la configuración.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T024?",
+          "a": "La ficha del modelo indica 2200 mm de largo, 1000 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        "2200 × 1000 × 750",
+        "2600 × 1200 × 750"
+      ]
+    },
+    {
+      "id": "T109",
+      "sku": "T109",
+      "title": "Mesa de comedor larga T109",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-larga-t109/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-larga-t109.jpg",
+      "dimensions_mm": {
+        "length": 1800,
+        "depth": 900,
+        "height": 750
+      },
+      "summary": "La T109 ofrece configuraciones documentadas de 1800 × 900 × 750 mm y 2000 × 1000 × 750 mm. Sitúa la mesa en el plano para comprobar el espacio de servicio y la proporción del comedor.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T109?",
+          "a": "La ficha del modelo indica 1800 mm de largo, 900 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        "1800 × 900 × 750",
+        "2000 × 1000 × 750"
+      ]
+    },
+    {
+      "id": "T019",
+      "sku": "T019",
+      "title": "Mesa de comedor larga T019",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-larga-t019/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-larga-t019.jpg",
+      "dimensions_mm": {
+        "length": 2400,
+        "depth": 1100,
+        "height": 750
+      },
+      "summary": "La T019 está documentada en 2400 × 1100 × 750 mm y 2800 × 1100 × 750 mm. Define la configuración junto con la distribución de asientos y los recorridos de la estancia.",
+      "questions": [
+        {
+          "q": "¿Qué medidas están documentadas para la T019?",
+          "a": "La ficha del modelo indica 2400 mm de largo, 1100 mm de fondo y 750 mm de alto. Confirma el encaje de esta configuración con el plano antes de formalizar el pedido."
+        },
+        {
+          "q": "¿La imagen incluye todos los accesorios?",
+          "a": "La imagen es una referencia del modelo. Sillas, vajilla, centros de mesa y otros accesorios no se incluyen por aparecer en la fotografía. Su alcance se define por separado."
+        },
+        {
+          "q": "¿Cómo se confirma la piedra y el acabado?",
+          "a": "La selección de piedra natural, veta, tono y acabado se revisa con referencias y muestras para el proyecto. No se deduce una especificación definitiva de una imagen."
+        }
+      ],
+      "scope": "Model reference image; accessories are confirmed separately.",
+      "evidence": "Model, image and dimensions visually matched to manufacturer documentation.",
+      "diameter_options_mm": [
+        "2400 × 1100 × 750",
+        "2800 × 1100 × 750"
+      ]
     }
   ]
 }
