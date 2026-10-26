@@ -1050,6 +1050,98 @@
       },
       "summary": "La variante T096-1 figura con 1350 mm de diámetro y 750 mm de altura. Esta ficha corresponde a esa variante concreta; otras medidas del mismo conjunto no se presuponen incluidas y deben identificarse por su referencia antes de comparar el pedido.",
       "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T074",
+      "sku": "T074",
+      "title": "Mesa de comedor redonda T074",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t074/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t074.jpg",
+      "diameter_options_mm": [
+        1500,
+        1800
+      ],
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T074 permite comparar diámetros de 1500 y 1800 mm, con altura de 750 mm. Su base visible exige situar las sillas en el plano y revisar el espacio de las piernas; el material y el acabado se confirman con la muestra del pedido.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T032",
+      "sku": "T032",
+      "title": "Mesa de comedor redonda T032",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t032/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t032.jpg",
+      "diameter_options_mm": [
+        1400,
+        1600,
+        1800
+      ],
+      "dimensions_mm": {
+        "length": 1400,
+        "depth": 1400,
+        "height": 750
+      },
+      "summary": "La T032 reúne tres diámetros documentados de 1400, 1600 y 1800 mm a 750 mm de altura. Compara la composición de apoyos verticales con el lugar de cada asiento y las rutas de paso antes de elegir el formato.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T092",
+      "sku": "T092",
+      "title": "Mesa de comedor redonda T092",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t092/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t092.jpg",
+      "diameter_options_mm": [
+        1350,
+        1600
+      ],
+      "dimensions_mm": {
+        "length": 1350,
+        "depth": 1350,
+        "height": 750
+      },
+      "summary": "La T092 ofrece diámetros de 1350 y 1600 mm y altura de 750 mm. La fotografía original muestra apoyos inclinados bajo el tablero; revisa su relación con las sillas y confirma por separado el acabado y los accesorios.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T012",
+      "sku": "T012",
+      "title": "Mesa de comedor redonda T012",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t012/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t012.jpg",
+      "diameter_options_mm": [
+        1400,
+        1600
+      ],
+      "dimensions_mm": {
+        "length": 1400,
+        "depth": 1400,
+        "height": 750
+      },
+      "summary": "La T012 está documentada con diámetros de 1400 y 1600 mm y altura de 750 mm. Su conjunto de apoyos permite comparar la distribución de los asientos; comprueba el paso libre y la proporción de la mesa respecto al comedor.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T130",
+      "sku": "T130",
+      "title": "Mesa de comedor redonda T130",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t130/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t130.jpg",
+      "diameter_options_mm": [
+        1500,
+        1600,
+        1800
+      ],
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T130 presenta diámetros de 1500, 1600 y 1800 mm, todos a 750 mm de altura. La imagen ayuda a estudiar el contorno de la base y la posición de los asientos; un aspecto brillante no confirma por sí solo la composición del material.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
     }
   ]
 }
