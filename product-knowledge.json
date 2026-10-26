@@ -910,6 +910,76 @@
       },
       "summary": "La T016 ofrece dos diámetros, 1350 y 1500 mm, con altura de 750 mm. Su imagen original acompaña una selección que debe contrastarse con las medidas de las sillas, el recorrido de acceso y el plano del comedor.",
       "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T050",
+      "sku": "T050",
+      "title": "Mesa de comedor redonda T050",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t050/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t050.jpg",
+      "diameter_options_mm": [
+        1350,
+        1500
+      ],
+      "dimensions_mm": {
+        "length": 1350,
+        "depth": 1350,
+        "height": 750
+      },
+      "summary": "La T050 combina un tablero redondo con un apoyo central de contorno continuo. Sus diámetros documentados de 1350 y 1500 mm, a 750 mm de altura, permiten comparar el espacio de las sillas sin confundir el acabado de referencia con el material definitivo.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T136",
+      "sku": "T136",
+      "title": "Mesa de comedor redonda T136",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t136/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t136.jpg",
+      "diameter_options_mm": [
+        1500,
+        1800
+      ],
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T136 presenta un tablero circular y una base de varios apoyos. Compara sus diámetros de 1500 y 1800 mm y altura de 750 mm con la posición de cada silla; confirma aparte el acabado, el tablero y cualquier accesorio.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T158",
+      "sku": "T158",
+      "title": "Mesa de comedor redonda T158",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t158/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t158.jpg",
+      "diameter_options_mm": [
+        1500
+      ],
+      "dimensions_mm": {
+        "length": 1500,
+        "depth": 1500,
+        "height": 750
+      },
+      "summary": "La T158 está documentada con un tablero de 1500 mm de diámetro y 750 mm de altura. Revisa la composición de la base y el espacio para retirar las sillas; los elementos decorativos de la imagen no definen el suministro.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
+    },
+    {
+      "id": "T200",
+      "sku": "T200",
+      "title": "Mesa de comedor redonda T200",
+      "source": "https://hymobiliario.com/productos/mesa-comedor-redonda-t200/",
+      "image": "https://hymobiliario.com/images/productos/fenmi/mesa-comedor-redonda-t200.jpg",
+      "diameter_options_mm": [
+        1350
+      ],
+      "dimensions_mm": {
+        "length": 1350,
+        "depth": 1350,
+        "height": 750
+      },
+      "summary": "La T200 ofrece una referencia circular de 1350 mm de diámetro y 750 mm de altura. Su apoyo central permite estudiar la distribución del comedor en plano; confirma material, acabado y accesorios mediante la ficha del pedido.",
+      "scope": "Original model photograph; final material, accessories and order scope require confirmation."
     }
   ]
 }
