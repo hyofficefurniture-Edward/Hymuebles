@@ -3,16 +3,46 @@
   "entries": [
     {
       "id": "off-010",
-      "title": "One-Stop Office Furniture Solution in Trinidad and Tobago",
+      "title": "Trinidad y Tobago: referencia de oficina del grupo",
       "country": "Trinidad and Tobago",
       "region": "caribbean",
       "sector": "office",
       "language": "es",
       "source": "https://hymobiliario.com/proyectos/biblioteca/off-010/",
-      "summary": "Selección de mobiliario para un proyecto del grupo; el país y el sector corresponden a la referencia original.",
-      "discussion": "Confirma planos, cantidades, dimensiones, acabados y responsabilidades de entrega. Esta referencia no establece precios, plazos ni especificaciones técnicas para otro pedido.",
+      "summary": "Proyecto de oficina de Hongye Furniture Group en Trinidad y Tobago, presentado como referencia comercial del grupo. Su documentación permite estudiar recepción, trabajo compartido, dirección y reuniones; no constituye una entrega residencial de Fenmi Casa.",
+      "discussion": "La oficina abierta y el despacho de dirección de la fuente sirven para discutir tareas, guardado y conexiones. Para un estudio doméstico, define primero equipo, tiempo de uso, acceso a enchufes y espacio detrás de la silla. Pide un dibujo de la pieza seleccionada y una muestra del acabado. La imagen de otro proyecto no verifica aislamiento acústico, ergonomía certificada ni compatibilidad eléctrica.",
       "evidenceGrade": "A",
-      "updated": "2026-10-13"
+      "updated": "2026-10-30",
+      "procurementSections": [
+        [
+          "Qué documenta esta referencia del Caribe",
+          "La fuente del grupo presenta un proyecto de oficina que reúne recepción, puestos abiertos, despacho de dirección, sala de juntas y descanso. Aquí se conserva su país y su uso comercial. La relación con Fenmi Casa es la experiencia del grupo en coordinación de espacios; no se atribuyen a esta referencia villas, apartamentos ni modelos residenciales."
+        ],
+        [
+          "Recepción y circulación: una conversación útil para otro proyecto",
+          "En una nueva compra, separa mostrador, asientos de espera y paso de visitantes. Contrasta el recorrido y las aperturas de puertas con un plano acotado. Para una entrada de vivienda, revisa el banco, el almacenaje y la mesa auxiliar según ese uso específico; no traslades automáticamente medidas o prestaciones de una recepción corporativa."
+        ],
+        [
+          "Trabajo compartido y un despacho en casa",
+          "La oficina abierta y el despacho de dirección de la fuente sirven para discutir tareas, guardado y conexiones. Para un estudio doméstico, define primero equipo, tiempo de uso, acceso a enchufes y espacio detrás de la silla. Pide un dibujo de la pieza seleccionada y una muestra del acabado. La imagen de otro proyecto no verifica aislamiento acústico, ergonomía certificada ni compatibilidad eléctrica."
+        ],
+        [
+          "Reuniones, acabados y alcance de un nuevo pedido",
+          "La sala de juntas muestra una composición de mesa y asientos. Antes de presupuestar otro espacio, confirma número previsto de usuarios, medidas del local, accesos de montaje y puntos de conexión. En una vivienda, una mesa de comedor responde a otro programa: su altura, limpieza y combinación con sillas deben revisarse por separado. Define embalaje, transporte y montaje por escrito, sin asumir servicio o existencias locales."
+        ]
+      ],
+      "questions": [
+        {
+          "q": "¿Es un proyecto residencial de Fenmi Casa?",
+          "a": "No. Es un proyecto de oficina del grupo en Trinidad y Tobago. Se publica como experiencia comercial, manteniendo el sector original y sin atribuir una entrega residencial."
+        },
+        {
+          "q": "¿Puedo pedir las mismas medidas y materiales para mi vivienda?",
+          "a": "Las dimensiones, acabados, cantidades y prestaciones se confirman para la pieza y el espacio elegidos. Envía planos medidos y el uso previsto; esta referencia no sustituye una ficha técnica ni demuestra disponibilidad local."
+        }
+      ],
+      "imageClassification": "Design representations; commercial group reference, not a residential delivery",
+      "primarySource": "https://www.hyofficefurniture.com/one-stop-office-furniture-solution-in-trinidad-and-tobago-hongye-furniture-group.html"
     },
     {
       "id": "off-012",
