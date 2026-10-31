@@ -1583,3 +1583,6 @@
   .fab-certs-grid { grid-template-columns: 1fr; }
   .fab-custom-overlay-label { font-size: 11px; padding: 6px 14px; }
 }
+
+/* Keep project-library headings clear of the fixed production navigation. */
+main > .project-library { padding-top: calc(var(--navbar-h, 80px) + 32px); }
